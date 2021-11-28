@@ -1,0 +1,14 @@
+Creatine kinase MB is gold standard
+Because it falls at the end of the third day and if there are reinfarctions, it will rise again as opposed to troponin which will continue to remain detectable until 6-7 days.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-04 00:42:09 +0000
+lastModified: 2012-09-04 04:29:39 +0000
+tags: Dx, CKMB, CardiacMarkers, CVS,
+Links:
+wiki: Troponin_test
+wiki: CPK-MB_test
+wiki: Creatine_kinase
+---------------------------/>

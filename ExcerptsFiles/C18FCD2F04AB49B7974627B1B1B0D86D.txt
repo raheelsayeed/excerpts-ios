@@ -1,0 +1,22 @@
+Diabetic Ketoacidosis
+
+Lack of insulin causes liver glucagon to raise Glucose levels by
+1. Glycogenolysis
+1. Gluconeogenesis
+
+Lack of the available Glucose for tissues (insulin is the transporter) causes lipolysis, that increase ketone bodies causing Ketoacidosis
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-04-06 20:57:52 +0000
+lastModified: 2013-04-07 02:02:03 +0000
+tags: Endocrine, diabetes,
+Links:
+ytube: hM6a5VW09vo
+wiki: Ketoacidosis
+wiki: Ketone_bodies
+wiki: Diabetic_ketoacidosis
+ytube: -movg3ubceA
+wiki: Kussmaul_breathing
+---------------------------/>

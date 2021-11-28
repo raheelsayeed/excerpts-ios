@@ -1,0 +1,26 @@
+Ventricular septal defect
+LV is stronger than RV, so, defect leads to Left to right shunt
+Oxygenated blood goes into deoxygenated,
+Oxygen saturation step up, and pulmonary trunk step up
+
+Uncorrected leads to pulmonary hypertension, finally RV gets hypertrophied which may reverse the shunt - showing signs of cyanosis. - eisenmenger syndrome.
+
+2nd most common congenital heart defect.
+Most common opinion bicuspid aortic valve
+
+Pan systolic or holosystolic murmur
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-03 00:54:55 +0000
+lastModified: 2012-09-08 13:51:40 +0000
+tags: CongenitalHD, murmurs, pathology, CVS, MostCommon,
+Links:
+wiki: Eisenmenger's_syndrome
+wiki: Heart_septal_defect
+ytube: JdQMDQ4f-OQ
+wiki: Ventricular_septal_defect
+ytube: 7oKz6J0Ay_I
+wiki: Congenital_heart_defect
+---------------------------/>

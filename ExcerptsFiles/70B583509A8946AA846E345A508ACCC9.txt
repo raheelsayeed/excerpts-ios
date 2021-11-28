@@ -1,0 +1,33 @@
+Jones Criteria
+JONES PEACE:
+· Major criteria:
+Joints: migratory polyarthritis
+O (heart shaped) Carditis: new onset murmur
+Nodules, subcutaneous: extensor surfaces
+Erythema marginatum
+Sydenham's chorea (late)
+· Minor criteria:
+PR interval, prolonged
+ESR elevated
+Arthralgias
+CRP elevated
+Elevated temperature (fever)
+· Need 2 major or 1 major and 2 minor criteria, plus evidence of recent GAS infection (throat cx, rapid antigen test, or rising strep antibody titer).
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-04 05:11:24 +0000
+lastModified: 2012-09-04 06:06:31 +0000
+tags: mnemonic, CVS, pathology,
+Links:
+wiki: Chorea
+wiki: Carditis
+wiki: Rheumatoid_nodule
+wiki: Polyarthritis
+wiki: Rheumatic_fever
+wiki: Sydenham's_chorea
+ytube: Ii58hgnRtmw
+wiki: Erythema_marginatum
+wiki: Aschoff_body
+---------------------------/>

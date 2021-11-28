@@ -1,0 +1,38 @@
+Class III antiArrhythmic
+Blocks voltage gated K+ channel blockers.
+Effect:
+- dec Ik slowing phase 3 (efflux of potassium)
+- inc APD, inc ERP
+
+Eg. Amiodarone: mimics I, II, III, IV.
+Increased volume of distribution
+Increased protein binding, tissue protein binding.
+
+Major Disadvantage is t half of more than 80 days. Slow elimination.
+Hapten activity: causes pulmonary fibrosis (like bleomycin) resulting in restrictive pulmonary disease.
+Thyroid dysfunction
+Hepatic necrosis
+Corneal deposits
+
+Smurf skin, blue pigmentation of skin.
+
+Other class III Sotalol, k and beta blocker for life threatening ventricular Arrhythmias
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-11 07:54:34 +0000
+lastModified: 2012-09-11 08:46:07 +0000
+tags: drug, Eponym, Pharmacology, CVS, Arrhythmia,
+Links:
+ytube: WQfu3WqZvzI
+wiki: Potassium_channel_blocker
+ytube: UqxzSrjzJ70
+wiki: Hapten
+ytube: nfyb7G_4HQ0
+wiki: Antiarrhythmic_agent
+wiki: Amiodarone
+wiki: Drug-induced_autoimmune_hemolytic_anemia
+ytube: 6MPT25nSW1Y
+wiki: Sotalol
+---------------------------/>

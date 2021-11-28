@@ -1,0 +1,13 @@
+SEVER ALLERGY TO SULFER CONTAINING DRUG, THEN OTHER DRUGS ALSO POSSIBLE TO CAUSE ALLERGY
+
+THIO,THIA, SULFA: INDICATES SULPHER CONTAINING, ALL CA INHIBITORS, ALL LOOP DIURETICS (EXCEPT ETHACRYNIC ACID)
+- CELECOXIB
+- SULFA ANTIBIOTICS
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-14 02:11:14 +0000
+lastModified: 2013-06-14 02:13:01 +0000
+tags: drug, Kidney, Diuresis, Pharmacology, UrinarySystem,
+---------------------------/>

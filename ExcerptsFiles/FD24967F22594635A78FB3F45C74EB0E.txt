@@ -1,0 +1,41 @@
+Quinidine
+Class Ia antiArrhythmic
+Na Ch block
+- blocks Open or Active state, M and H gate open
+- dec I.na
+- Inc APD
+- Inc ERP
+- also blocks K+ channel
+
+QUINIDINE
+- M receptor blockade
+- alpha receptor block (lowers BP)
+
+Use:
+1. atrial fibrillation
+However, would require digitalization.
+Buzz: Chinchonism
+Rorsade: GI dysfunction, ocular damage, hypotension.
+
+Torsades: prolongation of qrs complex and QT interval
+
+Adverse: 
+Hyper kalemia
+Digoxincv
+
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-10 17:59:06 +0000
+lastModified: 2012-09-11 06:23:28 +0000
+tags: drug, Pharmacology, CVS, Arrhythmia,
+Links:
+wiki: Torsades_de_pointes
+ytube: H0RgmEaKskM
+wiki: Atrial_fibrillation
+wiki: Quinidine
+wiki: Antiarrhythmic_agent
+wiki: Cinchonism
+---------------------------/>

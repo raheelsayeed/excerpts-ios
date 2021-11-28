@@ -1,0 +1,20 @@
+TB: antibiotics used
+STRIPE:
+STreptomycin
+Rifampicin
+Isoniazid
+Pyrizinamide
+Ethambutol
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-01-29 05:25:03 +0000
+lastModified: 2014-01-29 05:25:03 +0000
+tags: mnemonic, RespiratorySystem, drug, Pharmacology, tuberculosis,
+Links:
+wiki: Tuberculosis management
+wiki: Multi-drug-resistant tuberculosis
+ytube: gmyBkvAlCgI
+wiki: Extensively drug-resistant tuberculosis
+---------------------------/>

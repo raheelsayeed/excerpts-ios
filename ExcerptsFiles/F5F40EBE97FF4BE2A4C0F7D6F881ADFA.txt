@@ -1,0 +1,35 @@
+Angiotensin Receptor blockers
+Blocks action of Angiotensin II by binding on AT-1 receptors
+Same action as ACEI except no interference in bradykinin degradation. No symptoms of inflammation.
+Dec aldosterone
+Vasodilation (AT-1 receptors on BV cause vasoconstriction on stimulation)
+
+Uses:
+1. Mild to moderate HTN
+2. Beneficial for patients with diabetic Nephropathy (ARBs and ACEI improve renal blood supply), dilation of Afferent arteriol.
+3. Prevent remodeling in CHF
+
+SE:
+1. Hyperkalemia
+2. Dry cough (bradykinin -> limitions)
+3. Acute Renal failure
+4. Angiogram
+
+Renin
+Angiotension II renin -> Angiotensin II constricts efferent arterioles ,   P-glomerular capillary increases, increased GFR filtration.
+If renin is blocked then no sufficient filtration
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-16 13:08:21 +0000
+lastModified: 2013-08-27 02:16:03 +0000
+tags: drug, hypertension, Kidney, CVS, Pharmacology, UrinarySystem,
+Links:
+wiki: Angiotensin_II_receptor_type_1
+wiki: Renin
+wiki: Angiotensin_II_receptor_type_2
+wiki: Angiotensin_receptor
+wiki: Valsartan
+wiki: Angiotensin_II_receptor_antagonist
+---------------------------/>

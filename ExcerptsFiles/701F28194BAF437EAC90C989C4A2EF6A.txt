@@ -1,0 +1,18 @@
+Mixed Metabolic & Respiratory Imbalance
+- ^PCO2 : .HCO3
+  Mixed Acidosis
+
+- .PCO2 : ^HCO3
+  Mixed Alkalosis
+
+The point is that CO2 and HCO3 go in the opposite direction.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-30 14:49:06 +0000
+lastModified: 2013-06-30 15:09:48 +0000
+tags: vignette, Physiology, RespiratorySystem, acid-base,
+Links:
+wiki: Acidogenesis
+---------------------------/>

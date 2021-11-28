@@ -1,0 +1,10 @@
+Hemoglobin F
+High affinity for oxygen, grabs from the blood
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-03 00:37:53 +0000
+lastModified: 2012-09-03 01:20:42 +0000
+tags: CVS, hematology,
+---------------------------/>

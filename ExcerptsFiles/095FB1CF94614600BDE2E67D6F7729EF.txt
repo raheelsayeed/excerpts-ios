@@ -1,0 +1,77 @@
+Gluconeogenesis
+[v](in Glycolysis, 3 of the 10 enzymes: irreversible)
+
+Most glucose made by:
+1. Liver (most)
+2. Kidney (as time goes on)
+
+
+Glycolysis Irreversible reactions
+1. Glucose ---{Glucokinase/Hexokinase}--> G6P
+2. Fructose6P ==={PFK-1}===> F1,6BisPHosphate
+3. PhosphoEnolPyruvate =={Pyruvate Kinase}==> Pyruvate
+
+All Irreversible Reactions should be substituted in Gluconeogenesis
+
+To Make Glucose, The Carbon comes from
+1. Lactate or Pyruvate (3C)
+2. Alanine (Most Abundant source, Protein MuscleMass Breakdown=> 20 AA, 18 are glucogenic. Lysine and Lucine are ONLY KETOGENIC
+Alanine -----> Pyruvate.
+3. DHAP <---{NADH<---->NAD}--->Glycerol-3-Phosphate
+	
+Pyruvate enters Mito Matrix.
+1. Pyruvate Carboxylase (adds a CO₂ uses ATP and Biotin) to produce Oxaloacetate (OAA)
+MNEMONIC: ABC Carboxylase.
+Highly regulated By AcetylCoA.
+↑AcetylCoA --- -NF PDH & Stimulates PCarboxylase
+Its saying, stop spending glucose and start creating glucose.
+[Obligate Activator] AcetylCoA is the Key to turn on engine. 
+(Other example: Urea Cycle)
+
+2. OAA shuttles out of Mito into Cyto. 
+- OAA (4C) +GTP ---{PEP Carboxykinase}---> PEP (3C) + CO₂ + GDP
+- PEP-Carboxykinase is highly regulated.
+- Glucagon & Cortisol (turn ON at genetic Level) stimulate PEP Carboxylase
+- Cortisol turns on by activating Zinc Finger receptor
+- Glucagon turns on by activating on KREB Transcription Factor
+- Takes out CO₂ (Contrast to step2)
+
+
+(Steps 1, 2 require energy.)
+Gluconeogenesis is energy requiring
+
+
+3. Once PEP is generated: Goes back to tOp by reversible steps.
+
+4. Fructose 1, 6 Bis Phosphate ==={F-6-Phasphatase}== F6P + Pi
+F6Phasphatase & PFK-1 will not work together at the same time.
+- Everything that Turns of PFK-1 turns On F6Phosphatase.
+- ATP activates (From TG mobilisation, Beta Oxidation FA)
+- F2,6-P inactivates
+
+Anything DRIVES Glycolysis, Inhibits F6Phasphatase.
+Anything Inhibiting Glycolysis, activates F6Phasphatase
+
+
+Metformin Shuts down Gluconeogenesis.
+No Insulin affect, Glucagon, Cortisol turn ON Gluconeogenesis.
+Liver shouldn't make glucose (via ↑Glucagon, ↑Cortisol) when theres already enough Blood glucose.
+So Metformin shuts it down.
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-26 16:14:09 +0000
+lastModified: 2013-06-27 01:13:29 +0000
+tags: vignette, mnemonic, Enzymes, GISystem, Biochemistry,
+Links:
+wiki: Gluconeogenesis
+wiki: Fructose_1,6-bisphosphatase
+ytube: xrM_OCa8U4k
+ytube: y5CW63kxTsA
+ytube: 0epBvl0HTeY
+wiki: Pyruvate_carboxylase_deficiency
+wiki: Pyruvate_carboxylase
+wiki: Phosphoenolpyruvate_carboxykinase
+---------------------------/>

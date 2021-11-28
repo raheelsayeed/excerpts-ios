@@ -1,0 +1,23 @@
+Annals of internal medicine: combo Statin therapy better than High intensity Monotherapy
+
+High-intensity statins may be given when LDL is 4.91 mmol/L (millimoles per liter) or greater, which is considered very high, according to the National Cholesterol Education Program. LDL levels less than 2.6 mmol/L are considered optimal.
+
+
+Previous research has shown that two of the most commonly prescribed statins for intensive monotherapy are atorvastatin (brand name Lipitor) and rosuvastatin (brand name Crestor).
+
+The intensity of statin therapy depends on the dose of medication and which statin is used. For example, 5 milligrams of atorvastatin per day is considered low intensity and 20 to 80 milligrams is considered high intensity.
+
+While statins are generally well-tolerated, some patients experience adverse effects, including muscle pain and damage (myopathy), liver damage, digestive problems, rash or flushing, increased blood sugar or type 2 diabetes and memory loss or confusion.
+
+
+http://www.dailyrx.com/high-cholesterol-may-be-treated-combination-therapy-instead-just-higher-intensity-statin
+
+Pubmed: 24514899
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-02-13 18:55:53 +0000
+lastModified: 2014-02-13 18:55:53 +0000
+tags: ResearchPapers, Lipids, Pharmacology,
+---------------------------/>

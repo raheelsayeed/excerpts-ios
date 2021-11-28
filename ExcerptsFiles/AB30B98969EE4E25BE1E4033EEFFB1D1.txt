@@ -1,0 +1,31 @@
+Hormone types
+Steroid hormones are "like Chol"
+- protein bound
+- long half life
+- intracellular action
+- origin: target Organ hormones
+
+- (steroid) LIPID SOLUBLE hormones are synthesized as needed, dissolved in plasma.
+
+- All Peptide hormones are synthesized and stored in vesicles. Vesicles made of lipids, dissolved free without protein-binding EXCEPT IGF: INSULIN LIKE GROWTH FACTOR
+
+Peptide Hormones
+- have cell surface receptor
+- peptide hormone attaches to receptor
+- receptor activated Gpr
+- gpro causes effect inside the cell via a secondary messenger.
+  - cAMP
+  - Calcium
+  - iP-3 (inositol triphos)
+  - DAG diacylglycerol
+  - insulin has its own mechanism with Tyrosin kinase.
+
+- second messenger phosphorylate or de phosphorylate the protein which are already made
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-15 20:55:30 +0000
+lastModified: 2013-07-17 15:31:59 +0000
+tags: Types, Physiology, Endocrine,
+---------------------------/>

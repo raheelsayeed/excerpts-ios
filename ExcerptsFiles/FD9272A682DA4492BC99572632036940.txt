@@ -1,0 +1,19 @@
+DUODENAL ULCERS PAIN RELIEVED BY FOOD
+- MOSTC GASTRIC ULCERS
+- H.PY, INC ACID,
+- ASSOCIATED: BLOOD O, ZOLLINGER, MEN TYPEI
+- CIRRHOSIS, copd
+- MC-site: ant wall of prox duo
+- Sym: burning epigas pain 1-3 hrs after eating, relieved by food
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-13 02:03:06 +0000
+lastModified: 2013-07-13 02:17:26 +0000
+tags: clinical, smallintestines, pathology, GISystem, MostCommon,
+Links:
+wiki: Proton-pump_inhibitor
+wiki: Peptic_ulcer
+wiki: Helicobacter_pylori
+---------------------------/>

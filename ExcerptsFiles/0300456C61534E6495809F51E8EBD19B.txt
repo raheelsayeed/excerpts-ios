@@ -1,0 +1,35 @@
+Chronic Gastric infections
+IF CHRONIC: LYMPHOCYTES: leads to chronic atrophic gastritis
+
+  A. FUNDIC TYPE: AUTOIMMUNITY
+   PERNICIOUS ANEMIA
+   ATROPHY MUCOSAL SURFACE
+   HYPOCHLORIC ACID
+   COMP: C.Gastric
+   Ab to IF and or parietal cells
+   Dec acid
+   Inc serum gastrin (G Cell hyperplasia)
+
+
+  B. H.Pylori
+   Antral type chronic gastritis
+   mC-chronic gastritis
+   Sometimes Neutrophis, active disease: chronic active gastritis
+   
+H.Pylori: g- curved rods
+- urease producing
+- risk inc with age
+- chronic gastritis type B
+- duodenal and peptic ulcer disease
+- associated c.gastric
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-13 01:58:23 +0000
+lastModified: 2013-07-13 02:17:26 +0000
+tags: microbiology, infections, GISystem, pathology, microscopy,
+Links:
+wiki: Peptic_ulcer
+wiki: Helicobacter_pylori
+---------------------------/>

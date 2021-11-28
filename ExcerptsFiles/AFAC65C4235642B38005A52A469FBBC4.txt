@@ -1,0 +1,14 @@
+Exertional Asthma
+Ipratropium Sodium drug-of-choice
+Wheezing: Inflammation of terminal bronchioles
+LT C4 D4, PG causing inflammation.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-26 15:17:34 +0000
+lastModified: 2013-06-26 16:17:38 +0000
+tags: Rx, RespiratorySystem, drug, ObstructiveDiseases, pathology, Asthma,
+Links:
+wiki: Exercise-induced_bronchoconstriction
+---------------------------/>

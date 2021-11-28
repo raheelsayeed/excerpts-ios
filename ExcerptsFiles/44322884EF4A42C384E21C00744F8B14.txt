@@ -1,0 +1,25 @@
+BILE ACID SEQUESTRANTS
+EG. CHOLESTIPOL, CHOLESTYRAMINE
+- TRAP BILE ACIDS IN THE GUT.
+- DEC ENTEROHEPATIC RECIRCULATION OF BILE SALTS
+INC SYNTHESIS OF NEW BILE SALTS BY LIVER
+- DEC LIVER CHOLESTEROL
+- INC IN LDL RECPTOR EXPRESSION
+- INC LDL INTAKE,
+- DEC PLASMA LDL
+
+S/E: MALABSORPTION, INC VLDL, GI DISTURBANCES, STEATORRHEA
+INDICATION: TRUE DIETARY HYPERCHOLESTEROLEMIA
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-14 12:17:42 +0000
+lastModified: 2013-06-14 12:28:05 +0000
+tags: drug, Pharmacology, CVS, Lipids,
+Links:
+wiki: Cholestyramine
+wiki: Colestipol
+wiki: Bile_acid_malabsorption
+wiki: Bile_acid_sequestrant
+---------------------------/>

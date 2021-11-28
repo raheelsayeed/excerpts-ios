@@ -1,0 +1,21 @@
+Lipoproteins are physical complex of Lipid and proteins. It is physical as theres no link bonds.
+Protein part is called Apoproteins.
+
+Apoproteins
+- 4 important types
+- A, B, E, C
+- A: (+) LCAT
+- B: Involved in Receptor Lipoprotein interactions (e.g. apoproteinB-48 in Cholesterol digestion)
+- E: Like B
+- C: (+) LPL: Adipocyte cell breakdown of VLDL to form 3 FA and ?AcetylCoA.
+
+
+Type I Hyperlipidemia: Deficiency of ApoC and/or LPL
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-15 15:03:09 +0000
+lastModified: 2013-07-15 15:47:14 +0000
+tags: transport, Types, GISystem, Lipids, Biochemistry,
+---------------------------/>

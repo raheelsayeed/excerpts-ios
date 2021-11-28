@@ -1,0 +1,22 @@
+Class IV antiArrhythmic
+Calcium channel L-type blockers - not clinically used for Arrhythmias.
+
+Effect:
+1. Dec phase 0
+2. Dec phase IV
+3. Dec SA and dec AV node activity
+4. Inc ARP, inc ERP
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-11 08:41:21 +0000
+lastModified: 2012-09-11 08:46:07 +0000
+tags: drug, Pharmacology, CVS, Arrhythmia,
+Links:
+wiki: Antiarrhythmic_agent
+ytube: nfyb7G_4HQ0
+ytube: xV1xGtwSsy8
+ytube: l_yu6KeWQ9o
+---------------------------/>

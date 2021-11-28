@@ -1,0 +1,13 @@
+Immunological GBM Injury
+Immunologically damaging Visceral EpithelialCell, automatically damages GBM -> Leaking of Albumin in Urine.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-06 16:40:56 +0000
+lastModified: 2014-01-15 04:35:39 +0000
+tags: Kidney, Immunology, serumproteins,
+Links:
+wiki: Pauci-immune
+ytube: n88r2MIeDb4
+---------------------------/>

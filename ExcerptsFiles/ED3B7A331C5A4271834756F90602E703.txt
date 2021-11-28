@@ -1,0 +1,18 @@
+Atrial septal defect
+Left to right
+RA stepup, RV step up, PA STEPUP
+Difference between VSD, o2 sat remains normal in RA
+Down syndrome
+Similar risk for eisenmenger syndrome
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-03 00:57:27 +0000
+lastModified: 2012-09-08 13:51:40 +0000
+tags: CVS, CongenitalHD,
+Links:
+ytube: 06bHsQX3oeI
+wiki: Congenital_heart_defect
+wiki: Atrial_septal_defect
+---------------------------/>

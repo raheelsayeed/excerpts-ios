@@ -1,0 +1,56 @@
+Nicotinic(Nn) Receptor Blockers
+1. Hexamethonium
+2. Mecamylamine
+
+Blocks all A.N.S activity
+
+Blocks Most predominent Tone (PANS/SANS)
+
+1. Arterioles: SANS.
+Block: Vasodilation, Hypotension
+
+2. Veins: SANS
+Block: Dilation. Venous Return, ↓CO
+
+3. Heart: PANS (Pacemaker SA,AV Node)
+Block: Tachycardia
+Tachycardia is because its TRUE Intrinsic rhythm of heart as theres no SANS activity also.
+It's fixed. No ↑ or ↓ 
+
+4. Iris: PANS
+Block: Mydriasis
+
+5. Ciliary Muscle: PANS
+Block: Cycloplegia
+
+
+Nn blocking drugs do Not affect/prevent any change in HR that was caused "DIRECTLY BY THE DRUGS"
+OTHER HEART RECEPTORS: 
+BETA-1:
+- In Cardiac Muscle
+- (agonists- TACHYCARDIA)
+
+M2 - (agonists- BRADYCARDIA)
+
+Sensing this change, Baroreceptor becomes active, sends signal to CNS center in Medulla. 
+But it is again interrupted at the ganglia by Nn-blockers.
+SO NO NET EFFECT by Baroreceptor.
+Hexamethonium would cancel Baroreceptor-Bradycardia
+
+↓BP detected by Baroreceptors:
+- detected by SM: initiates alpha1 (vasoconstriction)
+- Vasodilation (Beta2)
+
+This stimulation is inturn blocked by Ganglionic blockers.
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-30 02:06:24 +0000
+lastModified: 2013-06-30 02:52:59 +0000
+tags: Pharmacology, Muscurinic, ANS, Alpha1, Receptors,
+Links:
+wiki: Acetylcholine_receptor
+wiki: Nicotinic_acetylcholine_receptor
+---------------------------/>

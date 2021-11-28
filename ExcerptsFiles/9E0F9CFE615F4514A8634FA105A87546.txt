@@ -1,0 +1,19 @@
+Bicarbonate Reabsorption
+- NO NET PRODUCTION, ONLY REUSED, EVERYTHING IS REABSORBED.
+
+BASAL cell produces C02, which is split into two by Carbonic Anhydase into H+ and HCO3-, HCO3 pumped into PT fluid (Renal Venous Flow) and H+ is secreted back via Na,H+ (secondary active transport Na gradient) into the lumen. 
+
+This hydrogen icon combines HCO3- to form C02 (by CA) and C02 is diffused out.
+
+So no net New bicarbonate is produced.
+
+if this system collapses, and cannot reabsorb normal FL of HC03-, some of Bicarbonate is lost in Urine, creating TYPE II RENAL TUBULAR ACIDOSIS.
+METABOLIC ACIDOSIS BECAUSE OF PROBLEM IN THE KIDNEY.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-04 16:31:11 +0000
+lastModified: 2013-06-04 16:45:06 +0000
+tags: Physiology, Kidney, RegionalTransport, acid-base, UrinarySystem,
+---------------------------/>

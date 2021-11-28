@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width; initial-scale=1.0; user-scalable=no; minimum-scale=1.0; maximum-scale=1.0;" />
+    	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta name="robots" content="noindex"/>
+        <link rel="icon" href="/images/favicon.png"/>
+        <style type="text/css">
+            body {
+                font-family: Helvetica;
+                font-size: 15px;
+                margin: 0;
+                padding: 0;
+                -webkit-text-size-adjust: none;
+				-webkit-touch-callout: none;
+                word-wrap: break-word;
+                background-color: black;
+                color: white;
+                width: 100%;
+            }
+        
+        body.iphone { height: 416px; }
+        body.ipad   { height: 936px; }
+        
+        @media only screen and (orientation:landscape) {
+            body.iphone { height: 256px; }
+            body.ipad   { height: 680px; }
+        }
+		
+        
+            </style>
+		<script type="text/javascript">
+            var tag = document.createElement('script');
+            
+            tag.src = "https://www.youtube.com/iframe_api";
+            var firstScriptTag = document.getElementsByTagName('script')[0];
+            firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+            
+            var player;
+            function onYouTubeIframeAPIReady() {
+                player = new YT.Player('player', {
+                                       videoId: '%VIDEO_ID%'});
+            }
+        
+            function setPlayerSize(width, height) {
+                player.setSize(width, height);
+            }
+		</script>
+    </head>
+    <body class="%DEVICECLASS%">
+        <div id='player'></div>
+    </body>
+</html>

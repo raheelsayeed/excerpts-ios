@@ -1,0 +1,14 @@
+Chronic ischemic Heart disease
+1. Insidious onset of progressive congestive heart failure
+1. No prior history of angina or myocardial infarction.
+2. Diffuse Myocardial fibrosis due to prolonged ischemia (usually due to severe atherosclerosis)
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-08 12:42:18 +0000
+lastModified: 2012-09-08 12:55:55 +0000
+tags: CVS, pathology, Ischemia,
+Links:
+wiki: Ischaemic_heart_disease
+---------------------------/>

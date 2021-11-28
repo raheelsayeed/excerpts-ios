@@ -1,0 +1,22 @@
+Glycolysis Irreversible reactions
+1. Glucose ---{Glucokinase/Hexokinase}--> G6P
+2. Fructose6P ==={PFK-1}===> F1,6BisPHosphate
+3. PhosphoEnolPyruvate =={Pyruvate Kinase}==> Pyruvate
+
+All Irreversible Reactions should be substituted in Gluconeogenesis
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-26 16:06:19 +0000
+lastModified: 2013-06-26 16:17:38 +0000
+tags: vignette, Enzymes, GISystem, insulin, Biochemistry,
+Links:
+wiki: Phosphofructokinase_1
+wiki: Glucokinase
+ytube: 0epBvl0HTeY
+wiki: Glycolysis
+wiki: Phosphofructokinase_2
+wiki: Pyruvate_kinase
+wiki: Pyruvate_kinase_deficiency
+---------------------------/>

@@ -1,0 +1,10 @@
+Both Adult and Infant respiratory distress syndromes have capillary endothelial damange. (infant is due to loss of surfactant and reduced surface tension damages the capillary endothelial wall and fibrin leaks into the alveolar space.
+This fibrin lines the walls and prevents gaseous exchange.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-24 15:57:34 +0000
+lastModified: 2013-06-24 16:01:56 +0000
+tags: vignette, RespiratorySystem, pathology, RestrictiveDiseases,
+---------------------------/>

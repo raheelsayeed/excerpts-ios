@@ -1,0 +1,18 @@
+Phenylketonuria: which enzyme is deficient
+PHenylketonuria is caused by a deficiency of:
+Phenylalanine
+Hydroxylase
+
+Catalyzes convertion of PhenylAlanine to Tyrosine
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-03-09 07:48:02 +0000
+lastModified: 2014-03-19 17:49:45 +0000
+tags: Ketone Bodies, Biochemistry,
+Links:
+wiki: Phenylketonuria
+wiki: Phenylalanine hydroxylase
+wiki: Tetrahydrobiopterin
+---------------------------/>

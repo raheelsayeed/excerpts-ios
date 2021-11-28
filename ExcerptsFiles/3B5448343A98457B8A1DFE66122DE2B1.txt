@@ -1,0 +1,33 @@
+Hypoxia Causes Physiology
+1. HypoVentilation
+- ↓PaO₂
+- (A-a)=0 (>0, rules out Hypoventilation!)
+- PAO₂ = (Patm - 47)fO₂ - PCO₂/R = 80
+
+2. Diffusion Impairment
+- Fibrosis  
+- (A-a) > 0
+- ↓PaO₂
+
+3. Perfusion Limited Situation
+- Shunt 
+- (A-a) > 0
+- ↓PaO₂
+
+
+Give O₂ 100% for 15mins, Measure PaO₂ again. 
+- Increase in PaO₂ = Diffusion Impairment
+- No change in PaO₂ = Perfusion Limited Situation
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-20 15:43:50 +0000
+lastModified: 2013-06-20 15:51:19 +0000
+tags: Physiology, blood-gases, RespiratorySystem, flowchart,
+Links:
+wiki: Altitude_sickness
+wiki: Blood_oxygen_level
+wiki: Hypoxemia
+wiki: Hypoxia_(medical)
+---------------------------/>

@@ -1,0 +1,18 @@
+Drugs Nephrotoxic
+- aminoglycosides
+- gentamicin
+
+All old people - dose should be adjusted based on GFR. Which is calculared by body weight and SerumCr
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-08 19:40:57 +0000
+lastModified: 2013-06-09 01:45:33 +0000
+tags: drug, pathology, Toxicity, UrinarySystem,
+Links:
+wiki: Gentamicin
+wiki: Vancomycin
+wiki: Arbekacin
+wiki: Nephrotoxicity
+---------------------------/>

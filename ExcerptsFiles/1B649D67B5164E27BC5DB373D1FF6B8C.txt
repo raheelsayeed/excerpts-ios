@@ -1,0 +1,24 @@
+OBSTRUCTIVE Diseases Air Volumes
+^TLC (7)
+normal IC (2)
+^FRC (5)
+..FEV-1 (2)
+.PEF  (4/3 = 1.33)
+.FVC (4)
+^RV  (3) (because FVC is less and TLC is more)
+
+FLOW VOLUME LOOPS
+-----------------
+Obstructive disease:
+Shift to LEft (TLC Higher, .ExpiratoryFlow)
+^TLC
+^RV
+.Expiratory Flow
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-17 20:30:23 +0000
+lastModified: 2013-06-18 14:54:51 +0000
+tags: Physiology, RespiratorySystem, ObstructiveDiseases, LungVolumes,
+---------------------------/>

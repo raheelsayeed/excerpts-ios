@@ -1,0 +1,13 @@
+Adult Respiratory Distress Syndrome
+- Neutrophil injury, GET INTO LUNGS, destroy type 2 pneumocytes. Hyaline membrane syndrome. (Leaky capillaries)
+- septic shock (e.coli) most common cause. - ARDS then 3rd day DIC
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-21 03:17:24 +0000
+lastModified: 2013-06-21 03:33:45 +0000
+tags: RespiratorySystem, hyaline, infections, pathology,
+Links:
+wiki: Respiratory_distress_syndrome
+---------------------------/>

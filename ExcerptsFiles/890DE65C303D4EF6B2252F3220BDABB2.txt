@@ -1,0 +1,35 @@
+Infant Respiratory distress Syndrome of newborn
+- Syn: Hyaline membrane disease (Pink, amorphous).
+
+etio
+- premature
+- maternal diabetes
+- multiple births
+- c-section
+
+Loss of surfactant, increase in surface tension, this will damange the capillary endothelial cells, allowing fibrin to leak out and lining the alveolar walls. This blocks gas exchange.
+
+
+Clinical
+- often normal at birth, but within few hours-> increasing respiratory effort tachypnea, nasal flaring, use of accessory muscle and expiratory grunt
+- cyanosis
+
+COMPLICATIONS:
+- PDA
+- NECROTISING ENTEROCOLITIS (PREMATURITY)
+- HAEMORRHAGE (EXTRA CEREBRAL HEMORRHAGE AT GERMINAL MATRIX)
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-24 15:55:39 +0000
+lastModified: 2013-06-24 16:01:56 +0000
+tags: clinical, RespiratorySystem, RestrictiveDiseases, pathology, Complications, etiology, Surfactant,
+Links:
+wiki: Respiratory_distress_syndrome
+wiki: Acute_respiratory_distress_syndrome
+wiki: Infant_respiratory_distress_syndrome
+ytube: 42jJ18fkZ0Y
+wiki: Labored_breathing
+ytube: cVCvYxVxSt4
+---------------------------/>

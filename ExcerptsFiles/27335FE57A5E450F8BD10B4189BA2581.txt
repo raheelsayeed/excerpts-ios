@@ -1,0 +1,20 @@
+Bulbus Cordis
+19th day
+
+Forms:
+1- parts of RV
+2- outflow tracts of pulmonary trunk
+3- part of outflow tract of aorta
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-02 03:34:43 +0000
+lastModified: 2012-09-02 03:42:42 +0000
+tags: heart, CVS, Embryology,
+Links:
+wiki: Tubular_heart
+ytube: RwDQIzNZTgM
+wiki: Bulbus_cordis
+wiki: Interventricular_septum
+---------------------------/>

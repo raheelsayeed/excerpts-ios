@@ -1,0 +1,16 @@
+Pulmonary Edema (Keys)
+- Hemosiderin laden macrophages
+- Frothy Sputum
+- Left Heart Failure (MostCommon)
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-26 14:30:02 +0000
+lastModified: 2013-06-26 16:17:38 +0000
+tags: RespiratorySystem, etiology, pathology, Vascular, MostCommon,
+Links:
+wiki: Pulmonary_edema
+wiki: Heart_failure
+wiki: High_altitude_pulmonary_edema
+---------------------------/>

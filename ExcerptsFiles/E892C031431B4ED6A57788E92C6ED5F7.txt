@@ -1,0 +1,21 @@
+Breathing and Acid Base
+Breathing fast is suggestive of shallow breathing. In which case, there is less air in respiratory zone.
+
+RATE
+Less in Rz naturally results in less O2 diffusion during inspiration and less CO2 excretion (via air) during expiration. 
+^PaCO2: .pH (decrease: Acidosis)
+
+Conversely DEPTH
+Deep breathing: ^Rz: ^PaO2, .PaCO2, ^pH.
+Alkalosis.
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-18 14:39:25 +0000
+lastModified: 2013-06-18 14:54:51 +0000
+tags: vignette, blood-gases, RespiratorySystem, Physiology, acid-base, LungVolumes,
+Links:
+wiki: Respiratory_compensation
+---------------------------/>

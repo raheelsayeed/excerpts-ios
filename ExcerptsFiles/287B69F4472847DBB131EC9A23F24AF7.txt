@@ -1,0 +1,12 @@
+Ventricular Aneurysm
+Does not rupture as it is surrounded by scar tissue.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-04 00:32:38 +0000
+lastModified: 2012-09-04 04:29:39 +0000
+tags: CVS, pathology,
+Links:
+wiki: Ventricular_aneurysm
+---------------------------/>

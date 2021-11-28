@@ -1,0 +1,18 @@
+McArdle's disease
+Muscle Glycogen Phosphorylase defect
+- "M"cArdle = "M"uscle
+- ↑Glycogen in "M" only.
+- [v] "a child running around playground, complains of muscle weakness, muscle cramping."
+Child=> Epinephrine => Muscle => Beta stimulation => Gs Protein Activation=>  Adenyl Cyclase => ↑cAMP => ProteinKinase-A =>Phosphorylates GlycogenPhosphorylase. defect here cannot produce ATP, thus Muscle weakness ensues.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-27 15:18:46 +0000
+lastModified: 2013-06-27 15:22:29 +0000
+tags: vignette, mnemonic, Glycogen, pathology, GISystem, Biochemistry,
+Links:
+wiki: Glycogen_phosphorylase
+wiki: Glycogen_storage_disease_type_V
+ytube: jFMRsxE4N3g
+---------------------------/>

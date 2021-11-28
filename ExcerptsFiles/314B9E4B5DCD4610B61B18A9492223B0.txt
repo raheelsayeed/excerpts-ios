@@ -1,0 +1,28 @@
+Lung Forces
+1. LUNG RECOIL
+2. INTRA-PLEURAL PRESSURE
+
+lung recoil
+- tension developed in the wall as the lung recoils. [collapsing]
+
+IPP: PR IN THE PLEURAL CAVITY IS SUB-ATMOSPHERIc (-). 
+- serves the expand the lung. 
+- more negative = more expansion of lung
+
+1. IPP > LUNG RECOIL : LUNG EXPANSION
+2. IPP < LUNG RECOIL : LUNG COLLAPSE
+3. IPP = LUNG RECOIL : LUNG SIZE CONSTANT
+
+http://www.youtube.com/watch?v=hHQBFFu2ekw
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-17 18:17:28 +0000
+lastModified: 2013-06-18 14:54:51 +0000
+tags: pressures, Physiology, RespiratorySystem,
+Links:
+wiki: Intrapleural_pressure
+wiki: Elastic_recoil
+wiki: Functional_residual_capacity
+---------------------------/>

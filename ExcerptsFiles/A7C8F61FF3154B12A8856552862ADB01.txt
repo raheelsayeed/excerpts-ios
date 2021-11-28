@@ -1,0 +1,13 @@
+Lowest osmolarity is found in the early part of the distal tubule, where electrolytes are removed and the water stays behind.
+
+If NO ADH, lowest osmolarity is below 100.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-04 01:26:12 +0000
+lastModified: 2013-06-04 01:30:12 +0000
+tags: vignette, Question, Kidney, nephron, Physiology, UrinarySystem,
+Links:
+wiki: Loop_of_Henle
+---------------------------/>

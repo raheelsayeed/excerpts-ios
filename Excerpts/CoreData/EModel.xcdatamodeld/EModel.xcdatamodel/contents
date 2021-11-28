@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="6254" systemVersion="14C109" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="CachedLinkData" representedClassName="CachedLinkData" syncable="YES">
+        <attribute name="cacheDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="content" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <relationship name="link" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Link" inverseName="cache" inverseEntity="Link" syncable="YES"/>
+        <relationship name="note" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Note" inverseName="weblinksCache" inverseEntity="Note" syncable="YES"/>
+    </entity>
+    <entity name="Keyword" representedClassName="Keyword" syncable="YES">
+        <attribute name="title" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Link" representedClassName="Link" syncable="YES">
+        <attribute name="identifier" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="linkType" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="serviceKey" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="syncID" optional="YES" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="cache" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="CachedLinkData" inverseName="link" inverseEntity="CachedLinkData" syncable="YES"/>
+        <relationship name="notes" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Note" inverseName="links" inverseEntity="Note" syncable="YES"/>
+        <relationship name="tags" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Tag" inverseName="links" inverseEntity="Tag" syncable="YES"/>
+    </entity>
+    <entity name="Note" representedClassName="Note" syncable="YES">
+        <attribute name="archived" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="cloudLocationNumber" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="creationDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="flagged" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="importIdentifier" optional="YES" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="lastAccessedDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="lastSynced" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="mentalStatus" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="modifiedDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="performedActions" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="syncID" optional="YES" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="text" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="textHash" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="title" optional="YES" transient="YES" attributeType="String" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <relationship name="links" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Link" inverseName="notes" inverseEntity="Link" syncable="YES"/>
+        <relationship name="sharedGroups" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="SharedGroup" inverseName="notes" inverseEntity="SharedGroup" syncable="YES"/>
+        <relationship name="tags" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Tag" inverseName="notes" inverseEntity="Tag" syncable="YES"/>
+        <relationship name="timelineNote" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="TimelineNote" inverseName="note" inverseEntity="TimelineNote" syncable="YES"/>
+        <relationship name="weblinksCache" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="CachedLinkData" inverseName="note" inverseEntity="CachedLinkData" syncable="YES"/>
+    </entity>
+    <entity name="SharedGroup" representedClassName="SharedGroup" syncable="YES">
+        <attribute name="identifier" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <relationship name="notes" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Note" inverseName="sharedGroups" inverseEntity="Note" syncable="YES"/>
+    </entity>
+    <entity name="Tag" representedClassName="Tag" syncable="YES">
+        <attribute name="colorCode" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="dbxDatastoreID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastSynced" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="selected" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="stick" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="syncID" optional="YES" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <relationship name="links" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Link" inverseName="tags" inverseEntity="Link" syncable="YES"/>
+        <relationship name="notes" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Note" inverseName="tags" inverseEntity="Note" syncable="YES"/>
+    </entity>
+    <entity name="TimelineNote" representedClassName="TimelineNote" syncable="YES">
+        <attribute name="text" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="note" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Note" inverseName="timelineNote" inverseEntity="Note" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="CachedLinkData" positionX="-0" positionY="-18" width="128" height="103"/>
+        <element name="Keyword" positionX="-198" positionY="18" width="128" height="60"/>
+        <element name="Link" positionX="-218" positionY="98" width="128" height="163"/>
+        <element name="Note" positionX="25" positionY="279" width="128" height="343"/>
+        <element name="SharedGroup" positionX="-9" positionY="135" width="128" height="88"/>
+        <element name="Tag" positionX="-137" positionY="297" width="128" height="195"/>
+        <element name="TimelineNote" positionX="295" positionY="314" width="128" height="73"/>
+    </elements>
+</model>

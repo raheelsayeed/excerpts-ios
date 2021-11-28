@@ -1,0 +1,24 @@
+Angina
+Angina is the principal syndrome of ischemic heart disease.
+
+Types: 
+1. Stable angina: due to atherosclerosis/ vessel occlusion sometimes with superimposed thrombosis. Most common sites are Left Anterior descending coronary artery (45%), right coronary artery (30%), circumflex artery (15%)
+2. Variant Angina or Prinzmetal: reversible decreased coronary blood flow.
+
+Treatment strategy:
+1. Increase oxygen delivery by decreasing vasospasm (nitrates, CCB)
+2. Decrease Oxygen requirement by decreasing workload, lower TPR and CO and use beta blocker for reflex tachycardia. (Nitrates, CCB, beta blocker)
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-17 00:53:09 +0000
+lastModified: 2012-09-17 01:01:59 +0000
+tags: vignette, drug, Angina, Ischemia, CVS,
+Links:
+wiki: Abdominal_angina
+wiki: Ludwig's_angina
+wiki: Angina_pectoris
+wiki: Unstable_angina
+wiki: Prinzmetal's_angina
+---------------------------/>

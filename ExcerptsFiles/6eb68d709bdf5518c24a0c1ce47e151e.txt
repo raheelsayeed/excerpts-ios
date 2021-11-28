@@ -1,0 +1,14 @@
+Direct sympathomimetic catecholamines
+DINED: 
+#Dopamine
+#Isoproterenol
+#Norepinephrine
+#Epinephrine
+#Dobutamine
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: (null)
+lastModified: 2014-03-20 11:38:41 +0000
+---------------------------/>

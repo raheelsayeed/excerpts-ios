@@ -1,0 +1,45 @@
+Carbonic Anhydrase inhibitors
+In secondary active transport, Na is reabsorbed by excretion of H ion. 
+
+Blocking CA inhibits creation of H+ and HCO3 in the cell.
+
+Unavailability of H disables reabsorption of Na. 
+- <H+ formation inside PCT cell
+- bicarbonaturia results
+- Bicarbonate is not reabsorbed, low pH
+- Metabolic Acidosis
+
+Uses:
+Glaucoma
+Acute mountain sickness
+Metabolic alkalosis
+
+Complications:
+- metabolic acidosis
+- hypokalemia
+- renal stones
+- hypercholremia
+
+
+ACUTE MOUNTAIN SICKNESS
+- >ALVEOLAR PO2 : hypoxemia, resp centers cause hyperventilation loosing PCO2.
+- loss of co2 results in respiratory Alkalosis
+- HYPOXIA IN LUNGS CAUSES VASOCONSTRICTION: INC HYDROSTATIC CAPILLARY PRESSURE: EDEMA
+
+acetazolamide drains edema, treats Respiratory Alkalosis by compensating with Metabolic Acidosis
+
+Hypercholremic Acidosis: classic in CA inhibitor drugs ’Metabolic Acidosis and HypoKalemia’
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-14 02:03:01 +0000
+lastModified: 2013-06-14 02:07:33 +0000
+tags: drug, Diuresis, Kidney, nephron, Pharmacology, UrinarySystem,
+Links:
+ytube: 9QMDHtJ0kY0
+wiki: Carbonic_anhydrase_inhibitor
+ytube: LFiU5hKDBpU
+wiki: CA1_(gene)
+wiki: Carbonic_anhydrase
+---------------------------/>

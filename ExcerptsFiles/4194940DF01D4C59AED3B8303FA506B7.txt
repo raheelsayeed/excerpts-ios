@@ -1,0 +1,45 @@
+Adrenal Hormones, Stress hormones
+STRESS HORMONES
+- GLUCAGON
+- CORTISOL
+- CATECHOLAMINES
+- GROWTH HORMONE
+- CORTISOL POTENTIATES GLUCAGON AND GROWTH HORMONES
+
+All:
+- more glu
+- inc lipolysis
+
+- GH formes Protein
+- Cortisol dissolves protein
+- Glucagon diverts AA to Gluconeogenesis and leaves Urea. Like What ketone is to Fatt metabolism
+
+Cortisol:
+- Inc protein degradation, inc delievery of aminoacids
+- Inc Lipolysis and delivery of FFA and glycerol
+- Raises Blood Glu by
+  - inhibiting Glu uptake
+  - Liver Gluconeogenesis from aminoacids by potentiating glucagon
+
+
+V: Undr conditions of stress
+Hypothalamus releases CRH
+- CRH acts on ant pit to release ACTH
+- ACTH acts on Zone Fasciculata to make cortisol
+Cortisol raises Glu levels to maintain naurishment in the vital organs
+- ant Pit also releases Beta opiate: Endorphins (pain modulator) and Beta-melanocyte stimulating hormone (MSH). Dark skinning!
+- inc Cortisol feedback inhibition to Hypothalamus and Pituitary.
+
+
+macula-dena senses Na concentration releases Renin
+
+juxta-glomerula apparatus senses Hypotension and releases Renin
+- renin also stimulated by Beta stimulation
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-25 19:27:20 +0000
+lastModified: 2013-07-25 19:27:20 +0000
+tags: vignette, Physiology, Adrenal Gland, Hormones, Endocrine,
+---------------------------/>

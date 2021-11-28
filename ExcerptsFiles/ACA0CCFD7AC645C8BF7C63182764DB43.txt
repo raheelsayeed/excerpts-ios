@@ -1,0 +1,18 @@
+GI Secretions
+Salivary Secretions: UNDER TOTAL NEURAL (PANS) CONTROL
+
+Stimulants of Parietal Cell (Mixed Hormonal & Neural control)
+1. ACh
+2. Histamine (Blocking Histamine would ↓HCl by 69%, Why more? cuz Histamine potentiates the other two.)
+3. Gastrin
+
+Pancreas secretion:
+- UNDER TOTAL HORMONAL CONTROL
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-06 01:46:02 +0000
+lastModified: 2013-07-06 17:02:09 +0000
+tags: GISystem, Hormones, Physiology,
+---------------------------/>

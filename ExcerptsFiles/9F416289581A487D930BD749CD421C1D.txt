@@ -1,0 +1,23 @@
+Solute Transport Types Protein mediated
+- Uniport : single ion, one direction
+Glu uptake in skeletal muscle
+
+Active transport, with Glu Ca ATP transport
+
+- symport: 2 solutes in same direction : Na Glu in kidney or intestines
+
+- antiport: counter transport of Cl HCO3 in rbc
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-05-30 23:05:21 +0000
+lastModified: 2013-05-30 23:12:31 +0000
+tags: Physiology, UrinarySystem,
+Links:
+wiki: Active_transport
+ytube: ldRZcmppQM8
+wiki: Antiporter
+wiki: Sodium-solute_symporter
+wiki: Membrane_transport
+---------------------------/>

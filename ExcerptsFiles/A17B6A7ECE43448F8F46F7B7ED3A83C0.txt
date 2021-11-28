@@ -1,0 +1,16 @@
+Ace inhibitor and spironolactone
+This combination drug therapy has better prognosis for patients with heart failure.
+
+Aldosterone eventually becomes elevated in stand alone ace Inhibitor therapy.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-02 23:58:48 +0000
+lastModified: 2012-09-03 01:20:42 +0000
+tags: CVS, Heartfailure, drug,
+Links:
+wiki: Aldosterone
+wiki: ACE_inhibitor
+wiki: Spironolactone
+---------------------------/>

@@ -1,0 +1,19 @@
+RENAL CALCULI
+CHRONIC RENAL FAILURE
+- ESRD from many diseases CGN, DM
+- BILATERALLY shrunked kidneys.
+- Irreversible Azotemia, 
+- Normocytic Anemia
+- hypertnesion
+- Renal osteodystrophy-tag
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-08 14:50:01 +0000
+lastModified: 2013-06-09 01:45:33 +0000
+tags: Kidney, Failure, Stones, pathology, UrinarySystem,
+Links:
+wiki: Kidney_stone
+wiki: Sialolithiasis
+---------------------------/>

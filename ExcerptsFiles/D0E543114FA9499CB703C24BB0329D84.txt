@@ -1,0 +1,21 @@
+RESTRICTIVE Lung Volumes
+.TLC (4)
+.FRC (3)
+.FEV-1 (3)
+..FVC (3.5)
+.IC
+.RV (0.5)
+
+Restrictive Disease:
+Shift Right (MNEMONIC: Right=Restrictive).
+.TLC
+.RV
+.Inspiratory Flow
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-17 20:31:50 +0000
+lastModified: 2013-06-18 14:54:51 +0000
+tags: LungVolumes, RespiratorySystem, Physiology, RestrictiveDiseases, mnemonic,
+---------------------------/>

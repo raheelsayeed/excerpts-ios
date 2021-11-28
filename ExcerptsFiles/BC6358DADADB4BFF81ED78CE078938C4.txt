@@ -1,0 +1,14 @@
+Water bottle chest X-ray
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-04 06:28:14 +0000
+lastModified: 2012-09-04 06:32:15 +0000
+tags: xray, chest, radiology, pathology,
+Links:
+wiki: Pericarditis
+wiki: Ewart's_sign
+wiki: Pericardial_effusion
+---------------------------/>

@@ -1,0 +1,14 @@
+Ischemia injury to nephrons
+MOST COMMON
+- proximal con tubule
+- thick ascending limb LoH
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-08 19:37:57 +0000
+lastModified: 2013-06-09 01:45:33 +0000
+tags: UrinarySystem, pathology, nephron, Ischemia, MostCommon,
+Links:
+wiki: Renal_ischemia
+---------------------------/>

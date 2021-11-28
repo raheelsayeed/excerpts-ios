@@ -1,0 +1,9 @@
+Serial blood urea nitrogen measurements may be the most reliable routine laboratory test to predict severity of acute pancreatitis.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-03-06 23:46:06 +0000
+lastModified: 2014-03-06 23:46:06 +0000
+tags: tests, Dx, pathology, pancreatitis, GISystem, MostCommon,
+---------------------------/>

@@ -1,0 +1,19 @@
+BUN / Creatinine Ratio
+Differentiates between Pre Renal azotemia and Renal Failure.
+
+Pre Renal is because of Low Cardiac Output. More time for absorption of BUN.
+
+Acute renal failure: both BUN and Creatinine rise in serum proportionally.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-08 16:43:40 +0000
+lastModified: 2013-06-09 01:45:33 +0000
+tags: UrinarySystem, pathology, Kidney,
+Links:
+wiki: Creatinine
+wiki: BUN-to-creatinine_ratio
+wiki: Azotemia
+wiki: Blood_urea_nitrogen
+---------------------------/>

@@ -1,0 +1,28 @@
+Angiotensin Converting Enzyme Inhibitors
+blocks angiotensionI to angiotension II.
+Results in reduced stimulation of AT-1 receptor
+
+Two consequential actions:
+1. Reduced ALD secretion, decreased retention, reduction in preload
+2. BV dilation.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-16 12:23:08 +0000
+lastModified: 2012-09-16 12:23:08 +0000
+tags: drug, hypertension, Kidney, CVS, Pharmacology,
+Links:
+wiki: Angiotensin-converting_enzyme
+ytube: 8n8jIEKOECM
+wiki: Teprotide
+wiki: Fosinopril/hydrochlorothiazide
+ytube: Z-7V6g-zESE
+wiki: ACE_inhibitor
+wiki: Captopril_challenge_test
+wiki: Kinin–kallikrein_system
+wiki: Enalapril
+wiki: Captopril
+wiki: ACE_inhibitors_drug_design
+wiki: Bradykinin
+---------------------------/>

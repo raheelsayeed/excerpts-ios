@@ -1,0 +1,38 @@
+Gastric carcinoma
+RR
+- h.py
+- smoked food
+- dec veged
+- smoking
+- ATROPHIC gastritis
+- BLOOD TYPE A
+
+Sym
+- asym (90%) until spread 
+- epi pain
+- mimic pep ulcer
+- hemetemsis
+- wtloss anorexia
+- iron def anemia
+
+Intestinal type: adenocarcinoma
+
+Diffusetype:
+-signet ring
+- linitis plastica
+
+Metastasis
+- virchow’s node
+- krukenberg's 
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-13 02:07:21 +0000
+lastModified: 2013-07-13 02:17:26 +0000
+tags: clinical, cancer, pathology, GISystem, RIskFactors, Stomach,
+Links:
+wiki: Stomach_cancer
+ytube: ncDZGEfRMRY
+ytube: TxWuK_gV5TM
+---------------------------/>

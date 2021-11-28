@@ -1,0 +1,23 @@
+P wave
+Physiology:
+- atrial depolarization
+
+Event:
+- mitral valve opening
+
+Cycle:
+- Atrial contraction
+- Ventricle relaxes
+-  Ventricular filling
+-  S3,S4 sounds
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-10 15:44:11 +0000
+lastModified: 2012-09-10 17:06:42 +0000
+tags: CVS, Physiology, ecg,
+Links:
+wiki: P_wave_(electrocardiography)
+ytube: xXallTFpMvw
+---------------------------/>

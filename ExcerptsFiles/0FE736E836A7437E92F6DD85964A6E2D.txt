@@ -1,0 +1,19 @@
+Distal Tubule early
+- reabsorption of Calcium by secondary active transport channel 3Na in, Ca out.
+- Nacl absorbed via gradient
+- Parathyroid activity and action on Calmodulin and Promotes Cal reabsorption
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-05 19:07:33 +0000
+lastModified: 2013-06-05 19:21:14 +0000
+tags: Kidney, Physiology, Endocrine, UrinarySystem, Calcium, RegionalTransport, Parathyroid,
+Links:
+ytube: ddnOr-HOV14
+wiki: Distal_convoluted_tubule
+wiki: Calcium-sensing_receptor
+wiki: Calcium_metabolism
+wiki: Macula_densa
+wiki: Parathyroid_hormone
+---------------------------/>

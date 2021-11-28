@@ -1,0 +1,29 @@
+Alpha2 Receptor
+Stimulation
+- inhibition of transmitter release NE, dec in sympathetic outflow.
+- Smooth muscle: mixed response
+- cardiac muscle: Relaxation, dec cAMP
+
+Gi coupled Adenyl Cyclase INactivation, results in reduced cAMP. SM contraction, CM relaxation.
+The alpha subunit of an inhibitory G protein - Gi dissociated from the G protein, and associates with adenyl cyclase (also known as adenylate cyclase or adenylyl cyclase). This causes the inactivation of adenyl cyclase, resulting in a decrease of cAMP produced from ATP. This leads to a decrease of intracellular cAMP. Protein Kinase A is not able to be activated by cAMP, so proteins such as phosphorylase kinase cannot be phosphorylated by PKA. In particular, phosphorylase kinase is responsible for the phosphorylation and activation of glycogen phosphorylase, an enzyme necessary for glycogen breakdown. Thus in this pathway, the downstream effect of adenyl cyclase inactivation is decreased breakdown of glycogen.
+The relaxation of gastrointestinal tract motility is by presynaptic inhibition,[9] where transmitters inhibit further release by homotropic effects.
+
+It's presynaptic on axon terminals, inhibits release of neurotransmitter.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-10 05:40:14 +0000
+lastModified: 2012-09-10 06:55:26 +0000
+tags: CVS, Pharmacology, ANS, GCPR, Receptors,
+Links:
+wiki: Adrenergic_receptor
+ytube: _-ONzh_y2vE
+ytube: NB7YfAvez3o
+wiki: Adenylate_cyclase
+ytube: NMeBZlbs2dU
+ytube: PhD6CEOcuno
+wiki: G_protein-coupled_receptor
+wiki: Alpha-2_adrenergic_receptor
+ytube: V_0EcUr_txk
+---------------------------/>

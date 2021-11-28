@@ -1,0 +1,22 @@
+Nitroprusside
+Direct acting vasodilator, acts on both arterioles and veins.
+Dec in TPR
+Use: emergency HTN
+
+PRUSS: cyanide toxicity, drug should not be taken more than 24-36 hours
+Which is why it is administered with nitrites and thiosulfate, thiocyanide is less toxic.
+Nitrites form methehemoglobin which has greater affinity for cyanide. Cyanide will thus not interfere wit the electron transport chain.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-16 12:00:35 +0000
+lastModified: 2012-09-16 12:13:30 +0000
+tags: drug, hypertension, Pharmacology, CVS, Vascular,
+Links:
+wiki: Hypertensive_emergency
+wiki: Nitrovasodilator
+wiki: Arteriolar_vasodilator
+wiki: Sodium_nitroprusside
+ytube: 8gVCbwrT2aM
+---------------------------/>

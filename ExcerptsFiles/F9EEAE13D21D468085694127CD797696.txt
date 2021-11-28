@@ -1,0 +1,14 @@
+Metformin Shuts down Gluconeogenesis.
+No Insulin affect, Glucagon, Cortisol turn ON Gluconeogenesis.
+Liver shouldn't make glucose (via ↑Glucagon, ↑Cortisol) when theres already enough Blood glucose.
+So Metformin shuts it down.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-26 16:09:26 +0000
+lastModified: 2013-06-26 16:17:38 +0000
+tags: vignette, drug, Pharmacology, insulin, Biochemistry,
+Links:
+wiki: Metformin
+---------------------------/>

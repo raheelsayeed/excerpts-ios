@@ -1,0 +1,16 @@
+Polygenic Inheritance
+1- Essential hypertension
+2- Gout
+3- Type 2 Diabetes
+4-  Congenital pyloric stenosis
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-01 23:59:10 +0000
+lastModified: 2012-09-02 01:38:33 +0000
+tags: Genetics,
+Links:
+wiki: Epistasis
+wiki: Quantitative_trait_locus
+---------------------------/>

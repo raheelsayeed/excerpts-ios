@@ -1,0 +1,13 @@
+In acute respiratory disorder, decrease in PCO2 by 10mmHg ~ HCO3- by 2 mMolar
+
+Compensation is only by Kidney but the response is delayed by at least 6 hours
+
+Hence in Acute Changes, immediate response is only Hypo or Hyperventilation (PCo2) 
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-30 14:20:44 +0000
+lastModified: 2013-06-30 15:09:48 +0000
+tags: vignette, blood-gases, RespiratorySystem, Physiology, acid-base,
+---------------------------/>

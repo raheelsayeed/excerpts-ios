@@ -1,0 +1,17 @@
+Glucose Clearance
+If plasma conc is raised, it reaches Renal Threshold and some amount is excreted. 
+Clearance is always less than gfr
+
+If reabsorbtion from PCT is inhibited, GluClearance = GFR like Inulin
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-03 18:01:52 +0000
+lastModified: 2013-06-04 01:30:12 +0000
+tags: Clearance, Physiology, Kidney, UrinarySystem,
+Links:
+wiki: Insulin_resistance
+wiki: Glycosuria
+wiki: Transport_maximum
+---------------------------/>

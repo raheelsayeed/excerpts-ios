@@ -1,0 +1,53 @@
+Digoxin
+Drug choice in acute Congestive heart failure.
+And SVT
+
+Beta receptors can rapidly desensitize, and in acute management, this would be a problem.
+hrouthpto
+DIRECT ACTION
+Digoxin competitively inhibits binding of K+ at its Na+ K+ ATPase pump.
+Results in high intracellular Na
+Decreased sodium, calcium exchange (activity)
+Increased Calcium accumulation intracellularly.
+Increased contractility Positive ionotropic effect.
+Increased actin myosin interaction
+
+Indirect action:
+- ANS action
+- Inhibits neuronal ATPase pump
+- increase sympathetic activity through the beta Recetprs
+- results In increases vagal activity.
+- Cal triggers the release of neurotransmitter release.
+
+Long t half: hence need loading dose. Called digitalization.
+Renal cleared: caution in renal diseases, further increases half life specially in chronic heart failure where the glomerulus is already impaired.
+
+Adverse effects:
+1. Anorexia, nausea, GI disturbance
+2. Visual halos.
+3. Cardiac Arrhythmias
+
+Antidote: fab amtibodies as supportive treatment with electrolytes and lidocain and even phenytoin.
+
+Drug interaction:
+1. Diuretics: potassium conc is crucial
+2. Mg also important
+3. Quinidine, and any drug with pro arrhythmogenic effect
+
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-12 02:31:21 +0000
+lastModified: 2012-09-12 03:09:27 +0000
+tags: drug, Heartfailure, Pharmacology, CVS,
+Links:
+wiki: Digoxin
+ytube: GIoXi8bWMfQ
+wiki: Digoxin_toxicity
+ytube: 3YddwXPWVSc
+wiki: Digoxin_Immune_Fab
+ytube: Y_Mz5oWXr8I
+wiki: Digitalis
+---------------------------/>

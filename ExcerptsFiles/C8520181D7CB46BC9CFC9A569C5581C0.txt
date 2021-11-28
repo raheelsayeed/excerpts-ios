@@ -1,0 +1,64 @@
+Ventilation Perfusion Ratio
+(V) Base is to CO₂ what Apex is to O₂.
+(V) ↓PCO₂  = ↑PH
+
+Ventilation:
+- ↑Apex
+- ↑↑↑Base
+
+Perfusion
+- ↑Apex
+- ↑↑↑↑↑Base
+
+Physiological V/Q Mismatch
+---
+Near Base: V/Q < 1
+- More Perfusion
+- Less Ventilation
+- Excess Blood
+- ↑PCO₂
+- ↓PO₂
+- ↓PH
+- Acidotic
+
+Normal V/Q (0.8-1)
+- PO₂ = 100
+- PCO₂ = 40
+- pH = 7.4
+
+APEX V/Q > 1
+- More Ventilation than Perfusion
+- ↑PO₂
+- ↓PCO₂
+- ↑PH
+
+Base is to CO₂ as Apex is to O₂
+
+TB Migrates to Apex even though TB is aerobic. thats because at Apex, V/Q > 1, PO₂ is Higher, required for TB.
+
+
+
+Inhaling  peanut:
+- obstructing ventilation.
+- Decresing Ventilation.
+- V/Q < 1
+- Closer to Base.
+↑PCO₂
+↓PO₂
+↓PH
+↓PO₂ gives rise to Hypoxic Vasoconstriction
+↓Perfusion
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-20 15:51:19 +0000
+lastModified: 2013-06-20 15:51:19 +0000
+tags: vignette, blood-gases, RespiratorySystem, Physiology, ventilation-perfusion,
+Links:
+wiki: Pulmonary_shunt
+wiki: Ventilation/perfusion_ratio
+ytube: 6G6XrzoGXlo
+wiki: Hypoxic_pulmonary_vasoconstriction
+wiki: Respiratory_physiology
+---------------------------/>

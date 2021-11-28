@@ -1,0 +1,18 @@
+Myocardial Infarction complications
+HAS CRAPPED:
+Heart failure/ Hypertension
+Arrhythmia
+Shock
+Cardiac Rupture
+Aneurysm
+Pericarditis
+Pulmonary Emboli
+DVT
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-03-22 10:42:22 +0000
+lastModified: 2014-03-22 10:42:51 +0000
+tags: Heartfailure, Complications, heart, CVS, Failure, mnemonic,
+---------------------------/>

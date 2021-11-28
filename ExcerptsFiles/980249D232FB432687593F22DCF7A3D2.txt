@@ -1,0 +1,14 @@
+Diuretics: thiazides: indications
+"CHIC to use thiazides":
+CHF
+Hypertension
+Insipidous
+Calcium calculi
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-03-11 21:51:04 +0000
+lastModified: 2014-03-11 21:51:04 +0000
+tags: Rx, mnemonic, Diuresis, Kidney, Pharmacology, UrinarySystem,
+---------------------------/>

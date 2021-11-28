@@ -1,0 +1,24 @@
+Aneurysm
+Out pouching of a vessel usually due to weakening of the vessel wall
+
+Cause: atherosclerosis
+
+Weakening and out pouching (git = diverticular disease, lungs = bronchiectesis)
+
+Symptom: abdominal aneurysm (sudden flank pain)
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-03 06:55:47 +0000
+lastModified: 2012-09-03 06:55:47 +0000
+tags: CVS, pathology,
+Links:
+wiki: Cerebral_aneurysm
+wiki: Charcot-Bouchard_aneurysm
+ytube: Of6NEJ3FtQM
+wiki: Intracranial_berry_aneurysm
+wiki: Aneurysm
+wiki: Aortic_aneurysm
+---------------------------/>

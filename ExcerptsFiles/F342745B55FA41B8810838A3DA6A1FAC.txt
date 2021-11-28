@@ -1,0 +1,19 @@
+Hers's disease
+Hepatic Glycogen Phosphorylase defect
+- ↑Glycogen in Liver only
+- Hepatomegaly BUT NO Sever Hypoglycemia
+- Glycogen cannot be converted to G6P.
+- But since Gluconeogenesis kicks in, ===> Mild Fasting Hypoglycemia.
+[v] Hepatomegaly, BG 4.5 mMolar, Kid.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-27 15:22:29 +0000
+lastModified: 2013-06-27 15:22:29 +0000
+tags: Biochemistry, Glycogen, Enzymes, GISystem, pathology, mnemonic,
+Links:
+wiki: Glycogen_phosphorylase
+wiki: Glycogen_storage_disease_type_VI
+wiki: Long-term_effects_of_alcohol
+---------------------------/>

@@ -1,0 +1,10 @@
+Creatinine Clearance is higher than GFR
+Net Clearance is High as Cr is freely filtered and tiny amount of Cr is secreted from PT.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-05 18:22:04 +0000
+lastModified: 2013-06-05 19:21:14 +0000
+tags: Clearance, GFR, vignette, Kidney, Physiology, UrinarySystem,
+---------------------------/>

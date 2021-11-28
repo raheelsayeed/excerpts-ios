@@ -1,0 +1,17 @@
+RENAL INFARCTION
+ETIO: THROMBI, AF, ATHEROEMBOLISM AND VASCULITS.
+- SUDDEN ONSET, FLANK PAIN & Hematuria.
+- SICKLECELL: medullar infarctions due to blockade of blood flow in medullary vessels which can cause asymptomatic hematuria, loss of urine concentrating ability and renal papillary necrosis and pyelonephritis
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-08 14:55:36 +0000
+lastModified: 2013-06-09 01:45:33 +0000
+tags: UrinarySystem, Kidney, pathology, etiology, MostCommon,
+Links:
+wiki: Hypertensive_emergency
+ytube: YU2-ClNLciQ
+wiki: Sickle_cell_nephropathy
+wiki: Atherosclerosis
+---------------------------/>

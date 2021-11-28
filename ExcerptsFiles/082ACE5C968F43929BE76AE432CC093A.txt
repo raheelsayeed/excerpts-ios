@@ -1,0 +1,13 @@
+Contractility decreases with:  ”ABBCCC”
+
+A = Acidosis
+BB = Beta blocker
+CCC = hyperCO2, CHF, non-DHP Ca2+ channel blockers
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-03-05 04:38:12 +0000
+lastModified: 2014-03-05 04:38:12 +0000
+tags: mnemonic, MusculoSkeletal,
+---------------------------/>

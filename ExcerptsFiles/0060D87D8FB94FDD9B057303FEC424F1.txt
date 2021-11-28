@@ -1,0 +1,15 @@
+Monoarthritis differential
+GHOST:
+Gout
+Haemarthrosis
+Osteoarthritis
+Sepsis
+Trauma
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-03-24 21:19:15 +0000
+lastModified: 2014-03-24 21:19:15 +0000
+tags: arthritis, MusculoSkeletal, DDx,
+---------------------------/>

@@ -1,0 +1,12 @@
+Ticagrelor
+is an antiplatelet agent in ADDITION to aspirin for ACS. NOT clearly better than clopidogrel. USMLE does NOT lag years behind.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-04-19 00:21:37 +0000
+lastModified: 2012-05-16 12:03:54 +0000
+tags: @seeFischer, platelet, drug, clopidogrel, ACS,
+Links:
+wiki: Ticagrelor
+---------------------------/>

@@ -1,0 +1,14 @@
+Kwashiorkor: distinguishing from Marasmus
+FLAME:
+Fatty Liver
+Anemia
+Malabsorption
+Edema
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-01-30 00:57:32 +0000
+lastModified: 2014-01-30 00:57:32 +0000
+tags: clinical, Nutrition, pathology, serumproteins, Malnutrition, mnemonic,
+---------------------------/>

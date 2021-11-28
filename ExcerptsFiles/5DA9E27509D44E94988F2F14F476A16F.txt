@@ -1,0 +1,21 @@
+SIADH: major signs and symptoms
+SIADH:
+Spasms
+Isn't any pitting edema (key DDx)
+Anorexia
+Disorientation (and other psychoses)
+Hyponatremia
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-01-25 05:19:41 +0000
+lastModified: 2014-01-25 05:19:41 +0000
+tags: Hypothalamus-pituitary, pathology, Hormones, Endocrine, clinical,
+Links:
+wiki: Syndrome of inappropriate antidiuretic hormone secretion
+wiki: Vasopressin
+wiki: Vasopressin receptor antagonist
+ytube: cYhw0gQl4QE
+wiki: Hyponatremia
+---------------------------/>

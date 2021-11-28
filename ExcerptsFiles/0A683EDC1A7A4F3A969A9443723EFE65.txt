@@ -1,0 +1,13 @@
+Fingolimod
+ONLY oral medication for Multiple Sclerosis
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-04-19 00:00:30 +0000
+lastModified: 2012-04-19 00:23:54 +0000
+tags: drug, @seeFischer, MS,
+Links:
+wiki: Multiple_sclerosis
+wiki: Fingolimod
+---------------------------/>

@@ -1,0 +1,23 @@
+Prazosin
+Alpha 1 selective blocker
+Decrease in arteriolar and Venous resistance (TPR)
+Dec in preload
+
+SE: reflex tachycardia, can still release NE
+FIRST DOSE EFFECT: syncope due to orthostatic HTN
+Good for high lipid patients
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-16 11:17:31 +0000
+lastModified: 2012-09-16 11:32:06 +0000
+tags: drug, hypertension, Pharmacology, CVS,
+Links:
+wiki: First-dose_phenomenon
+ytube: H1zN54DTUIs
+ytube: _Kc46EOs7OA
+wiki: Alpha_blocker
+wiki: Sympatholytic
+wiki: Prazosin
+---------------------------/>

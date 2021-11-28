@@ -1,0 +1,20 @@
+Pituitary: anterior hypophysis hormones
+FLATPiG:
+FSH
+LH
+ACTH
+TSH
+Prolactin
+ignore GH
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-02-04 17:06:20 +0000
+lastModified: 2014-02-04 17:06:20 +0000
+tags: Hypothalamus-pituitary, Physiology, Hormones, Endocrine, mnemonic,
+Links:
+wiki: Hypothalamus
+ytube: HFpwsgCrQ0w
+wiki: Anterior pituitary
+---------------------------/>

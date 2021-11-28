@@ -1,0 +1,19 @@
+Thrombolytic agents
+USA:
+Urokinase
+Streptokinase
+Alteplase (tPA)
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-03-05 04:56:00 +0000
+lastModified: 2014-03-05 04:56:00 +0000
+tags: mnemonic, drug, Pharmacology,
+Links:
+wiki: Thrombolysis
+wiki: Desmoteplase
+wiki: Thrombolytic drug
+wiki: Clot Specific Streptokinase
+wiki: Reperfusion therapy
+---------------------------/>

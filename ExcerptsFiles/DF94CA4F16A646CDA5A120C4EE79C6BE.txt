@@ -1,0 +1,33 @@
+REGULATION OF ALVEOLAR VENTILATION
+1. Central ChemoReceptors
+- Medulla of Brain
+- Monitor PaCO₂ & H+
+2. Peripheral Receptors: 
+- Carotid Sinus & Aortic Arch
+- Monitor ↓PaO₂ & PaCO₂
+- Mainly PaO₂, some monitoring PaCO₂
+ 
+((CO₂ diffuses readily BBB
+- H+ cannot cross BBB, only in Infection (CSF) affects Medulla and  cause HyperventilationA.))
+
+
+UNDER NORMAL CIRCUMSTANCES
+- CENTRAL: MAIN DRIVE for VA.
+- VA : PaCO₂
+EXCEPTION: DRAMATIC ↓PaO₂ (<80) or .fO₂ (<17%), the peripheral receptors take control of VA, regardless of PaCO₂
+
+
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-20 15:28:12 +0000
+lastModified: 2013-06-20 15:51:19 +0000
+tags: vignette, blood-gases, RespiratorySystem, Physiology,
+Links:
+wiki: Alveolar_macrophage
+wiki: Ventilation_(physiology)
+wiki: Cheyne–Stokes_respiration
+wiki: Pulmonary_surfactant
+---------------------------/>

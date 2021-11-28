@@ -1,0 +1,23 @@
+Atherosclerosis risk factors
+SHIFT MAID:
+Smoking
+Hypertension
+(N)IDDM
+Family history
+Triglycerdides & fats
+Male
+Age
+Inactivity
+Diet / Drink
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-03-07 06:22:58 +0000
+lastModified: 2014-03-07 07:30:58 +0000
+tags: arteriosclerosis, RIskFactors, CVS, mnemonic,
+Links:
+wiki: Atherosclerosis
+ytube: o2oT5k5MtzU
+wiki: Cardiovascular disease
+---------------------------/>

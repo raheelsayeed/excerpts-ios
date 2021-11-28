@@ -1,0 +1,19 @@
+Control Of BP
+MAP = HR x SV x TPR
+CO = HR X SV
+
+1- ANS
+ I- PNS - M2 - RISE HR
+ II SNS - Beta1 - RISE HR and RISE SV
+     Jill
+Likihoih
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-04-13 15:16:58 +0000
+lastModified: 2012-04-16 00:00:08 +0000
+tags: Beta1, BP, ANS, SNS, HR, TPR, Alpha1, SV, formulae,
+Links:
+wiki: Hypotension
+---------------------------/>

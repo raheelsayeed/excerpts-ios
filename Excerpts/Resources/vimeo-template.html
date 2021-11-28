@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width; initial-scale=1.0; user-scalable=no; minimum-scale=1.0; maximum-scale=1.0;" />
+    	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta name="robots" content="noindex"/>
+        <link rel="icon" href="/images/favicon.png"/>
+        <style type="text/css">
+            body {
+                font-family: Helvetica;
+                font-size: 15px;
+                margin: 0;
+                padding: 0;
+                -webkit-text-size-adjust: none;
+				-webkit-touch-callout: none;
+                word-wrap: break-word;
+                background-color: black;
+                color: white;
+                width: 100%;
+            }
+        
+        body.iphone { height: 416px; }
+        body.ipad   { height: 936px; }
+        
+        @media only screen and (orientation:landscape) {
+            body.iphone { height: 256px; }
+            body.ipad   { height: 680px; }
+        }
+		
+        
+        </style>
+		<script type="text/javascript">
+            function setPlayerSize(width, height) {
+            }
+		</script>
+    </head>
+    <body class="%DEVICECLASS%">
+        <iframe src="http://player.vimeo.com/video/%VIDEO_ID%?byline=0&title=0&badge=0&portrait=0" width="%WIDTH%" height="%HEIGHT%" frameborder='0'></iframe>
+    </body>
+</html>

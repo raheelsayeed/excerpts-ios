@@ -1,0 +1,16 @@
+Hypoxemia after birth retains PDA
+RDS: massive ventilation defect. (Shunt problem)
+Rx PEEP therapy. Positive end expiration pressure. Keeps airways open and stimulates surfactant.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-21 03:15:19 +0000
+lastModified: 2013-06-21 03:33:45 +0000
+tags: Surfactant, blood-gases, RespiratorySystem, pathology,
+Links:
+wiki: Alveolar_capillary_dysplasia
+wiki: Acute_respiratory_distress_syndrome
+wiki: Hypoxemia
+wiki: Positive_end-expiratory_pressure
+---------------------------/>

@@ -1,0 +1,22 @@
+Aneurysm types
+MAD SCAB:
+Mycotic
+Atherosclerotic
+Dissecting
+Syphilitic
+Capillary microaneurysm
+Arteriovenous fistula
+Berry
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-01-25 09:03:02 +0000
+lastModified: 2014-01-25 09:03:02 +0000
+tags: arteriosclerosis, Types, CVS, mnemonic,
+Links:
+wiki: Intracranial aneurysm
+ytube: e1yMorkuMy0
+wiki: Aneurysm (song)
+wiki: Aneurysm
+---------------------------/>

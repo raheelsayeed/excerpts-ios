@@ -1,0 +1,22 @@
+GEMFIBROZIL
+MECHANISM: INDUCTION OF LIPOPROTEIN LIPASES.
+- ASSOCIATED WITH PEROXYSOME Proliferator activated receptors (+PPARs, transcription factors of lipids and carbs)
+- DEC VLDL, IDL
+- MOSTLY MODEST DEC LDL
+- INC HDL
+- SOMETIMES, INC LDL WITH COMBINED HYPERLIPIDEMIAS
+USE: HYPERTRIGLYCERIDEMIA only!!!
+S/E: GALLSTONES, MYOSITIS
+C/I: HYPERCHOLESTROLEMIA
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-14 12:21:37 +0000
+lastModified: 2013-06-14 12:28:05 +0000
+tags: drug, Pharmacology, CVS, Lipids,
+Links:
+wiki: Gemfibrozil
+ytube: 0ebYMusnaHQ
+ytube: s2WT_wUKhPM
+---------------------------/>

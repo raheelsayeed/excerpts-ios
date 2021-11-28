@@ -1,0 +1,19 @@
+Diuretic Drugs
+As most diuretics act, attempt to prevent reabsorption of Na at Proximal (60%), Loop (25%), distal (5%), Nephron tries to compensate by Increasing Na,K Antiporter in Collecting Duct.
+Resulting in 
+- Hypokalemia
+- Alkalosis (<H+ secretion with K)
+
+EXCEPT K SPARING DIURETIC
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-14 01:59:12 +0000
+lastModified: 2013-06-14 02:07:33 +0000
+tags: vignette, Diuresis, nephron, Kidney, Pharmacology, UrinarySystem,
+Links:
+wiki: Diuretic
+wiki: Active_transport
+wiki: Hydrochlorothiazide
+---------------------------/>

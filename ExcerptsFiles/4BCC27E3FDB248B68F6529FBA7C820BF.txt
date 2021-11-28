@@ -1,0 +1,20 @@
+Clearance Kidney
+Taking a substance out of volume of plasma and excreting it.
+
+Volume to be cleared depends on
+
+- Excretion rate of substance
+- Plasma concentration of substance
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-05-30 17:04:39 +0000
+lastModified: 2013-05-30 23:12:31 +0000
+tags: Physiology, Numbers, Kidney, UrinarySystem,
+Links:
+ytube: 86CK97L7oCY
+ytube: ZA8Ut_1mqTg
+wiki: Renal_clearance_ratio
+wiki: Renal_function
+---------------------------/>

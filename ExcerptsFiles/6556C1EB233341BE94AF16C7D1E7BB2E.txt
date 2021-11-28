@@ -1,0 +1,41 @@
+α₁ Adrenergic Receptor
+Stimulation:
+- Mainly Smooth Muscle
+- Gq coupled, ↑Ca2+
+- Smooth muscle contraction.
+- alpha1: vasoconstriction arteries and veins, 
+- alpha1: Inc TPR
+- intestinal relaxation
+- sphincters of GI / Bladder: contraction, retention.
+- radial muscle: contraction
+- agonists DO NOT CHANGE PP
+
+Mechanism:
+α1-Adrenergic receptors are members of the G protein-coupled receptor superfamily. Upon activation, a heterotrimeric G protein, Gq, activates phospholipase C (PLC), which causes an increase in IP3 and calcium. This triggers further effects, primarily through the activation of an enzyme Protein Kinase C. This enzyme, as a kinase, functions by phosphorylation of other enzymes causing their activation, or by phosphorylation of certain channels leading to the increase or decrease of electrolyte transfer in or out of the cell.
+
+
+Agonist:
+- Epinephrine
+- Norepinephrine
+
+Blockers
+- Prazosin drug
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-10 04:52:34 +0000
+lastModified: 2013-06-30 02:52:59 +0000
+tags: GCPR, ANS, Pharmacology, drug, TPR, Alpha1, Receptors, CVS,
+Links:
+wiki: Adrenergic_receptor
+wiki: Alpha-1_adrenergic_receptor
+ytube: _-ONzh_y2vE
+wiki: Mydriasis
+wiki: Alpha-1D_adrenergic_receptor
+wiki: Alpha-1A_adrenergic_receptor
+wiki: Alpha-1B_adrenergic_receptor
+ytube: bonQXcA5Dnc
+ytube: 1zs055ID3WM
+---------------------------/>

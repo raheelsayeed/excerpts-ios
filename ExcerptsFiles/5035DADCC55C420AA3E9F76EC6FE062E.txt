@@ -1,0 +1,23 @@
+Pneumothorax
+MostCommon cause: ruptured subpleural bleb.
+- trachea moves to the side of collapse.
+- diaphragm moves up in that side.
+
+Tension: knife injuries
+- air builds up in the pleural cavity, but cannot leave.
+- diaphragm is pushed down.
+- compression atelectasis.
++Pleural pressure pushes everything to the other side (mediastinum)
+Rx relieve the positive pressure.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-21 03:19:49 +0000
+lastModified: 2013-06-21 03:33:45 +0000
+tags: pathology, MostCommon, RespiratorySystem,
+Links:
+wiki: Pneumothorax
+wiki: Pleural_cavity
+wiki: Hydropneumothorax
+---------------------------/>

@@ -1,0 +1,13 @@
+Ventricular tachycardia: treatment
+LAMB:
+Lidocaine
+Amiodarone
+Mexiltene/ Magnesium
+Beta-blocker
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-02-11 17:15:29 +0000
+lastModified: 2014-02-11 17:15:29 +0000
+---------------------------/>

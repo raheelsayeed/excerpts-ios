@@ -1,0 +1,30 @@
+HMG-CoA Reductase inhibitors
+- dec liver cholesterol
+- inc ldl recep expres
+- dec plasma LDL
+- dec VLDL synthesis: dec TAG
+
+diabetics have > inc TAG
+SIDE EFECTS
+- MYALGIA
+- MYOPATHY
+- RHABDOMYOLYSIS (ALSO BLOCKS FARNESYL PYROPHOSPHATE IS REQUIRED FOR PRODUCTION OF COENZYMEQ - ELECTRONTRANSPORTCHANGE, 
+DEC PRODUCTION OF ATP, DEC ACTIVITY, NA PUMP - > SWELLING, RUPTURE OF MUSCLE CELL.
+- ACUTE TUBULAR NECROSIS
+- hepatotoxicity (dec VLDL fails to clear Liver of Cholesterol) [guided by ALT AND AST TEST]/
+
+INTERACTIONS: ANTIBIOTICS, QUINOLONES, ALCOHOL (ACUTE, OCCAISIONAL DRINKER).
+- GEMFIBROZIL (VLDL) INTERFERES WITH clearance of statins (decreased)
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-14 12:15:00 +0000
+lastModified: 2013-06-14 12:28:05 +0000
+tags: drug, Pharmacology, CVS, Lipids,
+Links:
+wiki: HMG-CoA_reductase
+wiki: Mevalonate_pathway
+ytube: lOKxdtmayug
+wiki: Atorvastatin
+---------------------------/>

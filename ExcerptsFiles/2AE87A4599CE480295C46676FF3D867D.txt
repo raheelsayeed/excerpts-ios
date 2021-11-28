@@ -1,0 +1,13 @@
+Drugs for Acute CHF
+Ionotropes digoxin.
+In chronic dosage, digoxin will increase cardiac workload overtime and cause muscle remodeling.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-12 02:16:23 +0000
+lastModified: 2012-09-12 02:33:04 +0000
+tags: drug, Heartfailure, Pharmacology, CVS,
+Links:
+wiki: Digoxin
+---------------------------/>

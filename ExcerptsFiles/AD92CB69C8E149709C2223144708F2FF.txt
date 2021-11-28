@@ -1,0 +1,31 @@
+Lipoproteins and Cholesterol Homeostasis
+6 LIPOPROTEINS
+- 3  GENERIC MADE
+- 3  DEGRADATION PRODUCTS
+
+
+1. GENERIC: CHYLOMICRONS, VLDL, HDL (LIVER)
+2. DEG: CHYLOMICRON REMNANTS, IDL (VLDL), LDL (IDL)
+
+CHOLESTEROL Cellular Homeostasis 
+- HMG CoA Reductase (Synthesis)
+- ACAT: Esterification (Storage)
+- LDL-Receptor-GENE Expression Control: (UPTAKE)
+
+↑Chol: ↓HMG CoA Reductase, ↑ACAT, ↓LDL-Receptor-Gene Expression
+↓Chol: ↑HMG CoA Reductase, ↓ACAT, ↑LDL-Receptor-GeneExpression
+
+PATH
+LDL-Receptor-DEFECT: Type IIa Hyperlipidemia or Hypercholesterolemia or Familial Hypercholesterolemia
+
+- No functional LDL Receptors, 
+- ↑LDL-Serum: Hypercholesterolemia
+- Cells start Making more Cellular Cholesterol: Contributing to Hypercholesterolemia. Vey vey bad!
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-15 15:47:14 +0000
+lastModified: 2013-07-15 15:47:14 +0000
+tags: vignette, pathology, GISystem, Lipids, Biochemistry,
+---------------------------/>

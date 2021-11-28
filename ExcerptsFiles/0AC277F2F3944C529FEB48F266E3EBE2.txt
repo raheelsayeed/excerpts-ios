@@ -1,0 +1,14 @@
+ARDS: diagnostic criteria
+ARDS:
+Acute onset
+Ratio (PaO2/FiO2) less than 200
+Diffuse infiltration
+Swan-Ganz Wedge pressure less than 19 mmHg
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-03-07 03:33:53 +0000
+lastModified: 2014-03-07 03:33:53 +0000
+tags: Dx, DDx, RespiratorySystem,
+---------------------------/>

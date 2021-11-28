@@ -1,0 +1,22 @@
+Prothrombin Time, Vitamin K
+The prothrombin time is the time it takes plasma to clot after addition of tissue factor). 
+
+This measures the quality of the extrinsic pathway (as well as the common pathway) of coagulation. The speed of the extrinsic pathway is greatly affected by levels of factor VII in the body. Factor VII has a short half-life and its synthesis requires vitamin K. The prothrombin time can be prolonged as a result of deficiencies in vitamin K, which can be caused by warfarin, malabsorption, or lack of intestinal colonization by bacteria (such as in newborns). 
+
+
+In addition, poor factor VII synthesis (due to liver disease) or increased consumption (in disseminated intravascular coagulation) may prolong the PT.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-02-11 04:04:56 +0000
+lastModified: 2014-02-26 06:50:59 +0000
+tags: hematology, Liver, pathology, GISystem, Vitamins, CoagulationFactors,
+Links:
+ytube: K5IVkN2OCyA
+wiki: Malabsorption
+ytube: QiFWTmkSsug
+wiki: Vitamin K
+wiki: Warfarin
+wiki: Prothrombin time
+---------------------------/>

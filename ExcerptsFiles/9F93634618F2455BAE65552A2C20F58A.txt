@@ -1,0 +1,13 @@
+SULFONAMIDE CONTAINING DRUGS
+- LIPID SOLUBLE: BETTER ABSORBED, BETTER DISTRIBUTION
+- PROTEIN BINDING: POSSIBILITY OF IMMUNE RESPONSE (HAPTEN): HYPERSENSITIVITY
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-14 02:07:33 +0000
+lastModified: 2013-06-14 02:07:33 +0000
+tags: vignette, drug, Kidney, Diuresis, Pharmacology, UrinarySystem,
+Links:
+wiki: Sulfonamide_(medicine)
+---------------------------/>

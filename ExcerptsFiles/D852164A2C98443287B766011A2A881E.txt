@@ -1,0 +1,20 @@
+Insulin transport - Adipose, Muscle
+- Glut4 is premade in cells, stored in vesicles
+- Insulin receptor is Tyrosin Receptor
+- receptor AutoPhosphorylates itself.
+- IP-3 kinase activated in response to insulin
+- IP-3 opens vesicles, release GLut4
+- Glut4 mobilises to membrane and enables  entry of Glucose
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-16 23:43:50 +0000
+lastModified: 2013-06-17 00:31:56 +0000
+tags: insulin, Channels, Carbohydrates, Receptors, Biochemistry,
+Links:
+wiki: Insulin
+wiki: Insulin_receptor
+wiki: Insulin_potentiation_therapy
+wiki: GLUT4
+---------------------------/>

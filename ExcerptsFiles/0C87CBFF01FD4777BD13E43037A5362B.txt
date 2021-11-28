@@ -1,0 +1,16 @@
+Bosentan
+Endothelin Receptor (ET) blocker
+- ET stimulation is a powerful vasoconstrictor
+Use: for Pulmonary hypertension
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-17 00:27:41 +0000
+lastModified: 2012-09-17 01:01:59 +0000
+tags: Pulmonary, drug, hypertension, Pharmacology, CVS,
+Links:
+wiki: Endothelin_receptor_antagonist
+wiki: Bosentan
+ytube: XAV0W544Iy8
+---------------------------/>

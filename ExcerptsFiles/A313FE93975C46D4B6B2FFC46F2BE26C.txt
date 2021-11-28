@@ -1,0 +1,23 @@
+Atypical Pneumonia
+- Mycoplasma pneumoniae
+- Chlamidiae 
+- chronicity
+
+S/s
+- no exudate
+- no signs of consolidation
+- Insidious onset
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-24 14:37:50 +0000
+lastModified: 2013-06-24 16:01:56 +0000
+tags: clinical, microbiology, RespiratorySystem, pneumonia, pathology, MostCommon,
+Links:
+wiki: Atypical_pneumonia
+wiki: Chlamydophila_pneumoniae
+wiki: Mycoplasma_pneumoniae
+wiki: Mycoplasma
+---------------------------/>

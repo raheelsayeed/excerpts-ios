@@ -1,0 +1,29 @@
+Insulin Transport Liver and Pancreas
+Glut2 channel
+Beta cell sensor in pancreas sense extra glu in cell and release insulin if higher.
+
+Glu in liver used for biosynthesis of 
+- Glycogen
+- Fatty acids
+- Cholesterol
+
+Lipoprotein Lipase converts TG into Fatty acids which is taken up by adipocytes.
+TG cannot go through membrane
+
+Km is 15 mM very high!
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-16 23:50:35 +0000
+lastModified: 2013-06-17 00:31:56 +0000
+tags: Channels, Carbohydrates, insulin, Biochemistry,
+Links:
+ytube: zrWKZZpKAYY
+ytube: OYH1deu7-4E
+wiki: Hepatic_lipase
+wiki: Insulin_signal_transduction_pathway_and_regulation_of_blood_glucose
+ytube: OC24PliCzME
+wiki: Lipoprotein_lipase
+---------------------------/>

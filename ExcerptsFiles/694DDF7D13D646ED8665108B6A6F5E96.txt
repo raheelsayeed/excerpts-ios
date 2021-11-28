@@ -1,0 +1,33 @@
+Patent Ductus arteriosus
+Etiology
+Premature babies, hyaline disease, respiratory distress syndrome.
+Between pulmonary trunk and aorta.
+In fetus, pulmonary vessels are thick and has high pressure.
+
+eventually duct closes forming ligamentum arteriosis.
+
+Oxygenated blood goes into PA, pulmonary veins are 95 percent
+Clinical
+Ductus empties distal to subclavian artery.
+Differential cyanosis, pink on top, cyanotic at the bottom.
+
+Associated : congenital rubella.
+
+Indomethacin : potent non steroidal. Inhibit PGE2 and will start constricting.
+Surgery: ligate the duct.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-03 00:43:18 +0000
+lastModified: 2012-09-08 13:51:40 +0000
+tags: Rx, CongenitalHD, drug, CVS,
+Links:
+wiki: Patent_ductus_arteriosus
+wiki: Indometacin
+wiki: Ductus_arteriosus
+ytube: weZHxXqdeGU
+wiki: Prostaglandin
+wiki: Prostaglandin_F2alpha
+ytube: yDSTONfL4h8
+---------------------------/>

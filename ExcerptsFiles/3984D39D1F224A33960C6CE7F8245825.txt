@@ -1,0 +1,15 @@
+Epiglottis Infection
+By h.influenza 
+Symptom: Inspiration stridor
+
+Kid (3 months), tracheal inflammation: parainfluenza infection
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-21 02:16:21 +0000
+lastModified: 2013-06-21 03:33:45 +0000
+tags: RespiratorySystem, UpperPart, infections, pathology,
+Links:
+wiki: Epiglottitis
+---------------------------/>

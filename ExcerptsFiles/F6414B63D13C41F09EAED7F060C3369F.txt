@@ -1,0 +1,15 @@
+Solute Transport (Diffusion)
+
+- Simple Diffusion
+- Felicitated diffusion (across electrochemical gradient)
+- Active transport protein mediated, ATP drives the process, can move from lower to higher conc compartment.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-05-30 17:48:02 +0000
+lastModified: 2013-05-30 23:12:31 +0000
+tags: Physiology, UrinarySystem,
+Links:
+wiki: Membrane_transport
+---------------------------/>

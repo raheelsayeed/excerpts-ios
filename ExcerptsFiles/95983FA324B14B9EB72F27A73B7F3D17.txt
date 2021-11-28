@@ -1,0 +1,20 @@
+Transport Maximum System
+- CARRIERS EASILY SATURATED.
+- CARRIERS HAVE HIGH AFFINITY FOR SUBSTRATE.
+NO BACK LEAK NO BACK DIFFUSION
+- ENTIRE FilteredLoad is reabsorbed until ™ is reached; excess is excreted.
+
+all natural substances organic and some inorganic are reabsorbed by ™ system in PT.
+EXCEPTION: UREA. freely filtered but only partially reabsorbed.
+FLOW DEPENDENT: UREA FOLLOWS WATER BUT NOT PROPORTIONALLY.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-06 17:38:54 +0000
+lastModified: 2013-06-06 18:16:04 +0000
+tags: Physiology, Reabsorption-Renal, Kidney, nephron, UrinarySystem,
+Links:
+wiki: Chloride_potassium_symporter
+wiki: Transport_maximum
+---------------------------/>

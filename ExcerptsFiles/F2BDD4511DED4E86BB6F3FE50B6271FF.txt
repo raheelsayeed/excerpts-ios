@@ -1,0 +1,27 @@
+Community Acquired Pneumonia
+- Exudate +
+- Signs of consolidation
+- lobar pneumonia
+- Strep pneumoniae
+
+S/s
+- dullness to percussion
+- ^tactile fremitus
+- ^Egophony
+- whisper, Pectoriloquy
+
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-24 14:44:19 +0000
+lastModified: 2013-06-24 16:01:56 +0000
+tags: RespiratorySystem, microbiology, pneumonia, pathology, clinical,
+Links:
+wiki: Classification_of_pneumonia
+wiki: Pneumonia_severity_index
+wiki: Pulmonary_consolidation
+wiki: Whispered_pectoriloquy
+wiki: Community-acquired_pneumonia
+---------------------------/>

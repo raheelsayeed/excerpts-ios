@@ -1,0 +1,21 @@
+Acute LVF management
+LMNOP:
+Lasex (frusemide)
+Morphine (diamorphine)
+Nitrates
+Oxygen (sit patient up)
+Pulmonary ventilation (if doing badly)
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-02-21 10:36:36 +0000
+lastModified: 2014-02-21 10:36:36 +0000
+tags: Rx, drug, Heartfailure, Pharmacology, CVS,
+Links:
+wiki: Dromotropic
+wiki: Furosemide
+wiki: Morphine
+wiki: LVF
+wiki: Co-amilofruse
+---------------------------/>

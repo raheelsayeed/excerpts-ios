@@ -1,0 +1,31 @@
+Acetyl CoA Carboxylase
+An ABC enzyme, like Pyruvate Carboxylase
+
+Activation
+1. insulin
+   - At genetic level
+   - Dephosphorylates existing enzyme
+   - drives glycolysis, produced NADPH (HMP)
+
+2. Citrate (cytoplasm)
+   - High carb meal
+   - allosterical action
+
+DEACTIVATION:
+1. Glucagon (sleep)
+ Activates protein kinase C, phosphorylatesth  acetyl CoA.
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-06 17:02:09 +0000
+lastModified: 2013-07-06 17:02:09 +0000
+tags: Lipids, Enzymes, GISystem, insulin, Biochemistry,
+Links:
+wiki: Carboxylation
+wiki: Acetyl-CoA_carboxylase
+wiki: (acetyl-CoA_carboxylase)_kinase
+wiki: Biotin—(acetyl-CoA-carboxylase)_ligase
+wiki: (acetyl-CoA_carboxylase)-phosphatase
+---------------------------/>

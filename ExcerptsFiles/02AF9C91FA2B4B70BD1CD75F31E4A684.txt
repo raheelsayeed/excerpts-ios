@@ -1,0 +1,110 @@
+Glycogen Metabolism
+vignette
+Branched: 
+Many terminal glucose
+Polymer
+
+
+- Glucose --- Glucose 6 Phosphate --> GLucose 1 Phosphate.
+
+- Glucose-1-P =={UTP---> PPi}===> UDP-Glucose
+UDP-Glucse is a glu transporter molecule.
+- UDP-Glu =={Glycogen Synthase, BranchingEnzyme}== Glycogen
+
+Glycogen is a polymer, branches have glucose.
+
+
+Insulin {Liver, Muscle} Mobilizes Glucose into Liver via Glut4
+- Stimulates: Glycogen Synthase
+- Promotes Glycogen Formation and thus Glucose Consumption
+- Glucagon Turns OFF Glycogen Synthase (via Beta Receptor Stimulation
+
+
+
+Glycogen =={Glycogen Phosphorylase & Debranching Enz}== Glucose-1-P.
+"Phosphorylase" Uses Inorganic Phosphate to cleave sugar bonds.
+Other one is "Purine Nucleoside Phosphorylase".
+
+
+
+Stimulation of Glycogen Phosphorylase releases Glucose into the tissue.
+Glucose Releasers:
+1. Glucagon (Liver)
+2. Epinephrine (Liver, Muscle)
+3. AMP (Muscle)
+
+Insulin Turns OFF Glycogen Phosphorylase: activates Phosphatase that Dephosphorylates the Phosphorylase (Glycogen Phosphorylase)
+
+
+Now Glucose-1-P ---> Glucose-6-P.
+
+IN LIVER:
+Glucose-6-P =={Glucose-6-Phosphatase}== GLUCOSE!
+We'r back to glucose in Liver, Liver can thus breakdown glycogen to maintain Blood Glucose Level.
+
+In MUSCLE, HOWEVER,
+G6P IS DIVERTED TO GLYCOLYSIS (ATP) PRODUCTION.
+G6Phosphatase is NOTTTT in Muscle. Muscle is not involved in maintaining Blood Glucose Level.
+
+
+Why Is Glycogen…… Glycogen? (Branched, Polymer)
+A] Glucose alone is Too osmotic, takes too much space in liver and muscle.
+Its branched because:
+- More water soluble (easily dissolved in liver, muscle)
+- More Terminal Glucose, easy for G6Pase to cleave out Glu in sudden bursts.
+
+Starch= Linear Polymer. (Not water soluble).
+Glucose - alpha,1,4 - Glucose - alpha,1,4 - Glucose
+
+
+------
+Glycogen Storage Diseases:
+1. Von Gierke's disease: G6Pase
+- Sever Hypoglycemia (contrast to Hers's disease)
+- Lactic Acidosis
+- Hepatomegaly: G6P accumulates, highly osmotic
+- Hyperlipidemia (in response to hypoglycaemia, hormone sensitive lipase breaks down Fatty acids giving rise to TGs)
+- Hyperuricemia: Short stature, doll-like facies, protruding abdomen
+
+2. Pompe's Disase: Lysosomal alpha1,4-glucosidase
+- Cardiomegaly
+- muscle weakness
+- death by 2 years.
+
+3. Cori's disease: Glycogen Debranching enzyme defect
+- Something wrong with glycogen structure!!!
+- A lot of single glucose residue stubs at outer branch
+- Hepatomegaly
+- Mild Hypoglycemia
+
+4. Andersen's disease (amylo-pectinosis): Branching enzyme defect.
+- Expecting No proper glycogen storage.
+- Very few branches (peripherally)
+- Infantile Hypotonia
+- cirrhosis 
+- death by 2 years
+
+5. McArdle's disease: Muscle Glycogen Phosphorylase defect
+- "M"cArdle = "M"uscle
+- ↑Glycogen in "M" only.
+- [v] "a child running around playground, complains of muscle weakness, muscle cramping."
+Child=> Epinephrine => Muscle => Beta stimulation => Gs Protein Activation=>  Adenyl Cyclase => ↑cAMP => ProteinKinase-A =>Phosphorylates GlycogenPhosphorylase. defect here cannot produce ATP, thus Muscle weakness ensues.
+
+6. Hers's disease: Hepatic Glycogen Phosphorylase defect
+- ↑Glycogen in Liver only
+- Hepatomegaly BUT NO Sever Hypoglycemia
+- Glycogen cannot be converted to G6P.
+- But since Gluconeogenesis kicks in, ===> Mild Fasting Hypoglycemia.
+[v] Hepatomegaly, BG 4.5 mMolar, Kid.
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-27 15:25:28 +0000
+lastModified: 2013-06-27 15:54:12 +0000
+tags: Biochemistry, insulin, Glycogen, Enzymes, GISystem, mnemonic, pathology, vignette,
+Links:
+wiki: Glycogen
+wiki: Glycogen_storage_disease_type_III
+---------------------------/>

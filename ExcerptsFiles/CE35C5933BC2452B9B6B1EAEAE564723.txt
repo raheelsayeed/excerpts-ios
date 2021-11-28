@@ -1,0 +1,38 @@
+Triglycerides Digestion
+Recommended daily max: 80g
+
+TG (mouth)
+1. Nothing in mouth and stomach
+
+In Duodenum:
+- required Bile (liver)
+- Pancreatic Lipase 
+- p. colipase
+- FORMS 2-MonoAcyl glyceride (2-MG) + 2 FA
+
+INTESTINAL MUCOSAL CELL
+- recombined forming TG
+- Packaged as Chylomicron
+- Reaches Blood via Lymph (thoracic duct)
+
+Graph
+- bloodTG/Time
+- peaks 4-5 hrs
+- lasts till 2-7 hours post feeding
+- Transient Triglyceridemia
+- Bellshaped
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-06 16:33:07 +0000
+lastModified: 2013-07-06 17:02:09 +0000
+tags: Lipids, Enzymes, GISystem, Graphs, Biochemistry,
+Links:
+wiki: Triglyceride
+wiki: Pancreatin
+wiki: Fatty_acid
+wiki: Medium-chain_triglyceride
+wiki: Lipase
+wiki: Lingual_lipase
+---------------------------/>

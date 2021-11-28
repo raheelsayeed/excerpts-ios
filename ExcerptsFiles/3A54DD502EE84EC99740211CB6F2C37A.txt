@@ -1,0 +1,30 @@
+Pulmonary Hypertension (keys)
+- ↑Pulomonary Artery Pressure usually due to ↑Vascular Resistance or ↑blood flow
+- Primary: Young Females
+secondary to COPD
+- Pulomary emboli (multiple)
+
+Etiology
+- COPD, Interstitial Disease (hypoxic vasoconstriction)
+- CVS: LHF, Mitral Stenosis
+- Congenital: Left to Right Shunt
+- Primary HTN
+
+Path: 
+Pulomary Artery atherosclerosis
+Small Artery medial hypertrophy & intimal fibrosis
+- plexogenic pulmonary arteriopathy
+
+Complication: Right Ventricular Hypertrophy>failure.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-26 15:08:28 +0000
+lastModified: 2013-06-26 16:17:38 +0000
+tags: RespiratorySystem, Complications, pathology, etiology, Vascular,
+Links:
+ytube: VxtcwijYfNM
+wiki: Pulmonary_Hypertension_Association
+wiki: Pulmonary_hypertension
+---------------------------/>

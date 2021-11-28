@@ -1,0 +1,38 @@
+Bacterial Pnemonia
+- productive cough
+- dullness
+- richi rales
+- .breathsounds
+- shift to the left
+
+1. Lobar Pnemonia (entire lobe)
+2. Broncho Pnemonia (lobular, patchy involvement)
+
+Lobar Pnemonia
+- 95% strep pneumo (rusty sputum)
+- alcoholic : klebsiella infection
+
+Stages
+- consolidation (inside alveolar spaces, acute hyperemia, edema)
+- Red hepatization (neutrophils and hemorrhage)
+- grey hepatization (degradation of rbc)
+- resolution healing,
+
+Complications of Pnemonia
+- pleural scarring, fibrosis, pleural adhesions
+- lung abscess
+- empyema
+- sepsis
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-21 03:24:26 +0000
+lastModified: 2013-06-21 03:33:45 +0000
+tags: RespiratorySystem, Complications, infections, pathology,
+Links:
+ytube: _fCeqbyRvGk
+ytube: 8UrZv4vbpz4
+wiki: Pneumonia
+wiki: Lobar_pneumonia
+---------------------------/>

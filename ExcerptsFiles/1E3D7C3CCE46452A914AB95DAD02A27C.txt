@@ -1,0 +1,45 @@
+Hypothalamo-pituitary axis and pathology
+- Woman present early: missed period, prolactin
+- Men late, bigger, erectile dysfunction
+
+
+Exception: Na-k-Atpase present in everycell except Brain and gonads
+
+
+TRH : Thyrotophs : Thyroxin
+CRH: ACTH
+GNRH: gonadotrophs : LH, FsH
+GHRH : SOMATOTROPHS : GH
+SOMATOSTATIN : SOMATOTROPHS : (-)
+PIF: (-) lactotrophs: - Prolactin
+TRH : (+) lactotrophs : Prolactin
+
+
+Pathology
+
+Sheehan Syndrome
+- pituitary infarction syndrome
+- in pregnancy like many organs pit enlarges and after delievery, with blood loss, areas of pit undergo selective infarction
+
+2. Pituitary Adenomas (60%)
+- benign
+- Large: compress
+- micro or macro adenomas
+- micro MC
+-  COMPRESS OPTIC CHIASMA
+- MALIGNANCIES ARE NON FUNCTIONAL!!!!
+- MC: hypothalamo-pituitary dysfunction.
+- Hyperprolactinemia: presents with galactorrhea and hypogonadism (erectile dysfunction)
+- dry men and juicy women!
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-19 15:36:16 +0000
+lastModified: 2013-07-19 15:54:46 +0000
+tags: Hypothalamus-pituitary, Physiology, pathology, Hormones, Endocrine,
+Links:
+wiki: Locus_coeruleus
+wiki: Hypothalamic–pituitary–adrenal_axis
+wiki: Effects_of_stress_on_memory
+---------------------------/>

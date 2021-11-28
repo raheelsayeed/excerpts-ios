@@ -1,0 +1,27 @@
+ACTIVE TRANSPORT
+1 PRIMARY AT: TRANSPORTING PORTEIN DIRECTLY uses ATP. Na,K,ATPase, and Calcium dep-ATPase.
+
+2. SECONDARY AT: TRANSPORTING PROTEIN DOES NOT HAVE ATPase activity, indirectly uses ATP. for energy eg. Na-Glu in PT  with N,K,ATPase.
+The rate of Absorption of Glu in (PT) depends on the rate Na Gradient across the membrane.
+
+ the other e.g.: Na,H (Antiport), with Na,K,ATPase pump.
+Rate of pumping of hydrogen, is based upon the sodium gradient across that membrane.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-04 17:48:15 +0000
+lastModified: 2013-06-04 17:48:40 +0000
+tags: transport, Physiology, Kidney, UrinarySystem,
+Links:
+wiki: Symporter
+ytube: kfy92hdaAH0
+ytube: rR7NOSRyzhM
+ytube: LyvmM1lKtWs
+wiki: Na+/K+-ATPase
+wiki: Electrochemical_gradient
+wiki: Passive_transport
+wiki: Active_transport
+wiki: Carrier_protein
+wiki: Sodium-glucose_transport_proteins
+---------------------------/>

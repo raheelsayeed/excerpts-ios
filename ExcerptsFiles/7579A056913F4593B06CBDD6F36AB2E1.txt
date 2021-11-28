@@ -1,0 +1,53 @@
+Adrenergic Transmission and drugs
+- Tyrosine =={TyrosineHydroxylase}== DOPA
+- DOPA =={Decarboxylase}== Dopamine (precurser of NE)
+- Dopamine =={V-Dopamine-β-Hydroxylase} == NE
+
+
+DIRECT ACTING (AGONISTS/BLOCKERS)
+- α₁ or β₁
+
+1. Methyl-P-Tyrosine
+Not chemically used.
+Blocks TyrosineHydroxylase
+↓DOPA ↓NE release -- ↓ α/β stimulation
+
+2. MAO inhibitors & Releasers.
+Inhibits MAO Enzyme: ↑NE Pool
+Releasers: ↑NE release activity
+Exagerated Cardiovascular responses: Life threatening
+
+3. Reupdate Blockers
+↑ NE in synapse. ↑ Stimulation
+
+5. α₂ Agonists & Antagonists
+LOCATED PRESYNAPTICALLY not On Effector Cells
+- AKA Autoreceptors
+- Primary job: NEGATIVE FEEDBACK
+- Control & Synthesis of NE release
+- Blocking α₂ receptor: ↑NE Release & ↑α, β Stimulation
+
+6. Reserpine
+
+7. Guanethidine
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-30 02:13:23 +0000
+lastModified: 2013-06-30 02:52:59 +0000
+tags: drug, Pharmacology, Enzymes, ANS, Receptors,
+Links:
+wiki: Adrenergic_agonist
+wiki: Adrenergic_antagonist
+wiki: Adrenergic_storm
+wiki: Isoprenaline
+ytube: Sxfc_AxxF0w
+ytube: ZfnWmPZ45F8
+wiki: Epinephrine
+wiki: Adrenergic
+wiki: Norepinephrine
+wiki: Adrenergic_receptor
+ytube: BuHT4g6tikw
+wiki: Norepinephrine_reuptake_inhibitor
+---------------------------/>

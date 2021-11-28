@@ -1,0 +1,30 @@
+Loop Of Henle
+Descending Limb
+- walls permeable to Water
+- absorption of water
+- Osmolarity reaches a maximum at tip of loop of henle
+
+Ascending thick
+- walls impermeable to Water
+- powered by Active transport Na: of HCO3
+- Osmolarity reaches 100
+- reabsorption of Na, K, Cl, HCO3
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-05 19:00:56 +0000
+lastModified: 2013-06-05 19:21:14 +0000
+tags: Physiology, Kidney, RegionalTransport, UrinarySystem,
+Links:
+wiki: Descending_limb_of_loop_of_Henle
+ytube: _CnhwhHsWLI
+wiki: Loop_of_Henle
+wiki: Thin_ascending_limb_of_loop_of_Henle
+wiki: Thin_segment
+wiki: Thick_ascending_limb_of_loop_of_Henle
+wiki: Ascending_limb_of_loop_of_Henle
+ytube: KINOArtDeWg
+ytube: HhuGrUm0cHM
+---------------------------/>

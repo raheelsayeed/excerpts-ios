@@ -1,0 +1,31 @@
+LOOP DIURETICS
+ACTS ON: TAL-LoH
+NA,K, DICHLORIDE SYMPORT (LUMINAL MEMBRANE)
+NORMALLY: K LEAKS OUT TO MAINTAIN CONC GRADIENT + POTENTIAL
+BECAUSE OF NET+POTENTIAL, Mg, Ca are shunted into interstitial (repelled) because of this luminal net+potential.
+
+BLOCKING THE PUMP: NO NET+POTENTIAL
+uses: 
+- acute pul edema
+- hypercalcemia
+- acute renal failure
+- anion overdose (Lactate, Ketone)
+- heart failure
+- REFRACTORY EDEMA
+- HYPERTENSION: VASODILATOR: >PROSTAGLANDINS(INC).
+
+SIDENOTE: NSAIDS BLOCKS PRODUTION OF PG. CANCELS ANTI-HTN EFFECT OF LOOP-DIURETICS
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-14 02:05:47 +0000
+lastModified: 2013-06-14 02:07:33 +0000
+tags: drug, Diuresis, Kidney, nephron, Pharmacology, UrinarySystem,
+Links:
+ytube: FjdJdoZcbyA
+wiki: Etacrynic_acid
+wiki: Furosemide
+wiki: Loop_diuretic
+wiki: Ototoxicity
+---------------------------/>

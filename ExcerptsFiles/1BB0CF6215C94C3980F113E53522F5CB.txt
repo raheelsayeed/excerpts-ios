@@ -1,0 +1,16 @@
+LUNG FORCE RELATIONSHIP FRC
+Pa, Alveolar Pressure before Inspiration is stable at Atmospheric pressure of 0.
+Pa = Patm = 0
+
+Lung volume before inspiration: FRC.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-17 18:20:26 +0000
+lastModified: 2013-06-18 14:54:51 +0000
+tags: pressures, Physiology, RespiratorySystem,
+Links:
+wiki: Functional_residual_capacity
+wiki: Alveolar_pressure
+---------------------------/>

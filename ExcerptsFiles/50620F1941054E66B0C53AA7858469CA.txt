@@ -1,0 +1,19 @@
+Insulin dependent Organs
+Insulin not solely responsible for removal of glu in blood.  
+Insulin Independent tissue : Brain and RBC, cataract, renal, vascular.
+
+Insulin dependent: Liver, Adipocyte, Muscle
+
+Extra glu latches onto aminogroups in the blood: hbA1c
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-16 21:42:46 +0000
+lastModified: 2014-03-19 20:52:11 +0000
+tags: insulin, Carbohydrates, Biochemistry,
+Links:
+wiki: Insulin
+wiki: Transplantable organs and tissues
+wiki: Insulin resistance
+---------------------------/>

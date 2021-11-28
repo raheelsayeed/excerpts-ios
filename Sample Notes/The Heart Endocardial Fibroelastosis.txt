@@ -1,0 +1,16 @@
+The Heart: Endocardial Fibroelastosis
+
+It is a type of restrictive cardiomyopathy.
+Most common cause of restrictive cardiomyopathy
+Most common cause of heart transplant in children
+
+
+DEMO-NOTE: Note is linked with three wikipedia articles and tagged with "Sample Notes"
+
+
+@RENOTE
+---------
+tags: Sample Notes,
+- http://wikipedia.org/wiki/Restrictive_cardiomyopathy
+- http://wikipedia.org/wiki/Endocardial_fibroelastosis
+- http://wikipedia.org/wiki/Cardiomyopathy

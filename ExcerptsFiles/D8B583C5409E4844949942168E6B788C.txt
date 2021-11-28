@@ -1,0 +1,42 @@
+Polyarteritis Nodosa
+Aka Kussmaul disease
+Every organ affected except lungs
+- small blood vessels affected.
+- associated usually with hepatitis B infection
+
+Clinical:
+- depending on the organ involved
+- low grade fever
+- abdominal pain
+- hematuria
+- renal failure
+- Arthralgia
+
+
+
+- type 3 hypersensitivity
+- thrombosis, infarction
+- segmental necrotising vasculitis.
+- fibrinoid necrosis.
+
+
+
+Male, IV drug abuser, pANCA or cANCA
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-05 23:44:06 +0000
+lastModified: 2012-09-06 01:40:00 +0000
+tags: pathology, Eponym, infections, CVS, AutoImmune, Vascular,
+Links:
+wiki: Polyarteritis_nodosa
+ytube: mA6GOZB3nAA
+ytube: nP7RfcUkjHU
+wiki: P-ANCA
+ytube: RY1h7jQEVNA
+ytube: udGvshRMVkg
+wiki: Microscopic_polyangiitis
+wiki: Systemic_vasculitis
+wiki: Vasculitis
+---------------------------/>

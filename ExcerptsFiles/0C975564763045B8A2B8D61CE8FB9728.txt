@@ -1,0 +1,15 @@
+Clearance: if a substance not in Urine, as a general rule, clearance  = 0.
+
+Clearance of Glu = 0
+A.A, Glu, Protein, HCO3, small peptiles
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-05 18:08:46 +0000
+lastModified: 2013-06-05 19:21:14 +0000
+tags: Clearance, vignette, Kidney, Physiology, UrinarySystem,
+Links:
+wiki: Free_water_clearance
+wiki: Clearance_(medicine)
+---------------------------/>

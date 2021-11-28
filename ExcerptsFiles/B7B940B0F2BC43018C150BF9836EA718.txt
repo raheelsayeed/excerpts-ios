@@ -1,0 +1,34 @@
+Vascular Neoplasms
+Benign
+1- hemangioma capillary and cavernous (spont regress)
+2- Hemangioblastoma 
+3- Glomus tumor (fingernail and painful)
+
+Malignant
+5- Kaposi sarcoma (lower extremity, males, mediterranean descent)
+Immunosppressive individuals susceptible
+AIDS associated is very aggressive, metastasizing quickly into GI, etc.
+
+5- Angiosarcoma 
+Liver via arsenic exposure.
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-06 05:06:25 +0000
+lastModified: 2012-09-06 07:13:30 +0000
+tags: Neoplasm, pathology, CVS, Vascular,
+Links:
+wiki: Glomus_body
+wiki: Angiosarcoma
+wiki: Vascular_tissue_neoplasm
+wiki: Hemangioma
+wiki: Cavernous_hemangioma
+wiki: Hemangioblastoma
+wiki: Glomus_tumor
+wiki: Capillary_hemangioma
+wiki: Kaposi's_sarcoma
+ytube: DEpYbv6N0Vs
+ytube: gqrRLV-_1wE
+---------------------------/>

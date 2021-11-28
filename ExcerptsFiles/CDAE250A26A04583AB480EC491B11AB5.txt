@@ -1,0 +1,27 @@
+Coronary blood supply
+1- left anterior descending coronaries supply: (commonly thrombosed)
+  Anterior surface of the heart including the anterior 2/3rd of inter ventricular septum. Bundle fibres are located within the anterior 2/3rd of IVSeptum. 
+Complete heart block here will require pace maker. The above artery is the likely site of blockage.
+
+2- right coronary artery thrombosis 
+Supplies entire posterior part of the heart
+Posterior 1/3rd of inter ventricular septum
+Entire right ventricle
+Av node 90% , sinus bradycardia
+PosteroMedial papillary muscle of mitral valve. Mitral regurgitation!
+Sometimes: Epigastric pain. Atypical chest pain, simulates GERD
+Sa node has equal distribution between left and right
+
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-04 00:12:15 +0000
+lastModified: 2012-09-04 04:29:39 +0000
+tags: anatomy, heart, pathology, CVS,
+Links:
+wiki: Atrial_branches_of_coronary_arteries
+wiki: Papillary_muscle
+wiki: Coronary_circulation
+---------------------------/>

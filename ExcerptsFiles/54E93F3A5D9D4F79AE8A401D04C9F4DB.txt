@@ -1,0 +1,18 @@
+Efferent arteriole dilation
+- low GCPr
+- low GFR
+- low RBF for absorption
+- inc PTCap Pressure
+- high nephron plasma flow
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-05-24 22:31:27 +0000
+lastModified: 2013-06-09 01:45:33 +0000
+tags: Physiology, pressures, Kidney, nephron, UrinarySystem,
+Links:
+wiki: ACE_inhibitor
+wiki: Angiotensin
+wiki: Renin
+---------------------------/>

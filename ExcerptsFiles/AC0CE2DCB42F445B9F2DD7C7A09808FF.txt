@@ -1,0 +1,26 @@
+Total O₂ Content (flowchart)
+1. PaO₂
+1.1. PAO₂
+1.1.1. Patm
+1.1.2. fO₂
+
+2. HbConc
+2.1. Erythropoietin
+
+3. HbSaturation
+3.1. PAO₂
+3.1.1. Patm
+3.1.2. fO₂
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-20 15:35:16 +0000
+lastModified: 2013-06-20 15:51:19 +0000
+tags: Physiology, blood-gases, RespiratorySystem, flowchart,
+Links:
+ytube: EcMvGyAZlck
+wiki: Arteriovenous_oxygen_difference
+wiki: Breathing_gas
+wiki: Shunt_equation
+---------------------------/>

@@ -1,0 +1,14 @@
+V/Q gradient in lung
+Infinity, a lung and a zero stack nicely.
+V/Q is lowest at bottom, highest at top.
+See diagram.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-03-05 20:36:49 +0000
+lastModified: 2014-03-19 11:02:10 +0000
+tags: ventilation-perfusion, formulae, RespiratorySystem,
+Links:
+wiki: Alveolar–arterial gradient
+---------------------------/>

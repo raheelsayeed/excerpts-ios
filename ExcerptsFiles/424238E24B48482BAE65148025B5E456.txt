@@ -1,0 +1,19 @@
+β₁ Receptor Stimulation
+- More sensitive than α receptors
+- Gs coupled: (↑cAMP)
+
+Kidney: ↑Renin Release
+Along with ↑CO, ↑Renin is a complementary affect.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-30 02:42:25 +0000
+lastModified: 2013-06-30 02:52:59 +0000
+tags: vignette, Beta1, Pharmacology, ANS, Alpha1, Receptors,
+Links:
+wiki: Beta-1_adrenergic_receptor
+ytube: vIPcVK0bXFE
+ytube: RNX8gBQZq3Q
+wiki: Interleukin_12_receptor,_beta_1_subunit
+---------------------------/>

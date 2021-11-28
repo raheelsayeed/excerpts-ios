@@ -1,0 +1,13 @@
+Which Cardiac Marker goes up FIRST after ischemia?   MYOGLOBIN in 1st hour. CKMB, troponin not till 3-4 hours
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-04-19 00:04:00 +0000
+lastModified: 2012-05-16 12:03:54 +0000
+tags: MI, @seeFischer, CKMB, CardiacMarkers, Myoglobin,
+Links:
+wiki: Myoglobin
+wiki: CPK-MB_test
+wiki: Cardiac_marker
+---------------------------/>

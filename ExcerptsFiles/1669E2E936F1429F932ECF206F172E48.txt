@@ -1,0 +1,25 @@
+Filtration Fraction factors
+Afferent Constriction
+GCPr: dec
+GFR:   Dec
+RPF.    Dec
+PTCapPr Dec
+FF:    Depends on degree of constriction
+
+Efferent Constriction
+GCPR:  inc
+GFR:    Inc
+RPF:     Dec
+FF:     Inc
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-14 10:59:58 +0000
+lastModified: 2013-05-25 01:12:56 +0000
+tags: vignette, GFR, Kidney, nephron, pressures, UrinarySystem,
+Links:
+wiki: Filtration_fraction
+wiki: Tubuloglomerular_feedback
+wiki: Renal_function
+---------------------------/>

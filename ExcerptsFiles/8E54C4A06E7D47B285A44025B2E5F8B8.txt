@@ -1,0 +1,21 @@
+PAH Clearance
+COMPLETE EXCRETED
+- remaining via PT secretion.
+- IF HIGH ConcPlasma, saturated Carriers, 
+- Some minute amount NOT excreted
+
+The higher ConcPlasma, the smaller Clearance volume.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-03 17:41:44 +0000
+lastModified: 2013-06-04 01:30:12 +0000
+tags: Clearance, Physiology, Kidney, UrinarySystem,
+Links:
+wiki: Aminohippuric_acid
+wiki: Effective_renal_plasma_flow
+wiki: PAH_clearance
+wiki: Extraction_ratio
+wiki: PAH
+---------------------------/>

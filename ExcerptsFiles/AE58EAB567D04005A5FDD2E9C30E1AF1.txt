@@ -1,0 +1,19 @@
+BUN:creatinine elevation: causes
+ABCD:
+Azotremia (pre-renal)
+Bleeding (GI)
+Catabolic status
+Diet (high protein parenteral nutrition)
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-02-14 18:21:52 +0000
+lastModified: 2014-02-14 18:21:52 +0000
+tags: tests, DDx, pathology, UrinarySystem,
+Links:
+wiki: Syndrome of inappropriate antidiuretic hormone secretion
+wiki: Pericarditis
+wiki: BUN-to-creatinine ratio
+wiki: Azotemia
+---------------------------/>

@@ -1,0 +1,14 @@
+Adrenal Cortex Hormones
+1. Zona Glomerulosa: Aldosterone : AT-II, K
+2. Zona Fasiculata: Glucocorticod, Cortisol. : ACTH
+3. Zona Reticularis: Androgens : ACTH
+4. Medulla: Epinephrine : ANS
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-19 15:50:28 +0000
+lastModified: 2013-07-19 15:54:46 +0000
+tags: Physiology, Adrenal Gland, Types, Endocrine,
+---------------------------/>

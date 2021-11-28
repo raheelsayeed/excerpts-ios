@@ -1,0 +1,14 @@
+Electron transport chain: Rotenone's site of action
+Rotenone is a site specific inhibitor of complex one.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-03-29 16:42:13 +0000
+lastModified: 2014-03-29 16:42:13 +0000
+tags: Biochemistry, drug, Pharmacology,
+Links:
+wiki: Oxidative phosphorylation
+wiki: Rotenone
+ytube: mfgCcFXUZRk
+---------------------------/>

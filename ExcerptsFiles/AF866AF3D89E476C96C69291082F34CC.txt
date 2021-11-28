@@ -1,0 +1,21 @@
+Alkalosis hypokalemia
+
+Metabolic alkalosis: in the distal tubule cell, shift of potassium is more and hydrogen ions move out causing influx of potassium ions resulting in hypokalemia
+
+Including Cell swelling
+
+
+Respiratory alkalosis has minimal effect
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-04 02:51:44 +0000
+lastModified: 2013-09-04 19:14:48 +0000
+tags: Alkalosis, Kidney, potassium, acid-base, UrinarySystem,
+Links:
+wiki: Metabolic_alkalosis
+wiki: Hypokalemia
+wiki: Alkalosis
+wiki: Morning_sickness
+---------------------------/>

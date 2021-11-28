@@ -1,0 +1,21 @@
+Hyperkalemia in Acidosis
+Acidosis promotes hyperkalemia to balance out he positivity
+
+Inorganic acid: forming metabolic acidosis: shifts more potently and initiates hyperkalemia.
+
+Organic acid such as in  lactic acidosis, ketoacidosis, hyperkalemia is low, 
+
+Minimal in respiratory acidosis
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-04 02:40:36 +0000
+lastModified: 2013-06-04 02:53:05 +0000
+tags: vignette, potassium, Hyperkalemia, acid-base, UrinarySystem,
+Links:
+wiki: Hypokalemic_acidosis
+wiki: Respiratory_acidosis
+wiki: Renal_tubular_acidosis
+wiki: Proximal_renal_tubular_acidosis
+---------------------------/>

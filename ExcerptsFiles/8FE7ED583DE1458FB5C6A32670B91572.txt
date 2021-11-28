@@ -1,0 +1,26 @@
+Proximal Tubule Regional Transport
+GENERALISATION:
+- 2/3RD OF FL-NA IS actively reabsorbed into PT.
+- PxT is very leaky, so, H20, K+ and Cl- follow Na.
+- OSMOLALITY REMAINS THE SAME, CAME IN ISOTONIC, LEAVES ISOTONIC.
+
+SECONDARY ACTIVE TRANS AT LUMINAL MEMBRANE, POWERED BY Na-K pump in basal membrane.
+
+Absorbs:
+- GLu, AA, Lactate, HP04-,
+- reabsorbs most of(90%) above 2/3rd of HCO3-
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-04 16:15:05 +0000
+lastModified: 2013-06-04 16:45:06 +0000
+tags: Physiology, Kidney, RegionalTransport, acid-base, UrinarySystem,
+Links:
+wiki: Fanconi_syndrome
+wiki: Renal_glucose_reabsorption
+ytube: bBDKmqd9cxM
+wiki: Sodium-glucose_transport_proteins
+wiki: Renal_tubular_acidosis
+wiki: Proximal_convoluted_tubule
+---------------------------/>

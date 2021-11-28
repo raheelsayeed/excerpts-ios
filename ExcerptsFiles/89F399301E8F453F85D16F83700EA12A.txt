@@ -1,0 +1,20 @@
+Tissue Hypoxia causes
+- Ischemia
+- hypoxemia
+- oxidative pathway problems
+- Uncoupled oxidative phosphorylation in mitochondria
+- ArterioVenous shunting
+
+Effect: .ATP production by oxidative phosphorylation in mitochondria
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-23 18:42:07 +0000
+lastModified: 2013-06-24 14:46:02 +0000
+tags: Cell-Injury, pathology, RespiratorySystem,
+Links:
+wiki: Carbon_monoxide_poisoning
+ytube: W_Q17tqw_7A
+wiki: Oxidative_phosphorylation
+---------------------------/>

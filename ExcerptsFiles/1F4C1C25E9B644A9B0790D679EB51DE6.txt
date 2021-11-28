@@ -1,0 +1,22 @@
+Tubulo interstitial nephritis
+- acute/chronic infl of tubules & interstitial.
+[pathogenesis]
+- 2 to drugs; methicillin (arf, rash, fever, type I or IV hypersensitivity), or granulomas in interstitium.
+- tylenol long time (CHRONIC)
+- acute pyelonephritis
+- SLE
+- LEAD POISONING
+- URATE nephropathy and multiple myeloma.
+- (CHRONIC) papillary necrosis (obstruction, medulla sloughs off, causing obstruction)
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-08 14:41:53 +0000
+lastModified: 2013-06-09 01:45:33 +0000
+tags: Kidney, infections, nephron, pathology, UrinarySystem,
+Links:
+wiki: ICD-10_Chapter_XIV:_Diseases_of_the_genitourinary_system
+ytube: kDJ2mEJLXnM
+wiki: Interstitial_nephritis
+---------------------------/>

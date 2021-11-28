@@ -1,0 +1,49 @@
+Inflammatory Bowel Disease
+usually Young White Females
+Symp
+Diarrhea: mucoid appearance as opposed to ulcerations  (UC, bloody)
+Crampy lower abdominal pain
+Fever
+Perianal Fistulas (CD)
+Extraintestinal manifestations (UC > CD)
+(CD) distance ileum may Mimic appendicitis
+(CD) Small bowel may present with malabsorption
+
+CD: 
+Transmural inflammation
+stenosis of bowel: malabsorption n obstruction
+skip lesions - normal, inflamed, normal…
+Mucosal surface: Linear ulcers : cobble stone appearance 
+dx- dx of exclusion
+- endoscopy n biopsy
+
+
+CD vs UC
+Site= Terminal Ileum : Recturm
+Distr= Mouth-anus 		: Rectum->colon, "backwash" ileitis
+Spread=	Skip areas 		:	Continous
+GrossF=	Focal aphthous ulcers with intervening normal mucosa
+				Linear Fissures
+				Cobblestone 
+				Thickened bowel wall
+				Creeping fat
+				: 
+				Extensive ulceration / pseudopolyps
+Pseudopolyps: mucosal polyps that grows above the ulcers as opposed to real polyps that grow above epith
+
+Micr: Noncaseating granulomas	:	Crypt abscess
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-13 02:17:26 +0000
+lastModified: 2013-07-13 02:17:26 +0000
+tags: pathology, smallintestines, infections, GISystem, AutoImmune, MostCommon,
+Links:
+wiki: Irritable_bowel_syndrome
+wiki: Inflammatory_bowel_disease
+wiki: Crohn's_disease
+ytube: b3pLHpnvKi8
+wiki: Ulcerative_colitis
+---------------------------/>

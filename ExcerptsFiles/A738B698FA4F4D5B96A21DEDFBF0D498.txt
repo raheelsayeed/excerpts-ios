@@ -1,0 +1,31 @@
+Dopamine D₁ Receptor
+Gs Coupled: ↑ cAMP
+Dopamine is precursor of NE
+Used in SHOCK
+Sites:
+	- Vessels Vasodilation
+		- Kidney: ↑ RBF, ↑ GFR, ↑ Na Secretion
+
+Increasing Dopamine dosages would stimulate 
+D₁ (↑Heart, Renal improved perfusion) --- β₁ (↑Ionotrophy, ↑CO) --- α₁ (↑TPR, Maintain Systemic BP)
+
+FENOLDOPAM: USED IN MANAGEMENT OF HTN
+D₁ AGONIST
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-30 02:50:25 +0000
+lastModified: 2013-06-30 02:52:59 +0000
+tags: vignette, drug, Pharmacology, pathology, ANS, Receptors,
+Links:
+ytube: hbsUDHw9Qto
+wiki: Fenoldopam
+wiki: Dopamine_antagonist
+ytube: Tl8-C9ZuLTA
+wiki: Dopamine_receptor_D1
+wiki: Dopamine_agonist
+wiki: Dopamine_transporter
+wiki: Dopamine_receptor
+ytube: 7KLDneIdKk8
+---------------------------/>

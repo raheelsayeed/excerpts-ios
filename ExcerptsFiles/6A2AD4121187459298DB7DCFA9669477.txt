@@ -1,0 +1,22 @@
+Achalasia
+- failure of LES to dilate
+- Bird’s beak sign on barium swallow
+- Eso: dilated and at the end appears like a beak
+- Sym: progrssive dysphagia
+- path: ganglionic cells in myenteric plexus.
+- RR: eso carcinoma
+- chaga's disease (achalaso, toxic colon)
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-10 02:42:55 +0000
+lastModified: 2013-07-10 02:53:07 +0000
+tags: Eponym, UpperPart, RIskFactors, GISystem, pathology,
+Links:
+wiki: Chagas_disease
+wiki: Triple-A_syndrome
+wiki: Achalasia
+ytube: IwW4ej3tJLo
+wiki: Dysphagia
+---------------------------/>

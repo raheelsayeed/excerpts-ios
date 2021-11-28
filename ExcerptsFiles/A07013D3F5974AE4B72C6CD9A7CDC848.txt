@@ -1,0 +1,23 @@
+Esophageal Varices
+- dilated submucosal veins in the lower 1/3rd Eso.
+- hx cirrohosis
+- alcoholics
+- MASSIVE UPPER GI BLEED due to rupture (MW: mild)
+- MC cirrhosis: alcoholism
+- Baloon tamponade, sclerotherapy
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-10 02:47:39 +0000
+lastModified: 2013-07-10 02:53:07 +0000
+tags: UpperPart, smoking, Alcohol, GISystem, pathology, MostCommon,
+Links:
+wiki: Transjugular_intrahepatic_portosystemic_shunt
+wiki: Balloon_tamponade
+wiki: Portal_hypertension
+ytube: OcpHomWDzaU
+wiki: Cirrhosis
+wiki: Esophageal_varices
+wiki: Gastric_varices
+---------------------------/>

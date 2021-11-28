@@ -1,0 +1,19 @@
+LUNG FORCE DURING INSPIRATION
+NEGATIVE Pa is essential to for air to enter from conducting  zone into the alveolus. 
+- At the end of inspiration, Pa is now Zero.
+- Most air flow into alveolus: Mid Inspiration: Greatest pressure gradient. 
+
+ANYTHING THAT INTERFERES WITH FLOW OF GRADIENT AS IT GOES FROM 0 TO -1 DEVELOPS RESTRICTIVE DISEASE.
+eg. Fibrosis, Asbestosis, Silicosis, Sarcoidosis. (Osis = Restrictive diseases)
+
+At the end At the end of Expiration, Pa: 0
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-17 18:23:45 +0000
+lastModified: 2013-06-22 02:23:04 +0000
+tags: Physiology, pressures, RespiratorySystem, RestrictiveDiseases,
+Links:
+wiki: Restrictive_lung_disease
+---------------------------/>

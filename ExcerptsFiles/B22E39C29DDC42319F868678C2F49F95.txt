@@ -1,0 +1,19 @@
+Atrial Natriuretic Peptide
+- hormone from atria
+- stimulated by the stretch of atria (congestive heart failure)
+- presents with dyspnea, ANP test can be done to differential Pulmonary and Cardiac cause of dyspnea if CXR is inconclusive
+- Promotes GFR
+- dilation of afferent and Constriction of Efferent.
+- Actions: Natriuresis (inhibits reabsorption of Na and water)
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-19 15:41:35 +0000
+lastModified: 2013-07-19 15:54:46 +0000
+tags: Physiology, heart, Hormones, Endocrine, CVS,
+Links:
+wiki: Brain_natriuretic_peptide
+wiki: Atrial_natriuretic_peptide
+wiki: Natriuretic_peptide
+---------------------------/>

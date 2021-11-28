@@ -1,0 +1,14 @@
+DNA: Z vs. B form: which is inactive
+ZZZZ is sleeping (inactive).
+B form is therefore active DNA.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-02-25 11:21:46 +0000
+lastModified: 2014-03-19 19:33:54 +0000
+tags: dna, Molecular Biochemistry, Biochemistry,
+Links:
+wiki: Z-DNA
+wiki: A-DNA
+---------------------------/>

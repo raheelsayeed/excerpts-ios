@@ -1,0 +1,10 @@
+ST DEpression = sub endocardial ischemia
+Coronary arteries penetrate the heart from the outside, hence any block will affect the sub endocardium first.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-03 23:41:28 +0000
+lastModified: 2012-09-04 04:29:39 +0000
+tags: pathology, CVS, Ischemia, ecg,
+---------------------------/>

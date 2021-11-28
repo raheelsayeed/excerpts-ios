@@ -1,0 +1,20 @@
+Melanoma sites
+"Mel SEA" (Pronounced "Mel C" from the Spice Girls)
+Melanoma sites, in order of frequency:
+Skin
+Eyes
+Anus
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-03-07 19:24:56 +0000
+lastModified: 2014-03-09 02:24:05 +0000
+tags: mnemonic, Dermatology, cancer,
+Links:
+wiki: Melanoma
+wiki: Uveal melanoma
+wiki: Melanocytic nevus
+wiki: Pseudomelanoma
+wiki: Skin cancer
+---------------------------/>

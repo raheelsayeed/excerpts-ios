@@ -1,0 +1,15 @@
+RENAL BIOPSY STAINS
+- H & E
+- SILVER
+- IMMUNOFLUORESCE (linear and granular)
+- ELECTRON MICROSCOPY.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-06 16:43:33 +0000
+lastModified: 2013-06-06 16:50:56 +0000
+tags: histology, Kidney, pathology, UrinarySystem,
+Links:
+wiki: Renal_biopsy
+---------------------------/>

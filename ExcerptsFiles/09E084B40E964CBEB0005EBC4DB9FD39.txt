@@ -1,0 +1,21 @@
+Osmolarity Filtrate
+300 mOsm/L
+Major contribution Sodium
+Minor : Urea
+
+Same criteria: ECF OSMOLARITY
+
+== 2 x Na conc.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-05-30 00:48:01 +0000
+lastModified: 2013-05-30 01:36:19 +0000
+tags: Physiology, Numbers, Kidney, nephron, UrinarySystem,
+Links:
+wiki: Osmotic_diuretic
+wiki: Osmotic_concentration
+wiki: Osmolarity_gradient
+wiki: Plasma_osmolality
+---------------------------/>

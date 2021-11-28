@@ -1,0 +1,15 @@
+DIARRHEA key points
+- VERY SIMILAR TO ACUTE TUBULAR INJURY
+- Metabolic Acidosis (colon is the site of Bicarbonate excretion)
+- Hypokalemia (unique: colon is site of excretion)
+- Normal Anion Gap. increased Chlorine compensates for loss of Bicarbonate. 
+- also normal anion gap in Acute tubular injury (chlorine in similar conditions in distal tubule)
+- UrineAnionGap can differentiate between acidosis of diarrhea and RTA
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-06 01:39:47 +0000
+lastModified: 2013-09-04 19:14:48 +0000
+tags: vignette, Physiology, pathology, GISystem, acid-base,
+---------------------------/>

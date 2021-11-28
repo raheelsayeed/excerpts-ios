@@ -1,0 +1,18 @@
+Asystole: treatment
+"Have some asystole "TEA":
+Transcutaneous pacing
+Epi
+Atropine
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-02-19 08:54:03 +0000
+lastModified: 2014-02-26 05:46:20 +0000
+tags: Rx, murmurs, heart, CVS, mnemonic,
+Links:
+wiki: Pulseless electrical activity
+wiki: Transcutaneous pacing
+wiki: Automated external defibrillator
+wiki: Asystole
+---------------------------/>

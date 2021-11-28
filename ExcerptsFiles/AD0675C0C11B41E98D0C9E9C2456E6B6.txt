@@ -1,0 +1,25 @@
+DNA REPLICATION
+
+Prokaryotes
+DNA is circular
+Single origin of replication
+
+DNA EUKARYOTES
+DNA LINEAR
+Multiple origin of replication
+Two sister chromatids separated by a centromere
+
+
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-08-06 23:54:32 +0000
+lastModified: 2012-08-06 23:58:38 +0000
+tags: replication, dna,
+Links:
+wiki: Eukaryotic_DNA_replication
+wiki: DNA_replication
+wiki: Prokaryotic_DNA_replication
+---------------------------/>

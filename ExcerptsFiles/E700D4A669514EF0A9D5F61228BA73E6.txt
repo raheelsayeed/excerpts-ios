@@ -1,0 +1,23 @@
+Organophosphates poisoning: symptoms
+DUMBBELS:
+Diarrhea
+Urination
+Miosis
+Bradycardia
+Bronchospasm
+Emesis
+Lacrimation
+Salivation
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-03-11 11:49:18 +0000
+lastModified: 2014-03-11 11:49:18 +0000
+tags: Toxicology, clinical,
+Links:
+wiki: Organophosphate
+wiki: Atropine
+wiki: Organophosphate poisoning
+wiki: Nicotine poisoning
+---------------------------/>

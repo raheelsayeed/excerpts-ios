@@ -1,0 +1,17 @@
+Von Gierke's disease: G6Pase
+- Sever Hypoglycemia (contrast to Hers's disease)
+- Lactic Acidosis
+- Hepatomegaly: G6P accumulates, highly osmotic
+- Hyperlipidemia (in response to hypoglycaemia, hormone sensitive lipase breaks down Fatty acids giving rise to TGs)
+- Hyperuricemia: Short stature, doll-like facies, protruding abdomen
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-27 15:05:04 +0000
+lastModified: 2013-06-27 15:22:29 +0000
+tags: Glycogen, Enzymes, GISystem, pathology, Biochemistry,
+Links:
+wiki: Glycogen_storage_disease
+wiki: Glucose_6-phosphatase
+---------------------------/>

@@ -1,0 +1,16 @@
+Differentiate Coarctation and heart disease
+In infants, if only lower extremity cyanosis, then it's usually preductal coarctation, if it's generalized cyanosis, it's some kinda heart disease.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-08 13:15:12 +0000
+lastModified: 2012-09-08 13:21:09 +0000
+tags: vignette, pathology, CVS, pediatric,
+Links:
+wiki: Coarctation_of_the_aorta
+wiki: Cyanosis
+ytube: weZHxXqdeGU
+ytube: tVNaCK2wIEw
+ytube: KLq3XU1gdgU
+---------------------------/>

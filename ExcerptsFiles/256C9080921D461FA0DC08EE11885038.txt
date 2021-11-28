@@ -1,0 +1,25 @@
+Sympathetic Cholinergic System
+- ↑Secretions: ACh-Muscurinic Stimulation
+- ↓Secretions: ACh-Muscurinic Blocker
+- All muscurinic drugs interfere with Secretions
+
+Adrenal Medulla
+----------
+- NeuroCrest derivative (same as Autonomic ganglion).
+- Received preganglionic fibres
+- Creates Epinephrine (HORMONE) ---> blood --> Alpha, Beta receptor stimulation
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-27 15:50:27 +0000
+lastModified: 2013-06-27 15:54:12 +0000
+tags: Pharmacology, ANS, Hormones, Receptors,
+Links:
+ytube: 1zs055ID3WM
+wiki: Cholinergic
+ytube: ny_Jh0MyZPY
+wiki: Autonomic_nervous_system
+wiki: Preganglionic_nerve_fibers
+wiki: Muscarinic_acetylcholine_receptor
+---------------------------/>

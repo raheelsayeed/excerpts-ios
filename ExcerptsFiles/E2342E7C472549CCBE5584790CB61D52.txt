@@ -1,0 +1,31 @@
+Fatty Acid Synthesis
+In Liver:
+1. AcetylCoA --{ACoACarboxylase}--> MalonylCoA
+
+  AcetylCoA Carboxylase is an ABC enzyme. Requires ATP, biotin, CO2.
+Other ABC is Pyruvate Carboxylase (Gluconeogenesis)
+
+2. malonylCoa --{FASynthase NADPH}--> Palmitic Acid + CO2
+  Palmitate is 16:0 FA.
+
+3. Palmitate is sent to ER a for Elongation and Desaturation.
+  Nothing is added Beyond C9, thats why Lio acids are essential as they have bonds beyond C9 positions
+
+4. eventually it forms TG, which is sent out via VLDL into Adipocytes.
+
+(V) alcohol inhibits TG and VLDL combo and causes acumulation of TG in liver, (Fatty liver)
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-06 16:56:09 +0000
+lastModified: 2013-07-06 17:02:09 +0000
+tags: vignette, Lipids, Alcohol, GISystem, Enzymes, Biochemistry,
+Links:
+wiki: Fatty_acid_metabolism
+wiki: Carboxylation
+wiki: Malonyl-CoA
+wiki: Fatty_acid_synthesis
+wiki: Acetyl-CoA
+wiki: Fatty_acid_synthase
+---------------------------/>

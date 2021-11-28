@@ -1,0 +1,18 @@
+Kidney produces
+- Renin
+- 1,25 Dihydroxycholecalciferol
+- Erythropoietin
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-05-24 20:07:10 +0000
+lastModified: 2013-05-24 20:22:24 +0000
+tags: LINKS, Physiology, Kidney, UrinarySystem,
+Links:
+wiki: Erythropoietin
+wiki: Renin
+wiki: Cholecalciferol
+wiki: Renin–angiotensin_system
+wiki: Plasma_renin_activity
+---------------------------/>

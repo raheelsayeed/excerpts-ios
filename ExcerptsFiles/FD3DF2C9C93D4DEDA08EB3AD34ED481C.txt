@@ -1,0 +1,43 @@
+SARCOIDOSIS
+- [Etio] Granulomatous, Female>Male,  African Americam woman.
+$Symptoms
+- Cough
+- SOB
+- Fatigue
+- Malaise
+- Skin Lesions
+- Eye irritation
+- Fever
+- Night sweats
+Path:
+- Diffuse scattered Non caseating granulomas
+- Sin, Liver, Spleen, Heart, CNS GI 
+- Eye: Mikulicz syndrome: (Uvea and parotid)
+- Lab: ^ACE
+- Xray: Angle-Wing Appearance: Bilateral hilar / mediastinal adenopathy
+
+Micro:
+- Noncaseating granulomas
+- schaumann bodies: laminated dystrophic calcifications
+- asteroid bodies: stellate giant cell cytoplasmic inclusions
+
+Diagnosis of EXCLUSION: Rule out other causes of Noncaseating granulomas, ACE levels, Hypercalcemia
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-21 03:33:45 +0000
+lastModified: 2013-06-21 03:33:45 +0000
+tags: histology, Eponym, RespiratorySystem, infections, pathology, RestrictiveDiseases,
+Links:
+wiki: Testicular_sarcoidosis
+wiki: Hypopigmented_sarcoidosis
+wiki: Morpheaform_sarcoidosis
+wiki: Annular_sarcoidosis
+wiki: Ulcerative_sarcoidosis
+wiki: Subcutaneous_sarcoidosis
+wiki: Ichthyosiform_sarcoidosis
+wiki: Erythrodermic_sarcoidosis
+wiki: Mucosal_sarcoidosis
+wiki: Sarcoidosis
+---------------------------/>

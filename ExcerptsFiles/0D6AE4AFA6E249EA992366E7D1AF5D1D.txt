@@ -1,0 +1,10 @@
+Gastric Inhib Peptide = exenatide=glucagon Like Peptide=Liraglutide =incretins
+all SAME all Increase Insulin and suppress glucagon
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-04-19 00:23:54 +0000
+lastModified: 2012-04-19 00:23:54 +0000
+tags: @seeFischer, GIP, insulin, glucagon,
+---------------------------/>

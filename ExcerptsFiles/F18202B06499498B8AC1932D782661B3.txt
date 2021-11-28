@@ -1,0 +1,17 @@
+Endometrial carcinoma: risk factors
+ENDOMET:
+Elderly
+Nulliparity
+Diabetes
+Obesity
+Menstrual irregularity
+Estrogen therapy
+hyperTension
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-02-02 03:08:39 +0000
+lastModified: 2014-02-02 03:08:39 +0000
+tags: mnemonic, Gynecology, RIskFactors,
+---------------------------/>

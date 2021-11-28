@@ -1,0 +1,22 @@
+Transposition of Great vessels
+usually associated with
+1- ASD
+2- VSD
+3- PDA
+
+RV goes into Aorta
+LV empties into PA
+
+Patient survives cuz of ASD
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-03 01:24:50 +0000
+lastModified: 2012-09-03 06:43:28 +0000
+tags: CVS, CongenitalHD,
+Links:
+wiki: Transposition_of_the_great_vessels
+wiki: Levo-Transposition_of_the_great_arteries
+wiki: Dextro-Transposition_of_the_great_arteries
+---------------------------/>

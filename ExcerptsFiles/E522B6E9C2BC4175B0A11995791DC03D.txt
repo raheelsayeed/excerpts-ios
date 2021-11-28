@@ -1,0 +1,19 @@
+GRANULAR PATTERN:IMMUNE COMPLEXES (TYPE III)
+bigger, different charges, not going to deposite in neat fashion, depend on charges, anywhere.
+Subendothelial complexes (more) inside endothelial cell.
+Rare- sub epithelial complexes. NO LINEAR PATTERN.
+detected by ELECTRON MICROSCOPY.
+(LUPUS, IgA Glumerulo Nephritis, Post streptococcal, whenever immune complexes are found).
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-06 16:57:23 +0000
+lastModified: 2013-06-06 18:16:04 +0000
+tags: UrinarySystem, Kidney, infections, pathology, AutoImmune, Immunology,
+Links:
+wiki: Diffuse_proliferative_nephritis
+wiki: Glomerulonephritis
+ytube: Kdy3HhoEGLY
+wiki: Systemic_lupus_erythematosus
+---------------------------/>

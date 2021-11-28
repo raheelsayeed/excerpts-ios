@@ -1,0 +1,16 @@
+Alpha1 and beta1 are the receptors and effector organs. Alpha2 receptor is a pre-junctional receptor.
+
+Alpha2 is a Gi coupled receptor and inhibits the formation of NE for release.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-30 02:18:28 +0000
+lastModified: 2013-06-30 02:52:59 +0000
+tags: vignette, Pharmacology, ANS, Alpha1, Receptors,
+Links:
+ytube: ZfnWmPZ45F8
+wiki: Alpha-1_adrenergic_receptor
+ytube: _-ONzh_y2vE
+wiki: Alpha-2_adrenergic_receptor
+---------------------------/>

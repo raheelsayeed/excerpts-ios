@@ -1,0 +1,25 @@
+Glucose Tolerance Curve
+- x axis: time
+- y axis: Blood Glu
+- Bell shaped curve
+
+- Normal transient hyperglycemia occurs after every meal
+
+- Basal Glu level: 5mM
+
+- peaks in 45 mins
+- Normal in 90mins
+
+For diabetic its higher bell shaped curve 
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-16 21:21:42 +0000
+lastModified: 2013-06-16 21:52:30 +0000
+tags: diabetes, Carbohydrates, Biochemistry,
+Links:
+wiki: Glucose_tolerance_test
+ytube: HRLsi9ufXks
+wiki: Oxyhyperglycemia
+---------------------------/>

@@ -1,0 +1,36 @@
+Heart Sounds
+S1 closure of Mitral Valve
+S2 closure of Aortic value
+S3 fuc* ..... You're screwed
+S4 well fu*k ..... You.
+
+S4
+S4 is caused by the atria contracting forcefully in an effort to overcome an abnormally stiff or hypertrophic ventricle. This causes abnormal turbulence in the flow of blood that can be detected by a stethoscope.
+
+S3
+Rapid ventricular filling
+Mitral regurgitation - this is when one of the mitral valve leaflets that usually stop blood flowing from the left ventricle to the left atria fails, allowing blood into the atria during systole. This means that the left atria will be overfilled, leading to rapid ventricular filling when the mitral valve opens.[6]
+Elevated left atrial and left ventricular filling pressures, usually a result of a stiffened and dilated left ventricle
+Ventricular septal defect - this is a hole in the wall between the two ventricles, which allows rapid filling from the other ventricle.
+[edit]Poor left ventricular function
+Post-MI - the death of tissue in the ventricular wall due to loss of blood supply causes wall areas which do not move as well as normal (hypokinesia), or not at all (akinesia), meaning they relax more slowly, so the ventricular filling is relatively too rapid.
+Dilated cardiomyopathy - the ventricular walls are abnormal for a variety of reasons, and become thin and stiff so do not relax well.
+S3 can also be due to tricuspid regurgitation, and could indicate hypertensive heart disease.
+In conditions affecting the pericardium or diseases that primarily affect the heart muscle (restrictive cardiomyopathies) a similar sound can be heard, but is usually more high-pitched and is called a 'pericardial knock'.
+The S3 can also be confused with a widely split S2, or a mitral opening snap, but these sounds are typically of much higher pitch and occur closer to the onset of S2.
+
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-04 04:21:21 +0000
+lastModified: 2012-09-04 04:29:39 +0000
+tags: mnemonic, CVS, heart,
+Links:
+wiki: Third_heart_sound
+ytube: ANF6VQX0M-A
+ytube: XvtBpnV_lOE
+wiki: Fourth_heart_sound
+wiki: Heart_sounds
+---------------------------/>

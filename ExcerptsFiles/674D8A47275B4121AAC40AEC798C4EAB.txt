@@ -1,0 +1,14 @@
+MI: sequence of elevated enzymes after MI
+"C-AST-Le" (castle):
+CK-MB first
+AST second
+LDH third
+· Also: can use the last 'E' for ESR.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-02-03 05:55:31 +0000
+lastModified: 2014-02-03 05:55:31 +0000
+tags: Dx, Heartfailure, Enzymes, CardiacMarkers, CVS,
+---------------------------/>

@@ -1,0 +1,34 @@
+Fatty Acid Synthesis basics
+Requirements:
+1. Acetyl CoA (2C)
+2. NADPH
+3. Co2
+4. Atp
+
+Location: cytoplasm
+
+AcetylCoA is sourced from TCA, when enough of TCA is going on, NADH inhibits conversion of citrate to isocitrate.
+This accumulated citrate is diverted outside the mitochondria into the cytoplasm and as it becomes the source for gluconeogenesis, also participates in FA synthesis.
+
+Citrate ---> AcetyleCoA + OAA.
+OAA becomes Malate and later pyruvate.
+
+
+So direct. Source is Citrate
+
+NADPH SOURCE:
+- HMP
+- CCitrate --> OAA--> Malate. 
+Malate to pyruvate yeilds NADPH  catalysed by malic enzyme
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-06 16:45:39 +0000
+lastModified: 2013-07-06 17:02:09 +0000
+tags: vignette, Enzymes, GISystem, Lipids, Biochemistry,
+Links:
+wiki: Essential_fatty_acid
+wiki: Fatty_acid
+---------------------------/>

@@ -1,0 +1,58 @@
+Net TRANSPORT
+GLUCOSE: 
+- NORMAL KIDNEY: ALL FILTERED GLU REABSORBED.
+- 80% proceeds back into general circulation.
+- 20% reabsorbs.
+UNCONTROLLED diabetic: NOT ALL FILTERED GLU IS REABSORBED.
+- Some amount excreted. As ™ is reached.
+
+INULIN:
+- FL IS EXCRETED
+- FREELY FILTERED: ALL FL is excreted.
+- 80% back into general circulation
+- Inulin Clearance = GFR
+
+PROTEIN: no excretion.
+
+SODIUM: Secretion
+- FL 20%, RECOVER MOST OF THIS. 
+- QUANTITATIVELY REABSORB ALMOST ALL SODIUM.
+- only tiny amount excreted (thinnest line).
+
+POTASSIUM Secretion
+- REABSORBS MORE IN PT > Secrete in DCT: net reabsorption.
+- if High K Diet, or on diuretics: Net Secretion.
+
+PAH Secretion
+----
+COMPLETE EXCRETED, remaining via PT secretion.
+- IF HIGH ConcPlasma, saturated Carriers, 
+- Some minute amount NOT excreted.
+
+Creatinine Secretion
+- freely filtered.
+- ONLY TINY AMOUNT IS SECRETED from PT.
+- Cr Clearance > GFR
+
+UREA Secretion
+- freely filtered
+- FOLLOWS THE WATER. 
+- IF anti-diuresis, water reabsorbed, so net reabsorption.
+- if diuresis: water excreted ,net secretion.
+
+
+BICARBONATE
+- Freely filtered
+- COMPLETELY REABSORB.
+- acid urine, no significant Bicarbonate in Urine, 
+- freely filtered but completely reabsorbed.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-03 16:52:36 +0000
+lastModified: 2013-06-04 01:30:12 +0000
+tags: transport, Clearance, Kidney, Physiology, UrinarySystem,
+Links:
+wiki: Transport_maximum
+---------------------------/>

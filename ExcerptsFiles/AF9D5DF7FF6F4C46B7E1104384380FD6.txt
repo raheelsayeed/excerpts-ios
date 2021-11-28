@@ -1,0 +1,12 @@
+Sudden cardiac death think Arrhythmias. Usually ventricular.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-08 12:38:20 +0000
+lastModified: 2012-09-08 12:55:55 +0000
+tags: vignette, pathology, CVS, Ischemia,
+Links:
+wiki: Sudden_cardiac_death
+wiki: Ventricular_fibrillation
+---------------------------/>

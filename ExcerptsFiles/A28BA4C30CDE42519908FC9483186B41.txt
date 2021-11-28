@@ -1,0 +1,18 @@
+Type 1. Familial LIPOPROTEINEMIA
+- Autosomal recessive
+- genetic defect in LPL or ApoC-II.
+- high TG
+- high Chylomicron & VLDL
+- RED ORANGE ERUPTIVE XANTOMAS
+- fatty liver
+- acute pancreatitis
+- ABD PAIN GMAFTER FATTY MEAL.
+- high carb meal - inc in VLDL
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-15 20:00:47 +0000
+lastModified: 2013-07-15 20:55:30 +0000
+tags: Lipids, pathology, GISystem, Genetics, Biochemistry,
+---------------------------/>

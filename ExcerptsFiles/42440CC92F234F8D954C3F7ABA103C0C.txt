@@ -1,0 +1,15 @@
+Nosocomial Pneumonia
+- E.coli
+- Staphylococcus aureus
+- pseudomonas aruginosa
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-24 14:46:02 +0000
+lastModified: 2013-06-24 14:46:02 +0000
+tags: RespiratorySystem, microbiology, pneumonia, pathology,
+Links:
+wiki: Hospital-acquired_pneumonia
+wiki: Aspiration_pneumonia
+---------------------------/>

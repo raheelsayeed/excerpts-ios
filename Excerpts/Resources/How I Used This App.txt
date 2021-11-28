@@ -1,0 +1,57 @@
+## How I Used This App
+
+I created this app, or a version of it, about 3 years ago for one big reason: To study for my **exams** (Medical Postgraduate Entrances and/or licensing).
+
+Lets get one simple fact out of the way: **There is no secret to excelling in exams or studies**. And RENOTE will not pretend to make study fun or easy. RENOTE is essentially your academic notebook. A digital note that keeps everything in place ***just when you need it***. Its something you ***re***type to ***re***vise and ***re***fer later. 
+
+Whether you should actually do that (revise & refer later) is beyond the scope of this post. The focus here is only to grab a piece of text thats interesting to you and store it .. or ***RE***Note it, aah.. ahem.
+
+### Ways I write, collect and store notes. 
+
+Typically this is a passive process. I'm not spending energy to make notes, I just make'em when I find'em. With that in mind, heres how my collection grew:
+
+- I'm browsing on my mobile, stumble upon an article of academic interest, Tap the `Action` button of Safari, select *RENOTE* from the share sheet and there goes the the title, link the highlighted text (if I selected any).
+
+- Browsing [my](http://twitter.com/rsayeed) timeline, I see some tweets from [Dr Conrad Fischer](http://twitter.com/seefisch). Sometimes they're critical, relevant essential tips for an upcoming exam, or just a medical tip in general, Like one below. Long press on that tweet in ([Tweetbot](www.tapbots.com) ) and I see that Share sheet again with a direct link to this tweet. Select *RENOTE* from the list and there it goes. Following some good academic profiles does help.
+
+<html><blockquote class="twitter-tweet" lang="en"><p>Metronidazole for tetanus, NOT penicillin first!</p>&mdash; Conrad Fischer (@SeeFisch) <a href="https://twitter.com/SeeFisch/status/559444738743742464">January 25, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></html>
+
+- I'm in a ward, I received some great advice on the treatment of dengue fever. I write that on a piece of paper :|. But then, later that day, all that stuff is going into *RENOTE*. Ofcourse, you could do it right then[^1].
+
+- I'm reading a book - Physiology textbook. Its already making me nervous. So much to absorb, not possible do it in one read. I keep *RENOTE* open – start typing:
+> Actions of Alpha Receptors. 
+> - Mainly smooth muscle
+> - Gq coupled, inc Ca.
+> - Smooth muscle contr
+> - al-1 vasocons artery/vein
+> - al-1 inc TPR
+
+   While typing, swipe-right, open up the Tag view, type `Physiology`, `AutonomicNS`, `Receptors`, `alpha`[^2]. Then go to the Links, search for a keyword, gets me a list of articles from Wikipedia, Youtube. I just select em. Tap save. I'm done. I keep repeating this, when necessary.[^3]
+
+- Next: I occasionally, I tidy up the app a little bit. Go to the Tag lists (swipe-right), tap **untagged** which gives me a list of notes that haven't been tagged. Then go through those notes, assign tags and links. I try to keep my untagged list empty.
+
+**All this would be for nothing if I didn't actually open RENOTE with the intention of revising, revisiting, refreshing my memory.** This is the part that was most fun. 
+
+1. I could immediately find all my Notes that were about `Physiology` and `AutonomicNS`. I select these two tags in the Tags list, make sure the tag-combination-selector was '**AND**'; and.. thats it.
+2. Now, I actually view the note. Absorb its unforgiving knowledge that begs to leave. Right below the note text, I see the ***RENOTE*** fetching excerpts from **Wikipedia** and **YouTube** with an **image**. I needed that quick glancable information about this [Juxtaglomerular apparatus](http://en.wikipedia.org/wiki/Juxtaglomerular_apparatus)
+3. There were some notes that had links in them. A tap[^4] would open up that page in-app, while its loading, I would swipe back and continue.
+4. I see some tweet links within the text, some instagram links. *RENOTE* would automatically recognise these services and fetch the whole tweet right below the text. It can do so with: Wikipedia, YouTube, Instagram, Twitter-tweets, Vimeo, Image links and our very own formidable source of incredible power and confusion: [PubMed](http://www.ncbi.nlm.nih.gov/pubmed)[^5].
+
+### Privacy
+
+RENOTE keeps everything on local device (except when you choose to **Back up and Sync** with [Dropbox](http://www.dropbox.com). There are no ad-trackers or any pings that go out the app. I hate signing up to multiple different services. One reason I chose Dropbox was because we were all using it already. And Dropbox was flexible enough for good use with RENOTE. Other than that, your notes are read by the app alone.
+
+***************
+
+[^1]: I tend to keep away from techie things when I can. I’m exposed more than I should. Plus, com'on, writing on Paper is still the best :)
+
+[^2]: You type tags just once, next time, you want to add any, they'll show up in the list view.
+
+[^3]: 'That note is so raw. eww.'? Its not meant to be elegant. But hey, its upto you!
+
+[^4]: URL Links with the note text have a blue tinted infinity symbol. You tap that to open it.
+
+[^5]: RENOTE keeps all data on local database or Dropbox that is connected to your account.
+
+
+*btw, I used this app to write this!...  and then obviously exported it to cloud, copied the textfile within the app bundle and recompiled this app.*

@@ -1,0 +1,17 @@
+ORLISTAT
+INHIBITS PANCREATIC LIPASE: DEC TAG BREAKDOWN IN INTESTINE.
+S/E: OILY STOOLS (STEATORRHEA), DIARRHEA, DEC ABSORPTION OF LIPID SOLUBLE VITAMINS. (A, D, E, K)
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-14 12:28:05 +0000
+lastModified: 2013-06-14 12:28:05 +0000
+tags: drug, Pharmacology, CVS, Lipids,
+Links:
+wiki: Anti-obesity_medication
+ytube: JgxJUcbrH-k
+wiki: Steatorrhea
+wiki: Lipase_inhibitors
+wiki: Orlistat
+---------------------------/>

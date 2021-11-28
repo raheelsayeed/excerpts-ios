@@ -1,0 +1,12 @@
+Phenytoin BLOCKS folic acid
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-05-10 04:22:15 +0000
+lastModified: 2012-05-10 04:32:30 +0000
+tags: drug, @seeFischer, phenytoin,
+Links:
+wiki: Vitamin_B12
+wiki: Phenytoin
+---------------------------/>

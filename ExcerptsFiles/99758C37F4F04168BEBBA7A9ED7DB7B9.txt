@@ -1,0 +1,17 @@
+Other CHF drugs
+1. Diuretics: loops for associated backward failure.
+2. Spironolactone (dec remodeling)
+3. Beta blockers: metoprolol, carvedilol
+4. Nesiritide: recombinant form of human BType Natriuretic Peptide works on a receptor associated with guanyl cyclase which increases cGMP resulting in vasodilation.
+Expensive, hence only use in excessively decompensated CHF patients.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-12 03:09:27 +0000
+lastModified: 2012-09-12 03:09:27 +0000
+tags: drug, Heartfailure, Pharmacology, CVS,
+Links:
+wiki: Management_of_heart_failure
+wiki: Nesiritide
+---------------------------/>

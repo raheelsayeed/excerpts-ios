@@ -1,0 +1,23 @@
+RPGN
+- ALL NEPHRITIC SYNDROMES CAN LEAD TO RPGN
+- aka CRESCENTIC GN
+- PROLIFERATION OF PARIETAL CELLS OF BOWMAN'S CAPSULE, compress glomerulus.
+- FOLLOWS: GD SYNDR, PSGN, SLE, BERGER DISEASE
+- ASSOCIATED: VASCULITIS (WEGENER GRANULOMATOSIS)
+- IDIOPATHIC
+- [LM] HYPERCELLULAR	, crescent in bowmanspace
+- [IMF] Granular or Linear (antiGBM) of Ig & Complement, GBM DISRUPTION.
+- POOR PROGNOSIS WITH RAPID PROGRESSION TO ARF, ESRD.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-06 17:12:26 +0000
+lastModified: 2013-06-06 18:16:04 +0000
+tags: RespiratorySystem, Kidney, infections, radiology, pathology, UrinarySystem,
+Links:
+wiki: Lupus_nephritis
+ytube: LEpJhbPWzAA
+wiki: Glomerulonephritis
+wiki: Rapidly_progressive_glomerulonephritis
+---------------------------/>

@@ -1,0 +1,25 @@
+β₂ Receptor stimulation
+- Not Innervated
+- Every BV has a β₂ receptor
+- Gs-COupled: ↑cAMP
+- Activated Directly by EPINEPHRINE hormone
+- VASODILATION: ↓TPR (SM Relaxation, ↑cAMP)
+↓DP, ↓ AfterLoad
+- Opposes the action of α₁, it is more sensitive than α₁ to stimulate
+2. Uterus
+3. Bronchiles: Dilation
+4. Liver, Epinephrine (Glucagon, Cortisol)
+	- Gluconeogenesis ↑Glucose
+	- Glycogenolysis ↑Glucose
+	- Lipolysis (mobilisation, degradation of fat)
+5. Pancrease
+	- ↑Insulin Secretion (contrast to α₂)
+	- Rationale: So much Sugar release, would require some Insulin.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-30 02:23:54 +0000
+lastModified: 2013-06-30 02:52:59 +0000
+tags: Beta1, Pharmacology, ANS, Receptors, Biochemistry,
+---------------------------/>

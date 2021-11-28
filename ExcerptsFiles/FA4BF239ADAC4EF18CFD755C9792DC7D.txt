@@ -1,0 +1,20 @@
+Nasal Polyps
+- ETIO: Aspirin, NSAIDS
+
+Inhibit cyclooxygenase.
+Arachonides: LT (leukotrienes) mediated bronchoconstriction causes asthma.
+
+Chemical mediated asthma and not hypersensitive
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-24 14:31:29 +0000
+lastModified: 2013-06-24 14:46:02 +0000
+tags: RespiratorySystem, pathology, UpperPart,
+Links:
+wiki: Sinusitis
+wiki: Mechanism_of_action_of_aspirin
+wiki: Nasal_polyp
+wiki: Aspirin-induced_asthma
+---------------------------/>

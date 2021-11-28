@@ -1,0 +1,17 @@
+Arteriovenous fistula
+CC:
+Pulsating, brui over the malformation
+Branham's sign: Bradycardia after compression of AV fistula, proximal part.
+
+High output failure due to shunting.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-02 01:43:05 +0000
+lastModified: 2012-09-05 08:45:55 +0000
+tags: CVS, clinical,
+Links:
+wiki: Heart_failure
+wiki: Arteriovenous_fistula
+---------------------------/>

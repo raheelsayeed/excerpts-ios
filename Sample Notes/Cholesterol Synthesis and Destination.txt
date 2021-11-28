@@ -1,0 +1,28 @@
+Cholesterol Synthesis and Destination
+Sources: Glucose.
+Cycle starts from Acetyle CoA
+
+Starts with condensation reactions of
+- AcetylCOA to Acetoacetyl CoA
+- to hMG coa
+- HMGCOA--{HMGCoAReductase}--MalonylCoA
+- this enzyme uses two NADPH.
+- MalonylCoA--Farnesyl CoA
+- Farnesyl to eventually cholesterol
+
+Cholesterol finally is used for 
+- Steroid hormones
+- Bile acids
+- Vitamin D
+- cell membrane (major in children)
+
+Bile salts use 7-alpha-hydroxylase to make Bile acids from Cholesterol. Using  Cholestyramine renders Bile acids un recyclable and pushes for kore utilisation of cholesterol to create Bile salts thereby reducing blood Chol level.
+
+
+@RENOTE
+---------
+tags: Sample Notes
+- http://wikipedia.org/wiki/Proteolysis
+- http://wikipedia.org/wiki/Mevalonate_pathway
+- http://wikipedia.org/wiki/Cholesterol
+- http://wikipedia.org/wiki/Cholesterol_total_synthesis

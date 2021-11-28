@@ -1,0 +1,20 @@
+Mitral Valve Prolapse
+Increase preload -- murmur close to S2
+Decrease preload-- murmur close to S1
+standing up, preload is less murmur is closer to S1
+Lying down, preload is high, S2
+
+In anxiety, pulse is high, less EDV , less preload, S1
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-04 02:15:11 +0000
+lastModified: 2012-09-04 04:29:39 +0000
+tags: Valves, murmurs, pathology, CVS,
+Links:
+wiki: Marfan_syndrome
+wiki: Mitral_valve_prolapse
+wiki: Valvular_heart_disease
+wiki: Heart_click
+---------------------------/>

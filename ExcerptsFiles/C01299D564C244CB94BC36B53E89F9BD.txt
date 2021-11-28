@@ -1,0 +1,11 @@
+Intracellular Calcium concentration (CM) is 0.1 micro moles.
+Extracellularly it's in millimoles, that's about 10000 times of concentration gradient.
+Secondary active transport: calcium depends on the sodium concentration gradient to be pushed out. 
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-12 02:33:04 +0000
+lastModified: 2012-09-12 03:09:27 +0000
+tags: vignette, CVS, electrolyte,
+---------------------------/>

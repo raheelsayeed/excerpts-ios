@@ -1,0 +1,24 @@
+VOLVULUS
+- SI: IATROGENIC
+SIGMOID : LOOSE, exercise
+- TWISTING
+- OBSTIPATION
+- COMPL: INFARCTION, PERITONITIS, SEPSIS
+- rx: 
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-13 02:10:33 +0000
+lastModified: 2013-07-13 02:17:26 +0000
+tags: smallintestines, Complications, pathology, GISystem, clinical,
+Links:
+wiki: Onchocerca_volvulus
+wiki: Phyllomya_volvulus
+wiki: Gastric_dilatation_volvulus
+ytube: 4yDuabBAsUQ
+ytube: hmitbZ6fQFc
+ytube: tsVTPoJaeyE
+wiki: Volvulus
+wiki: Gastric_volvulus
+---------------------------/>

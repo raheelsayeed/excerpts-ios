@@ -1,0 +1,28 @@
+Membranoproliferative Glomerulonephritis
+- NEPHROTIC OR NEPHRITIC
+- Type I: from Good-pasture---> nephritic
+- II: Dense deposit---- Nephrotic
+TYPICALLY SECONDARY TO INFECTION, SLE, ENDOCARD, HBV, HCV, HIV CLL
+- [LM] Lobulated glomeruli, mesangial prolix and cap wall thickening (endo,mesangial cell prolif or sub endothelial deposition. 
+- - - SPLITTING OF BASEMENT MEMBRANE ("TRAM-TRACKING")
+- [IMF] type1-granular C3, IgG, C1q, C4 typ2- granular,linear C3.
+- [EM] type1- sub endothelial & mesangial immune complex deposits
+ type II dense deposits within GBM.
+
+- [LAB] !SERUMC3, c3-nephritic factor
+- typeI: tram-tracking
+- typeII dense deposits
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-06 17:23:09 +0000
+lastModified: 2013-06-06 18:16:04 +0000
+tags: radiology, infections, Kidney, pathology, UrinarySystem,
+Links:
+ytube: cWBSP4Jom9k
+ytube: ygG9x47otRo
+wiki: Barraquer–Simons_syndrome
+wiki: Glomerulonephritis
+wiki: Membranoproliferative_glomerulonephritis
+---------------------------/>

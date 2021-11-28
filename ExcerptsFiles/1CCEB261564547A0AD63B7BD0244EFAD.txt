@@ -1,0 +1,35 @@
+Pyruvate Metaboliam
+Pyruvate in Mito-------- > AcetylCoA
+- Catalysed by Pyruvate Dehydrogenase (PDH)
+- PDH takes ↑energy electrons from Pyruvate, puts on NAD to form NADH ------ which goes onto ETC generating 3ATP.
+- decarboxylates Pyruvate to release CO2
+- AcetylCoA -fb PDH.
+
+PDH
+- Highly regulated.
+1. AcetylCoA Negatively inhibits PDH
+2. PDH requires 5 different Cofactors, Coenzymes
+	- thiamine Pyrophosphate (TPP from vit Thiamine b1)
+	- Lipoic Acid
+	- CoA from Pantothenate
+	- FAD(H2) from riboflavin
+	- NAD(H) from niacin (some synthesised from Tyrosine)
+	- MNEMONIC: Tender Loving Care For Nancy
+
+Vignette: Alcoholics deficient in Thiamine. (Alcohol inhibits Thiamine absorption in mucosa and very little in beverages)
+
+If put on IV Glu solution: Patient dies off lactic acidosis.
+Reason: PDH will not work, because alcoholics are diffident in TPP. ↑Pyruvate will leak out from mitochondria meet LDH which will convert it into Lactate. (anaerobic route). 
+Lactate spills into blood, ↓pH (Lactic Acidosis).
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-26 15:35:02 +0000
+lastModified: 2013-06-26 16:17:38 +0000
+tags: vignette, mnemonic, Alcohol, GISystem, Enzymes, Biochemistry,
+Links:
+wiki: Pyruvic_acid
+wiki: Pyruvate_dehydrogenase
+wiki: Pyruvate_dehydrogenase_complex
+---------------------------/>

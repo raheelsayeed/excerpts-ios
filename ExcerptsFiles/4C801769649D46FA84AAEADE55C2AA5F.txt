@@ -1,0 +1,19 @@
+Opiods: mu receptor effects
+"MD CARES":
+Miosis
+Dependency
+Constipation
+Analgesics
+Respiratory depression
+Euphoria
+Sedation
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-02-25 18:45:00 +0000
+lastModified: 2014-02-25 18:45:00 +0000
+tags: drug, Pharmacology, Muscurinic, ANS, Receptors, mnemonic,
+Links:
+ytube: A_dXzIuGN1o
+---------------------------/>

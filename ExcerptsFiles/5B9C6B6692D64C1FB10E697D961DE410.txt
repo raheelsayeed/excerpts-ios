@@ -1,0 +1,12 @@
+Saline induced diuresis
+Saline infusion will increase GFR.
+
+Saline infusion results in dilution of blood, causing total plasma protein concentration to reduce. This results in lowered Glomerular Capillary Oncotic Pressure and promotes Net Filtration Pressure thereby promoting GFR
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-05-27 02:28:41 +0000
+lastModified: 2013-05-27 02:45:14 +0000
+tags: Physiology, GFR, Kidney, nephron, pressures, UrinarySystem,
+---------------------------/>

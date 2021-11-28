@@ -1,0 +1,17 @@
+Insulin secretion is biphasic
+- preformed insulin 10-15 mins
+- Newly synthesised insulin 2 hrs
+
+Glut1, 3 (Km 1mM)
+Glut2 = Km 15mM (liver)
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-16 23:53:55 +0000
+lastModified: 2013-06-17 00:31:56 +0000
+tags: insulin, Carbohydrates, Biochemistry,
+Links:
+wiki: Pulsatile_insulin
+wiki: Hyperinsulinism
+---------------------------/>

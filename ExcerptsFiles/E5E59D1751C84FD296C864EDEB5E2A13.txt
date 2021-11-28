@@ -1,0 +1,13 @@
+Heart failure
+
+Right heart: failure of signs.
+
+Left heart: failure of symptoms
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-01 05:54:59 +0000
+lastModified: 2012-09-01 05:54:59 +0000
+tags: CVS, Heartfailure,
+---------------------------/>

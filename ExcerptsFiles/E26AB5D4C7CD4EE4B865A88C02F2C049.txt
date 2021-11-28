@@ -1,0 +1,17 @@
+PULMONARY EVENT GRAPHS
+- maximum flow: -mid-inspiration, +mid-expiration
+- Lowest/peak IPP: at the end of Inspiration (-8)
+- Highest/Peak recoil: at the end of inspiration(+8)
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-17 18:32:49 +0000
+lastModified: 2013-06-18 14:54:51 +0000
+tags: vignette, Physiology, RespiratorySystem, pressures,
+Links:
+wiki: Pulmonary_compliance
+wiki: Intrapleural_pressure
+wiki: Elastic_recoil
+ytube: hoCBiJIDy6g
+---------------------------/>

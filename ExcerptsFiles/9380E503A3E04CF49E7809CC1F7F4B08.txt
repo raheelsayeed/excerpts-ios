@@ -1,0 +1,62 @@
+Ketone Synthesis in Starvation
+
+Continued from Beta Oxidation
+
+Ketone Synthesis
+-----------
+- Mito Matrix in Liver
+- Only in Starvation state
+- No hormone control
+
+AcetylCoA enters the liver cells and can go two ways from here
+1. Krebs or Gluconeo
+2. Ketone syn
+
+1. AcetylCoA -- HMGCOA
+2. AcetylCoa ---(h gcoa-synthase)-- hMGCoA
+2. HMG-CoA  ---{HmgcoaLyase)-- Acetoacetate
+4. Acetoacetate + NAD --- 3HydroxyButyrate (BHBA) + NADH
+5. HMG-COA ---> Acetone
+
+SIGNALS:
+- STARVATION STATE
+- In liver, starvation promotes gluconeogenesos, in which OAA is diverted. Since its not a available for krebs, AcetylCoa is diverted to ketone synthesis
+
+Reminder: starvation
+- dec insulin
+- Inc epi
+- inc cortisol
+- inc glucagon
+
+
+The three Ketones get into the blood
+
+ExtraHepatic Sites
+1. muscles
+2. Renal cortex
+3. Brain (prolonged fast)
+
+Reverse reactions to produce AcetylCoA by enzyme Thiophorase and in Other cells, OAA is available for krebs and generate energy via ATP. (No gluconeogenesis)
+
+Thiophorase activates acetoacetate --> AcetoAcetylCoA ---> 2 AcetylCoa
+
+
+Clinical:
+- ketonemia (ketoacidosis) lower pH
+- ketonuria (Dehydration as ketones are osmotic and draw water)
+- Acetone breath fruity odour
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-15 20:32:53 +0000
+lastModified: 2014-03-19 18:45:14 +0000
+tags: Lipids, GISystem, Ketone Bodies, Biochemistry,
+Links:
+wiki: Ketosis
+wiki: Ketoacidosis
+wiki: Diabetic ketoacidosis
+wiki: Ketogenesis
+wiki: Nicotinamide adenine dinucleotide
+wiki: Ketone bodies
+---------------------------/>

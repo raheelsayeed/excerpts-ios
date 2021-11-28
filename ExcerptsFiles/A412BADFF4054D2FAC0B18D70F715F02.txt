@@ -1,0 +1,18 @@
+PAH Clearance
+RPF 600 ml/min
+
+120 ml/min cleared by Filtration
+480 ml cleared by Secretion.
+
+Entire conc is cleared
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-05 18:10:43 +0000
+lastModified: 2013-06-05 19:21:14 +0000
+tags: Clearance, Physiology, Kidney, UrinarySystem,
+Links:
+wiki: PAH_clearance
+wiki: Extraction_ratio
+---------------------------/>

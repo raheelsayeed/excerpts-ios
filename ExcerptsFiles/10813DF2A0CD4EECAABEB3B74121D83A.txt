@@ -1,0 +1,25 @@
+Renal Threshold
+Plasma level of Glu at which where few nephrons become saturated. 
+
+Graph begins the patternof splay:
+
+Its the Load of Glu delieved to those nephrons.
+
+Renal Threshold: (GluPlasmaConc x GFR)
+
+if Inc GFR, load delivered to all nephrons. thus even at low Plasma Conc, nephrons can be saturated. 
+The point is, RT depends on GFR.
+Eg. in Preg, Inc GFR., Glu will appear in Urine in a lower Plasma Conc.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-04 17:43:14 +0000
+lastModified: 2013-06-04 17:48:40 +0000
+tags: Physiology, GFR, Kidney, pregnancy, UrinarySystem, formulae,
+Links:
+wiki: Renal_threshold
+wiki: Oxyhyperglycemia
+ytube: s0Caq9ih9HM
+wiki: Glycosuria
+---------------------------/>

@@ -1,0 +1,29 @@
+Pulmonary SURFACTANT
+1. DECREASES SURFACE TENSION FORCE, DECREASES COLLAPSING ABILITY, INCREASES COMPLIANCE.
+
+2. OPPOSES LAPLACE EFFECT ON ALVEOLI, STABILISES SMALL ALVEOLI.
+
+3. DEC CAPILLARY FILTRATION FORCE.
+
+* DEFICIENCY OF SURFACTANT: (LECITHIN:SPHINGOMYELIN RATION <2)
+
+SYMPTOMS OF RDS:
+- Inspiratory difficulty
+- Increase in Surface tension force, decrease in compliance: ATELECTASIS (GENERALISED COLLAPSE OF ALVEOLI).
+- PULMONARY EDEMA (WHEEZES) DEC IN CAPILLARY FILTRATION 
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-17 18:46:45 +0000
+lastModified: 2013-06-18 14:54:51 +0000
+tags: vignette, Surfactant, RespiratorySystem, Physiology, pathology, pressures,
+Links:
+wiki: Pulmonary_surfactant
+wiki: Surfactant_metabolism_dysfunction
+wiki: Surfactant_protein_A
+wiki: Acute_respiratory_distress_syndrome
+wiki: Surfactant_protein_D
+wiki: Surfactant_protein_C
+wiki: Pulmonary_surfactant-associated_protein_A1
+---------------------------/>

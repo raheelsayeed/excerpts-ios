@@ -1,0 +1,24 @@
+Infective Endocarditis
+Strep veridians most common
+Staph aureus 2nd common affects normal or damaged valve
+
+Common: mitral valve, aortic valve
+IV drug abuse: tricuspid valve.
+
+Valve vegetation
+
+Colon involvement: ulceration of colon mucosa like colon cancer or ulcerative colitis caused by streptococcus bolvus
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-04 06:05:58 +0000
+lastModified: 2012-09-04 06:06:31 +0000
+tags: infections, CVS, pathology, MostCommon,
+Links:
+wiki: Streptococcus_viridans
+wiki: Streptococcus
+wiki: Staphylococcus
+wiki: Infective_endocarditis
+---------------------------/>

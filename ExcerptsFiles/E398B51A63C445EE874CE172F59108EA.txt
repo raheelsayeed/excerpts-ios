@@ -1,0 +1,20 @@
+Anaerobic Glycolysis
+In the absence of O2, NADH conversion cannot take place and Pyruvate is converted to lactic acid by LDH.
+
+High NAD is produced
+methemoglobin Fe+3
+
+Lactic acid accumulation inside and outside the cell
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-17 00:26:23 +0000
+lastModified: 2013-06-24 14:46:02 +0000
+tags: vignette, Carbohydrates, Biochemistry,
+Links:
+wiki: Anaerobic_exercise
+wiki: Oxidative_phosphorylation
+wiki: Anaerobic_glycolysis
+wiki: Methemoglobin
+---------------------------/>

@@ -1,0 +1,16 @@
+Stomach stretch, acidity, Mucus
+Stretch Makes Acid
+- Stretch-> Vagus-> ACh > GRP > Gastrin > Acid
+- PG: creates by Stretch.
+- Stretch Simultaneously makes Acid, and PG (these PG makes mucus that protect from Acid)
+
+[V]NSAIDs: ↓Mucus Production.
+ PG makes Mucus. So PG-inhibitors like NSAIDs reduce mucus.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-06 01:43:32 +0000
+lastModified: 2013-07-06 17:02:09 +0000
+tags: anatomy, Physiology, drug, pathology, GISystem, WTF, vignette,
+---------------------------/>

@@ -1,0 +1,19 @@
+Sequence of bone growth
+From early fetal development to puberty.
+
+Growth Plate
+
+1- Epiphyseal end : Reserve zone of the growth plate consisting of chondrocytes
+
+2- Proliferating zone: deep to the reserve zone, prolifering chondrocytes form clones and align parallel to the long axis of the bone
+
+3- hypertrophy zone: chondrocytes deeper to proliferating zone undergo hypertrophy and produce Type X Collagen and growth factors
+Hypertrophic chondrocytes undergo apoptosis.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-03 06:43:28 +0000
+lastModified: 2012-09-03 06:43:28 +0000
+tags: MusculoSkeletal, Bone,
+---------------------------/>

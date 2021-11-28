@@ -1,0 +1,31 @@
+TRANSPORT OF OXYGEN
+total O2 in body = 20% Volume, 20ml O2 in 100ml of blood
+O2 content != PO2
+
+Total O2
+1. Dissolved in Plasma 0.3% of Total 20% O2. = PaO2
+2. Attached to Hb: 19.7% Volume
+2.1. Hb Conc (13, 15gm) 
+2.2. Saturation
+
+^Hb: Polycythemia
+.Hb: Anemia 
+
+Anemia: .Hb Conc, .O2 carried by Hb, .total O2 content. No changes in PaO2, no affect to dissolved in plasma. Only increase in Total O2 content, not dissolved O2 (PaO2).
+
+Hb Saturation: Each Hb carries 4 oxygen molecules. When all 4 sides are occupied. Each O2 does not have the same affinity for Hb. Binding sites vary in affinity. 
+
+PaO2 > 100mmHg, O2 kept bound to all four sites to Hb (97% sat)
+.PaO2 (40): Hb unloads O2 molecule and is approximately 75% saturated.
+.PaO2 (26): Hb-O: 50% sat (P-50)~ indicative of hemolysis.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-18 14:53:24 +0000
+lastModified: 2013-06-18 14:54:51 +0000
+tags: vignette, blood-gases, RespiratorySystem, Physiology, pathology,
+Links:
+ytube: -7BPr7bWTrY
+ytube: dveoQ5wJAsw
+---------------------------/>

@@ -1,0 +1,12 @@
+R wave
+Sound S1 (closure of Mitral and Tricuspid valve)
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-10 16:12:37 +0000
+lastModified: 2012-09-10 16:18:22 +0000
+tags: CVS, Physiology, ecg,
+Links:
+wiki: Heart_sounds
+---------------------------/>

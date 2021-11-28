@@ -1,0 +1,16 @@
+Sync And Backup
+--------------
+
+RENOTE utilizes Dropbox for device syncing and backup storage.
+
+When you enable sync, that is after linking to a Dropbox account, all notes and tags are backed up and synced across to other iOS devices that run RENOTE which is linked with the same Dropbox account.
+
+An important point to note here is that RENOTE data is **NOT** saved as text-files within Dropbox folder, we ***only use its backend***. But please remember, RENOTE was built around the idea of transferable data. So all your notes can be exported out into text-files (as a zip archive), which you can store anywhere and read using any text editor.
+
+### Saving a Note as a text file to Dropbox or any other storage provider
+
+- You will need to install Dropbox app on your iOS device (or any app that provides a system wide storage provider). That is configured with an account.
+- While your viewing the note (not editing),  Pull-to-Activate the `Share` sheet or Tap "**⚪︎⚪︎⚪︎**" button on the left lower corner.
+- In the second line of icons, Tap "**Save as file in...**".
+- You should see a list of **storage providers** like iCloud, Google Drive, Dropbox. If you don't see your choice, Tap "More ..." and switch ON the Storage services available to you.
+- Any storage provider (like Dropbox or Google Drive etc..) would require their own App installed on your device before they show up in the list.

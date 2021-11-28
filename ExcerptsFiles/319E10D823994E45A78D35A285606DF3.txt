@@ -1,0 +1,13 @@
+URETERITIS CYSTICA
+- CHRONIC INFL causes formation of small mucosal cysts in ureter.
+- predispose to cancer (adenocarcinoma).
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-08 15:09:25 +0000
+lastModified: 2013-06-09 01:45:33 +0000
+tags: ureter, infections, pathology, UrinarySystem,
+Links:
+wiki: Ureteritis
+---------------------------/>

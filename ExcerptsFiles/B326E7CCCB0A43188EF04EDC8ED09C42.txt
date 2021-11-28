@@ -1,0 +1,55 @@
+Murmurs
+Stenosis: problem I'm opening
+Regurgitation problem in closing
+
+Stenosis murmurs when valve is opening (aortic and pulmonic)
+
+Systole: aortic and pulmonic valves invoked.
+Aortic stenosis: 
+Ejection murmur, crescendo a d decrescendo appeared diamond configuration.
+2nd IC rt, carotid radiation.
+MURMUR INTENSITY INCREASES ON EXPIRATION.
+Pulmonic stenosis: left side.
+
+Diastolic: mitral and tricuspid opening problem
+LA dilates., opening snap followed by a rumbling sound.
+Underfilling the ventricle left.
+INC IN INTENSITY ON EXOIRATION.
+
+Regurgitation:
+Systole : mitral and tricuspid are closing. Volume overload.
+Murmur: Pan systolic, straight line across, sometimes obliterating s1 and s2
+S3, s4 heart sound.
+LV Dilatation
+Increases in intensity ON INSPIRATION (tricuspid)
+Expiration is mitral
+
+Diastole: trying to close problematic aortic and pulmonic.
+
+Aortic regurgitation 
+High EDV
+AFTER S2, 
+Mitral and tricuspid
+Austin flint murmur
+
+
+
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-01 01:52:32 +0000
+lastModified: 2012-09-01 05:50:02 +0000
+tags: murmurs, CVS,
+Links:
+wiki: Austin_Flint_murmur
+ytube: V5kSBrSA-sA
+ytube: iOAmqOYVczE
+wiki: Murmurs
+wiki: Diastolic_heart_murmur
+wiki: Heart_murmur
+wiki: Pulmonic_stenosis
+wiki: Systolic_heart_murmur
+wiki: Aortic_valve_stenosis
+---------------------------/>

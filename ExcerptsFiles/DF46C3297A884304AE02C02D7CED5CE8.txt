@@ -1,0 +1,23 @@
+Glucose Transport
+Adding additional insulin, more transporters to membrane are added, until transport saturation is reached.
+
+glucose TM (Transport Maximum) is reached.
+
+At rest, its lower than TM
+
+Eg of felicitated transport
+
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-05-30 23:12:31 +0000
+lastModified: 2013-05-30 23:12:31 +0000
+tags: Physiology, UrinarySystem, Endocrine, Biochemistry,
+Links:
+wiki: Glucose_transporter
+wiki: Cotransporter
+wiki: Sodium-glucose_transport_proteins
+wiki: GLUT4
+---------------------------/>

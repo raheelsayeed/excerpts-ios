@@ -1,0 +1,31 @@
+RENOTE Links Explained
+Some domains are recognized by renote. If those URLs are found within the text, remote will automatically fetch excerpts from those sites. Those domains are:
+
+1. Wikipedia Article: 
+http://www.wikipedia.org/wiki/Cranial_nerves
+
+2. YouTube:
+http://www.youtube.com/watch?v=x-hPUWRqwpI
+
+3. Twitter tweets:
+https://twitter.com/Interior/status/463440424141459456
+
+4. PubMed: 
+http://www.ncbi.nlm.nih.gov/pubmed/24578329
+
+5. A Simple Photo url
+https://pbs.twimg.com/media/BozaZ6SIQAAVD0P.png
+
+6. Instagram
+http://instagr.am/p/fA9uwTtkSN/
+
+7. Vimeo
+http://vimeo.com/119319740
+
+
+Top Level links are not fetched. Like a http://www.wikipedia.org. For more, go to Settings > Help > Links.
+
+
+@RENOTE
+---------
+tags: Sample Notes

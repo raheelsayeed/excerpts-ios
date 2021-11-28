@@ -1,0 +1,23 @@
+Peripheral neuropathy: differential
+STAGLAND:
+Sarcoid
+Thyroid
+Amyloid
+Guillian-Barre
+Lead
+Alcohol
+Nutritional
+Drugs/ Diabetes
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-01-29 14:55:49 +0000
+lastModified: 2014-01-29 14:55:49 +0000
+tags: DDx, Endocrine, diabetes,
+Links:
+wiki: Peripheral neuropathy
+wiki: Cancer pain
+wiki: Diabetic neuropathy
+ytube: VibFa0taLgE
+---------------------------/>

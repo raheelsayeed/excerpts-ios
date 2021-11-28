@@ -1,0 +1,21 @@
+High Output Failure
+Mech - dec in TPR increased VR and increased LH load.
+
+1- Endotoxic shock
+2- Thiamine deficiency: ATP depletion
+3- Graves disease: increases beta receptors in the heart.
+4- Arteriovenous fistula
+
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-03 00:09:33 +0000
+lastModified: 2012-09-03 01:20:42 +0000
+tags: CVS, Heartfailure, DDx,
+Links:
+wiki: Graves'_disease
+wiki: Heart_failure
+wiki: Arteriovenous_fistula
+---------------------------/>

@@ -1,0 +1,22 @@
+Epinephrine
+ANS action is a1, a2, b1 b2
+Low dose b1, b2
+Medium dose: b1, b2, a1 like b1 agonist dobutamine
+High dose: alpha1 like NE
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-10 06:54:14 +0000
+lastModified: 2012-09-10 06:55:26 +0000
+Links:
+wiki: Adrenergic_receptor
+wiki: Norepinephrine
+wiki: Epinephrine
+ytube: xWNxP4sf_HU
+wiki: Dopamine
+ytube: Govo2zTmMHI
+wiki: Catecholamine
+wiki: Anaphylaxis
+ytube: ejq99wLEMTw
+---------------------------/>

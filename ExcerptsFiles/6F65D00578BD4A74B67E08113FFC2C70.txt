@@ -1,0 +1,26 @@
+Hydralazine
+Direct active vasodilator through NitricOxide (NO)
+- selective arteriolar dilator.
+- reduces TPR
+- Use in a moderate to severe hypertension
+
+ProPregnancy: high protein binding, and little free fraction to cross over into the fetus, like methyldopa.
+
+SE:
+1. SLE high immunogenicity like procainamide and isoniazide
+2. Edema (use diuretics)
+3. Reflex tachycardia (coadmin beta blocker)
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-16 11:41:14 +0000
+lastModified: 2012-09-16 12:13:30 +0000
+tags: drug, pregnancy, hypertension, Pharmacology, CVS, Vascular,
+Links:
+wiki: Hydralazine
+wiki: Drug-induced_lupus_erythematosus
+wiki: Cutaneous_small-vessel_vasculitis
+wiki: Isosorbide_dinitrate/hydralazine
+---------------------------/>

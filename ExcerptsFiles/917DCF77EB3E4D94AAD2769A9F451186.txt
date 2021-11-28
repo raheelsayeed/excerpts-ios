@@ -1,0 +1,14 @@
+Afferent Arteriole Dilation
+- inc GCPr
+- inc GFR
+- inc RBF
+- inc pre at Eferent
+- inc Pr at PTCapillaries
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-05-24 22:28:29 +0000
+lastModified: 2013-05-25 01:12:56 +0000
+tags: Physiology, pressures, Kidney, nephron, UrinarySystem,
+---------------------------/>

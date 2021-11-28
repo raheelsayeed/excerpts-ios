@@ -1,0 +1,26 @@
+HEMOGLOBIN OXYGEN DISSOCIATION CURVE
+SIGMOID CURVE.
+1. SHIFT TO LEFT: INCREASE AFFINITY to Hb: DECREASE in PaO2
+- TEMP
+- H+
+- CO2
+- DPG
+decrease PaO2
+
+2. SHIFT TO RIGHT: DECREASE AFFINITY TO Hb: increase in PaO2
+INCREASE
++ TEMP 
++ H+ ACIDOSIS
++ CO2
++ DPG
+increase PaO2
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-18 14:54:51 +0000
+lastModified: 2013-06-18 14:54:51 +0000
+tags: Physiology, blood-gases, RespiratorySystem, Graphs,
+Links:
+wiki: Haemoglobin-based_oxygen_carriers
+---------------------------/>

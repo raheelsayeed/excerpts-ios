@@ -1,0 +1,18 @@
+Cori's disease
+- Glycogen Debranching enzyme defect
+- Something wrong with glycogen structure!!!
+- A lot of single glucose residue stubs at outer branch
+- Hepatomegaly
+- Mild Hypoglycaemia
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-27 15:11:57 +0000
+lastModified: 2013-06-27 15:22:29 +0000
+tags: Glycogen, Enzymes, GISystem, pathology, Biochemistry,
+Links:
+wiki: Glycogen_storage_disease
+wiki: Glycolysis
+wiki: Glycogen_storage_disease_type_III
+---------------------------/>

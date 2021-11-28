@@ -1,0 +1,18 @@
+Hypertrophic cardiomyopathy
+Most common cause of sudden cardiac death in young athlete.
+Mech: abnormal conduction
+
+Digoxin is Contraindicated, positive inotrophic effect can further strain the hear muscle
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-04 06:17:27 +0000
+lastModified: 2012-09-05 03:44:06 +0000
+tags: drug, cardiomyopathies, CVS, pathology, MostCommon,
+Links:
+wiki: Hypertrophic_cardiomyopathy_screening
+wiki: Hypertrophic_cardiomyopathy
+wiki: Cardiomyopathy
+wiki: Sudden_cardiac_death
+---------------------------/>

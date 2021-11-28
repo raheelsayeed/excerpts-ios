@@ -1,0 +1,13 @@
+Neurotransmitters vs Hormones
+NE is a neurotransmitter, E is NOT A Neurotransmitter, its a hormone.
+Beta2 receptors are generally NOT innervated. So Epinephrine will work on Beta2 receptors, and NE will not reach it.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-27 15:51:44 +0000
+lastModified: 2013-06-27 15:54:12 +0000
+tags: vignette, Pharmacology, ANS, Hormones, Receptors,
+Links:
+wiki: Excitatory_synapse
+---------------------------/>

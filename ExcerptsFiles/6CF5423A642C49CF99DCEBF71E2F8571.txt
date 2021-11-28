@@ -1,0 +1,12 @@
+Cholesterol Basics
+- In diet, it exists as Cholesterol esters and Cholesterol
+- Cholesterol Esters are 100% Nonpolar
+- RDA: 250mg/day
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-15 15:08:29 +0000
+lastModified: 2013-07-15 15:47:14 +0000
+tags: GISystem, Lipids, Biochemistry,
+---------------------------/>

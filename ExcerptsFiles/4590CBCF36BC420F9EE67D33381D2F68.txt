@@ -1,0 +1,18 @@
+Lactate Dehydrogenase
+- Flipped LD in MI
+- LDH 1 more than 2
+- lazy LDH
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-08 12:06:41 +0000
+lastModified: 2012-09-08 12:29:07 +0000
+tags: pathology, CVS, CardiacMarkers, Ischemia,
+Links:
+wiki: Cardiac_marker
+wiki: Lactate_dehydrogenase
+wiki: Lactate_dehydrogenase_elevating_virus
+ytube: 9EM_JcdtJIY
+wiki: Troponin_I
+---------------------------/>

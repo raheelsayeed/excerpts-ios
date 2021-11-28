@@ -1,0 +1,24 @@
+PNEUMOTHORAX
+PATHOLOGY.
+SIMPLE: 
+aetiology: Blebs in the wall of lung, they rupture.
+- inspiratory difficulty.
+this rupture creates rupture between the pleural cavity and the outside air, air has access to the plural cavity. 
+The pressure in Pleural cavity is much less negative, until it becomes zero, lung looses expanding ability.
+Forces the lung to collapse, AIR LEAKS INTO PLEURAL CAVITY, EXPANDS.
+- LOOSING THE NEGATIVE IPP.
+
+TENSION PNEUMOTHORAX DEVELOPS IF CONTINUOS AIR LEAK INTO PC PUSHES THE MEDIASTIUM TO THE OTHER SIDE.
+http://www.youtube.com/watch?v=i-sZzZ4TMnY
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-17 18:40:29 +0000
+lastModified: 2013-06-18 14:54:51 +0000
+tags: Physiology, pressures, RespiratorySystem, Pleura,
+Links:
+wiki: Pneumothorax
+wiki: Collapsed_lung
+wiki: Pleural_disease
+---------------------------/>

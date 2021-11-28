@@ -1,0 +1,20 @@
+Kawasaki's disease
+Mucocutaneous lymph node syndrome
+Coronary Arteries involved
+Typically self limiting
+Children more affected MOSTCOMMON acquired heart disease in children
+Segmental necrotizing pathology
+
+Death due to coronary aneurysm rupture.
+
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-06 01:40:00 +0000
+lastModified: 2012-09-06 02:10:28 +0000
+tags: Vascular, Eponym, pathology, CVS, AutoImmune, MostCommon,
+Links:
+wiki: Kawasaki_disease
+---------------------------/>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6254" systemVersion="14C109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6247"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <mutableArray key="Lato-BlackItalic.ttf">
+            <string>Lato-BlackItalic</string>
+        </mutableArray>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="Demo_MainController">
+            <connections>
+                <outlet property="addSampleBtn" destination="vnE-IS-Nkp" id="5Jf-Hq-pMw"/>
+                <outlet property="msg" destination="1ql-JB-xXs" id="8HP-xt-oND"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="56l-zu-al7">
+                    <rect key="frame" x="176" y="42" width="248" height="76"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="248" id="PsW-SU-w45"/>
+                        <constraint firstAttribute="height" constant="76" id="rqi-sr-fG9"/>
+                    </constraints>
+                    <attributedString key="attributedText">
+                        <fragment content="R">
+                            <attributes>
+                                <color key="NSColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <font key="NSFont" size="55" name="AvenirNext-Regular"/>
+                                <font key="NSOriginalFont" size="55" name="AvenirNext-Regular"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment content="E">
+                            <attributes>
+                                <color key="NSColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <font key="NSFont" size="55" name="Avenir-LightOblique"/>
+                                <font key="NSOriginalFont" size="55" name="Avenir-LightOblique"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment content="NOTE">
+                            <attributes>
+                                <color key="NSColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <font key="NSFont" size="55" name="AvenirNext-Regular"/>
+                                <font key="NSOriginalFont" size="55" name="AvenirNext-Regular"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                    </attributedString>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Drag from Right-To-Left to view the Note or Make a new one." textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1ql-JB-xXs">
+                    <rect key="frame" x="90" y="137" width="428" height="44"/>
+                    <fontDescription key="fontDescription" name="Lato-BlackItalic" family="Lato" pointSize="18"/>
+                    <color key="textColor" red="0.70196080207824707" green="0.70196080207824707" blue="0.70196080207824707" alpha="1" colorSpace="calibratedRGB"/>
+                    <color key="highlightedColor" red="1" green="0.80000001190000003" blue="0.40000000600000002" alpha="1" colorSpace="calibratedRGB"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vnE-IS-Nkp">
+                    <rect key="frame" x="236" y="532" width="129" height="30"/>
+                    <state key="normal" title="Add Sample Notes">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="layer.borderWidth">
+                            <integer key="value" value="1"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="color" keyPath="layer.borderColor">
+                            <color key="value" red="0.0" green="0.50196081399917603" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="number" keyPath="keyPath">
+                            <integer key="value" value="6"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <action selector="addSampleNotes:" destination="-1" eventType="touchUpInside" id="bb9-iT-vkj"/>
+                    </connections>
+                </button>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="I7C-b4-XwA">
+                    <rect key="frame" x="32" y="348" width="536" height="244"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="244" id="4ud-gX-ZM2"/>
+                    </constraints>
+                    <attributedString key="attributedText">
+                        <fragment>
+                            <string key="content">Celiac Disease – @IMmemorandum
+</string>
+                            <attributes>
+                                <color key="NSColor" red="0.29803922772407532" green="0.29803922772407532" blue="0.29803922772407532" alpha="0.10000000000000001" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="17" name="HelveticaNeue-Medium"/>
+                                <font key="NSOriginalFont" size="17" name="HelveticaNeue-Medium"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment content="Scalloped duodenal folds seen on endoscopy in patient with celiac disease">
+                            <attributes>
+                                <color key="NSColor" red="0.29803922772407532" green="0.29803922772407532" blue="0.29803922772407532" alpha="0.10000000000000001" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="17" name="HelveticaNeue"/>
+                                <font key="NSOriginalFont" size="17" name="HelveticaNeue"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment>
+                            <string key="content">
+
+
+Hemoglobin Binding curve: causes of shift to right – @master_usmle</string>
+                            <attributes>
+                                <color key="NSColor" red="0.29803922772407532" green="0.29803922772407532" blue="0.29803922772407532" alpha="0.10000000000000001" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="17" name="HelveticaNeue-Medium"/>
+                                <font key="NSOriginalFont" size="17" name="HelveticaNeue-Medium"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                        <fragment>
+                            <string key="content">
+"CADET, Face right"
+C02, Acid, 2,3- DPG (aka 2,3 BPG)
+Exercise
+Temperature</string>
+                            <attributes>
+                                <color key="NSColor" red="0.29803922772407532" green="0.29803922772407532" blue="0.29803922772407532" alpha="0.10000000000000001" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="17" name="HelveticaNeue"/>
+                                <font key="NSOriginalFont" size="17" name="HelveticaNeue"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                            </attributes>
+                        </fragment>
+                    </attributedString>
+                    <nil key="highlightedColor"/>
+                    <string key="userLabel">Sample Notes  Celiac Disease – @IMmemorandum Scalloped duodenal folds seen on endoscopy in patient with celiac disease   Hemoglobin Binding curve: causes of shift to right – @master_usmle "CADET, Face right" C02, Acid, 2,3- DPG (aka 2,3 BPG) Exercise Temperature</string>
+                </label>
+            </subviews>
+            <color key="backgroundColor" white="0.94755244755244761" alpha="1" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="1ql-JB-xXs" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="90" id="5FA-F9-jW5"/>
+                <constraint firstAttribute="trailingMargin" secondItem="I7C-b4-XwA" secondAttribute="trailing" constant="24" id="7J2-yj-s4a"/>
+                <constraint firstItem="1ql-JB-xXs" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="90" id="AYr-aL-gu6"/>
+                <constraint firstItem="1ql-JB-xXs" firstAttribute="top" secondItem="56l-zu-al7" secondAttribute="bottom" constant="19" id="ErB-ob-l1c"/>
+                <constraint firstItem="I7C-b4-XwA" firstAttribute="bottom" secondItem="i5M-Pr-FkT" secondAttribute="bottomMargin" id="Guq-5z-zbA"/>
+                <constraint firstItem="56l-zu-al7" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="ImT-WE-EbJ"/>
+                <constraint firstItem="vnE-IS-Nkp" firstAttribute="centerX" secondItem="56l-zu-al7" secondAttribute="centerX" id="Nfn-HP-3cn"/>
+                <constraint firstItem="56l-zu-al7" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="42" id="UtC-nL-m8g"/>
+                <constraint firstAttribute="centerX" secondItem="1ql-JB-xXs" secondAttribute="centerX" constant="-4" id="Vzn-PP-PCx"/>
+                <constraint firstItem="1ql-JB-xXs" firstAttribute="top" secondItem="56l-zu-al7" secondAttribute="bottom" constant="-1" id="aIW-q6-O9E"/>
+                <constraint firstAttribute="trailing" secondItem="1ql-JB-xXs" secondAttribute="trailing" constant="82" id="b0A-Yx-fkd"/>
+                <constraint firstItem="I7C-b4-XwA" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leadingMargin" constant="24" id="bbN-KX-vce"/>
+                <constraint firstAttribute="bottom" secondItem="vnE-IS-Nkp" secondAttribute="bottom" constant="38" id="crh-uI-Ks1"/>
+            </constraints>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="5FA-F9-jW5"/>
+                    <exclude reference="aIW-q6-O9E"/>
+                    <exclude reference="b0A-Yx-fkd"/>
+                </mask>
+            </variation>
+            <point key="canvasLocation" x="227" y="539"/>
+        </view>
+    </objects>
+</document>

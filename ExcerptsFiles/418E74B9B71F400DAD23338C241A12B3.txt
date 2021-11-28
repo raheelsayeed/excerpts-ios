@@ -1,0 +1,12 @@
+Meninges: layers in order
+PAD:
+Piamater
+Arachnoid
+Dura
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-01-26 16:38:11 +0000
+lastModified: 2014-01-29 01:42:03 +0000
+---------------------------/>

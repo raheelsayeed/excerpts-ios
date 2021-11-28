@@ -1,0 +1,28 @@
+Beta1 receptor
+Stimulation:
+- CM contraction, inc cAMP. In contrast to alpha2 receptor.
+- increase HR, SV
+- non intestinal smooth muscle involvement.
+
+Beta receptors are more sensitive than alpha receptors. At low NE doses, beta response is primary, at high doses, alpha response takes over.
+
+Mechanism: Gs coupled activation of Adenyl Cyclase, will increase cAMP in the cytoplasm, which activated Phosphokinase C, causes phosphorylation and forms something.
+
+Selective agonist: Isoprenalin
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-10 06:42:39 +0000
+lastModified: 2012-09-10 06:55:26 +0000
+tags: CVS, drug, Pharmacology, ANS, GCPR, Receptors,
+Links:
+wiki: Adrenergic_receptor
+ytube: ejq99wLEMTw
+wiki: Beta-1_adrenergic_receptor
+ytube: NB7YfAvez3o
+ytube: A7l4gS7FMYo
+wiki: Beta1-adrenergic_agonist
+wiki: G_protein-coupled_receptor
+ytube: 4dUJ5GNpfrA
+---------------------------/>

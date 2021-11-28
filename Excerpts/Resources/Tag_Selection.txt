@@ -1,0 +1,18 @@
+## Tag Selection
+
+Tags are a great way to filter your notes. They're not for *finding* a note, but finding notes *belonging* to a topic or topics (tags):
+
+Selecting a tag will immediately filter the notes, which you can see happening in the background. 
+
+In RENOTE, you have three ways of filtering your notes:
+
+1. **AND**: When you want to have all notes that are tagged with each of your selected tags. Each note that shows up in the filtered list **will** have the tags you selected.
+
+2. **OR**:  Notes will have atleast one tag that you selected. 
+
+3. **Untagged**: Exactly what it says, filtered notes do not have any associated tags.
+
+Be aware of what option you have chosen.  At any point, you can clear all selections by tapping "Edit" and "Clear Tag Selections".
+
+
+

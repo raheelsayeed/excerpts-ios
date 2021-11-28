@@ -1,0 +1,20 @@
+Tetralogy of fallot
+1- Membranous VSD
+2- overriding of aorta
+3- Pulmonic stenosis below valve
+4- Right ventricular hypertrophy
+
+Protective: asd and PDA
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-03 01:08:26 +0000
+lastModified: 2012-09-03 01:20:42 +0000
+tags: CVS, CongenitalHD,
+Links:
+wiki: Blue_baby_syndrome
+wiki: Cyanosis
+wiki: Overriding_aorta
+wiki: Tetralogy_of_Fallot
+---------------------------/>

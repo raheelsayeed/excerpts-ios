@@ -1,0 +1,24 @@
+Pyruvate: products of complete oxidation
+"4 Naked Fun 3 Coeds + 1 Guy":
+· Complete oxidation of pyruvate yields:
+4 NADH
+FADH2
+3 CO2
+1 GTP
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-03-21 16:48:49 +0000
+lastModified: 2014-03-21 16:48:49 +0000
+tags: Carbohydrates, Biochemistry,
+Links:
+wiki: Pyruvate carboxylase
+wiki: Redox
+wiki: Pyruvate dehydrogenase kinase
+wiki: Pyruvic acid
+wiki: Pyruvate synthase
+wiki: Pyruvate dehydrogenase
+wiki: Pyruvate decarboxylation
+wiki: Pyruvate kinase
+---------------------------/>

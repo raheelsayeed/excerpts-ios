@@ -1,0 +1,22 @@
+Filtration fraction = GFR/RBF (120/600)ml/min= 0.20 or 20%
+Remaining 480 ml goes into the peritubular capillaries where further reabsorption takes place
+
+Extending it further, if 20% of fluid is filtered, 20% of Na, K and other freely filtered materials are filtered.
+
+Hence conc of sodium in urine should be 20% of plasma 
+
+General rule:
+^FF : .RPF
+.FF : ^RPF
+
+If renal plasma flow is high, there is lower percentage of blood filtered, INCREASED FF, likewise if there is low RPF, high FF as blood spends more time in the glomerular capillaries
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-14 08:31:13 +0000
+lastModified: 2013-07-03 19:54:24 +0000
+tags: vignette, GFR, Kidney, Physiology, UrinarySystem, formulae,
+Links:
+wiki: Filtration_fraction
+---------------------------/>

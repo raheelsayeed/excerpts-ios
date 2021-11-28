@@ -1,0 +1,12 @@
+Heart starts pumping on 22nd day
+With only one common atria and one common ventricle connected via atrioventricular canal.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-02 04:12:15 +0000
+lastModified: 2012-09-02 04:44:17 +0000
+tags: heart, 22D, Embryology, CVS,
+Links:
+wiki: Atrioventricular_canal
+---------------------------/>

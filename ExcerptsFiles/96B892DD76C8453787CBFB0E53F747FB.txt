@@ -1,0 +1,37 @@
+Hypertension Treatment Strategy
+MAP = CO x TPR
+          = (SV x HR) x TPR. 
+TPR is proportional to Viscosity of blood and Length and inversely proportional to the 4th power of radius.
+
+Goal: reduce Afterload and Preload.
+Afterload = reduce TPR and CO to reduce Afterload.
+Preload = reduce body fluid volume.
+
+Consequences if BP is low:
+1. Reflex tachycardia
+2. Edema
+
+Lowering BP via dec Sympathetic activity
+1. No reflex tachycardia
+2. Side effect : orthostatic hypertension
+3. Increased parasympathetic activity (increased secretions, GI problems
+
+Lowering BP using drugs without Sympathetic action
+1. Reflex tachycardia
+2. No orthostatic hypertension
+3. No parasympathetic over activity related symptoms
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-16 10:32:02 +0000
+lastModified: 2012-09-16 11:32:06 +0000
+tags: vignette, hypertension, Pharmacology, CVS,
+Links:
+wiki: Alpha_agonist
+ytube: cmn4IjKjNA4
+wiki: Hypertension
+wiki: Alpha-adrenergic_agonist
+wiki: Antihypertensive_drug
+wiki: ACE_inhibitor
+---------------------------/>

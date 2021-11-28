@@ -1,0 +1,19 @@
+Post Strep Glomerulonephritis
+- Post strep beta-hem groupA, cross reaction with M-protein results in deposition of immune complexes on glomerulus. 
+- sub epithelial deposits (from which podocytes arise)
+- Nephritic
+- [lab] AS-O titre, HYALURONIDASE, low Serum Complement
+- [LM] Hypercellular gl, Neutro,monocytes, redcell casts
+- [IMF] granular deposits of IgG,IgM C3.
+- [EM] Subepithelial Humps granular pattern
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-06 17:07:59 +0000
+lastModified: 2013-06-06 18:16:04 +0000
+tags: microbiology, Kidney, infections, radiology, pathology, UrinarySystem,
+Links:
+wiki: Streptococcal_pharyngitis
+wiki: Acute_proliferative_glomerulonephritis
+---------------------------/>

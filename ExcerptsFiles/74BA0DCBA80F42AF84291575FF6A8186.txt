@@ -1,0 +1,16 @@
+Genetic disease with mitral valve prolapse
+Marfan syndrome - sudden death with conduction defects
+Ehlers danlos syndrome
+
+In Marfan's disease, Ehlers-Danlos syndrome, and similar syndromes, thumb protrudes from clenched fist.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-04 05:59:24 +0000
+lastModified: 2012-09-04 06:32:15 +0000
+Links:
+wiki: Ehlers–Danlos_syndrome
+wiki: Marfan_syndrome
+wiki: Mitral_valve_prolapse
+---------------------------/>

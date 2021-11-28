@@ -1,0 +1,19 @@
+Hormone Carrier Proteins
+CAREER PROTEINS- Globulins
+- protein binding globulin.
+- specific proteins for target organs
+- made in Liver, path: liver disease reduces binding globulins
+
+
+V: Kidney disease Nephrotic syndrome results in total steroid level reduction in plasma
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-17 15:25:16 +0000
+lastModified: 2013-07-17 15:31:59 +0000
+tags: Physiology, Hormones, Endocrine, UrinarySystem, serumproteins, Nephrotic, vignette,
+Links:
+wiki: Carrier_protein
+wiki: Growth_hormone-binding_protein
+---------------------------/>

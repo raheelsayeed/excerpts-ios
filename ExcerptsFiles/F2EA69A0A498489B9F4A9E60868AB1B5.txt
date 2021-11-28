@@ -1,0 +1,14 @@
+Huntington's: chromosome, involvement
+HUNT 4 DATE:
+HUNTington's on chromosome 4, with cauDATE nucleus involvement.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-03-14 03:53:32 +0000
+lastModified: 2014-03-20 13:25:34 +0000
+tags: mnemonic, Genetics,
+Links:
+wiki: Glutamate receptor
+wiki: Huntington's disease
+---------------------------/>

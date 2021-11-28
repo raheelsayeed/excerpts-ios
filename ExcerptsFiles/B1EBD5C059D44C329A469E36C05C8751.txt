@@ -1,0 +1,15 @@
+Individual Nephrons are connected in parallel.
+
+Hemo dynamic organisation of a single nephron, several vascular structures makeup series resistance
+
+Nephron to Nephron : || Resistance
+
+Within Nephron: Series Resistance
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-05-24 21:49:46 +0000
+lastModified: 2013-07-03 19:54:24 +0000
+tags: Physiology, Kidney, nephron, UrinarySystem,
+---------------------------/>

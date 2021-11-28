@@ -1,0 +1,11 @@
+Thick ascending limb, large decrease in osmolarity: Diluting segment of the nephron. Walls are not permeable to water. Fluid leaving the ascending limb is ISOTONIC.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-04 01:23:44 +0000
+lastModified: 2013-06-04 01:30:12 +0000
+tags: vignette, Question, Kidney, nephron, Physiology, UrinarySystem,
+Links:
+wiki: Thick_ascending_limb_of_loop_of_Henle
+---------------------------/>

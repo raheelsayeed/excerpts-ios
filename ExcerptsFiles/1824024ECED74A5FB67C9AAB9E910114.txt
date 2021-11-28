@@ -1,0 +1,17 @@
+Net Effect of renal absorption and secretion
+Depends on two things:
+
+- Filtrate Load, amount of solute filtered per unit time
+
+- Excretion Rate: amount of substance excreted per unit time.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-03 16:55:55 +0000
+lastModified: 2013-06-04 01:30:12 +0000
+tags: Clearance, Physiology, Kidney, UrinarySystem, formulae,
+Links:
+ytube: 6VhhL65fMOQ
+ytube: qdqCJ9hF8kE
+---------------------------/>

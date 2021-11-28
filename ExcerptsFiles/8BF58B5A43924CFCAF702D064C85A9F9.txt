@@ -1,0 +1,13 @@
+copper deficiency
+simulates B12 deficiency effect on the cord: subacute combined degeneration
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-05-10 04:32:30 +0000
+lastModified: 2012-05-10 04:32:30 +0000
+tags: @seeFischer, copper, cord, b12,
+Links:
+wiki: Copper_deficiency
+wiki: Subacute_combined_degeneration_of_spinal_cord
+---------------------------/>

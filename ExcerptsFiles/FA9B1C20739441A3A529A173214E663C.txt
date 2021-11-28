@@ -1,0 +1,17 @@
+Respiratory Cycle and Composition of Air
+- end of inspiration
+1. No CO2 in Cz
+2. normal atmospheric level
+
+End of Expiration
+- 100 pCO2 
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-18 14:42:29 +0000
+lastModified: 2013-06-18 14:54:51 +0000
+tags: vignette, blood-gases, RespiratorySystem, Physiology,
+Links:
+wiki: Lung_volumes
+---------------------------/>

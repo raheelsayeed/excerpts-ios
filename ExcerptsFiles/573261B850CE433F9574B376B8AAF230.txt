@@ -1,0 +1,26 @@
+G protein coupled Receptors
+α₁
+Gq Coupled: ↑Phosholipase C: ↑IP3, ↑DAG, ↑Ca
+
+α₂ (presynaptic)
+Gi Coupled: ↓Adenylyl Cyclase -> ↓cAMP
+↓NE release
+
+β₁ β₂ D₁
+Gs Coupled: ↑AdenylylCyclase -> ↑cAMP
+
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-30 02:27:54 +0000
+lastModified: 2013-06-30 02:52:59 +0000
+tags: vignette, Pharmacology, ANS, Alpha1, Receptors,
+Links:
+wiki: G_protein-coupled_receptors_database
+wiki: G_protein-coupled_receptor
+ytube: 7E-mh_enuSo
+wiki: Adhesion_G_protein-coupled_receptors
+ytube: V_0EcUr_txk
+---------------------------/>

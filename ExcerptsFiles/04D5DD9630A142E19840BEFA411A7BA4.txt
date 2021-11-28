@@ -1,0 +1,18 @@
+Muscurinic Direct Acting Drugs
+Stimulation of M Receptors directly.
+1. Bethanecol
+2. Methacholine
+3. Pilocarpine
+4. ACh itself. 
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-30 01:53:16 +0000
+lastModified: 2013-06-30 02:52:59 +0000
+tags: drug, Pharmacology, ANS, Receptors,
+Links:
+wiki: Methacholine
+wiki: Pilocarpine
+wiki: Acetylcholine
+---------------------------/>

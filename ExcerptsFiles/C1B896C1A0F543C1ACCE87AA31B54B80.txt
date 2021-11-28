@@ -1,0 +1,65 @@
+PNEUMOCONIOSIS
+- coal mining
+- abuse substance inhalation
+- initially: scar tissue secondary to inhalation
+- size < 10microns
+
+i. Coworkers Pneomoconiosis
+- Anthrocosis: Carbon pigment in macs, along pleural lymphatics and interstitial.
+Asymptomatic.
+
+ii. Simple Coal worker's pneumoconiosis
+- black lung disease
+coal-dust macules and nodules in upper lobes
+Little pulmonary dysfunction
+
+iii. Complicated Coal-worker's pneumoconiosis
+- Progressive massive fibrosis
+- ^RespiratoryDistress
+- Secondary Pulmonary HTN, Cor pulmonale
+
+iv. Caplan Syndrome
+Pneumoconiosis + Rheumatoid arthritits
+
+v. asbestosis
+Shipyard worker, brake lining.
+Serpentine: Curved, flexible
+- Lower lobe of lung.
+-- Complications:
+- Bronchogenic carcinoma (Synergy with smoke)
+- Malignant Mesothelioma (white blank ate around the lung)
+- Poor prognosis
+Rule out Mesothelioma in Pleura or Adenocarcinoma of lung (micro villa will be short in Adeno, meso : long)
+
+- family members risk
+- caplan syndrome
+- 
+
+Silicosis (TB, Upperlobe, sand)
+Occupations: Sand blasters. SAND, Beach
+associated with TB
+- Upper lobe of lung (contrast to asbestosis, Lower lobe)
+
+Berylliosis -Keys
+- Aerospace industry
+- Nuclear Reactors
+- Type IV Hypersensitivity granuloma
+- SKIN, Systemic manifestation
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-24 16:01:56 +0000
+lastModified: 2013-06-24 16:01:56 +0000
+tags: RespiratorySystem, RestrictiveDiseases, pathology, radiology, Complications, Eponym, vignette,
+Links:
+wiki: Black_lung
+wiki: Chalicosis
+wiki: Coalworker's_pneumoconiosis
+wiki: Silicosis
+wiki: Asbestos
+wiki: Pneumoconiosis
+ytube: CUb9WvR2Hvs
+wiki: Caplan's_syndrome
+ytube: 63TgW1O-eVE
+---------------------------/>

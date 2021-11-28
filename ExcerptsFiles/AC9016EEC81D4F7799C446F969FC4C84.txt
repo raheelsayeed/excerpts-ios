@@ -1,0 +1,17 @@
+Glucose absorption
+Glu absorbed by Secondary Active Transport in the Gut lumen cell of small intestine
+
+Na-Glu-Symporter in the form of Na Gradient difference.
+
+Glu moves up in Concentration gradient into the blood 
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-16 21:10:48 +0000
+lastModified: 2013-06-16 21:52:30 +0000
+tags: Channels, GISystem, Carbohydrates, Biochemistry,
+Links:
+ytube: sKVHZkZN0Js
+wiki: Glucose-galactose_malabsorption
+---------------------------/>

@@ -1,0 +1,26 @@
+Hormone Receptors and Types
+Hormones specificity: all hormones are specific intended for target organs
+GH: Gh receptors
+
+Exception: TRH from Hypothalamus.
+- Inc Prolactin
+- Inc Thyroxin
+
+Hypothalamus & pituitary
+----------
+- All Peptide Hormones!
+
+Target Organ Hormobes
+--------
+- all Steroid Hormone
+- thyroxin, cortisol, progest, estrog
+
+Mnemonic: PPS!
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-17 15:31:59 +0000
+lastModified: 2013-07-17 15:31:59 +0000
+tags: Physiology, Types, Endocrine, Receptors,
+---------------------------/>

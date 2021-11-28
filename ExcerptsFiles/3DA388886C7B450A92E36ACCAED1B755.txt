@@ -1,0 +1,86 @@
+Beta Oxidation of Fatty Acids
+basics:
+- each cycle : 5 ATP
+- kreb (12 atp) not included
+- fA-Acyle-CoA-dehydrogenase
+- in starvation states
+- substrate: FA
+
+FA enters liver into Mitochondria
+
+Inside Membrane space
+
+FA--{CoA, ATP, FattyAcylCoASynthetase}-- FA-CoA
+
+- FA-Coa + Carnitine =={carnitine Acyltransferase1} == FA-Carnitine + CoA
+
+This Cat-1 is regulated by #MalonylCoA (FA synthesis)
+High MCoA will inhibit Cat-1 and not immediately burn the newly formed FA.
+
+FA-carnitine is transported across a special carnitine transporter into the Mito matrix and CAt-2 recreates FA-CoA.
+
+- FA-CoA + FAD + NAD {Fatty acid AceylCoA dehydrogenase} == FA-CoA (-2C) + FADH2 + NADH + AcetylCoA.
+
+- FADh2 and Nadh are utilised jn Electron Transport Chain (ETC) to produce 2 and 3 ATP respectively.
+- step is repeated until the whole FA carbons are used up.
+
+PATHOLOGY
+--------
+- Myopathic CAT deficiency
+- muscle weakness
+- muscle pain
+- Myoglobinuria
+- dx: biopsy of muscle cells showing triglycerid accumulation (muscle cells cannot form chylomicrons for transport)
+- prolonged exercisE
+- autosomal recessive
+- CONTRAST THIS WITH McArdle's disease, both show history of a playing kid with muscle pain. This shows glycogen in cells
+
+MCAD deficiecy
+- Medium chain Acyl Dehydrogenase
+- VOMITING, COMA DEATH
+- accumulated DICARBOXYLIC ACIDS.
+- FASTING HYPOGLYCEMIA (gluconeo)
+- HYPOKETOSIS (acetylCoa-ketones)
+- c10-8 acyl carnities in blood. 
+- DICARBOXYLIC ACIDEMIA is diagnostic, its because the FA left over because of ineffective Beta oxidation is diverted to peroxixomes, where they under go omega-oxidation and form Dicarboxylic acidemia in Urine.
+
+Propionate Metabolism basics
+---------------
+- ODD-CHAIN FA only utilised.
+- The only part of BetaOxidation where FA is used in producing Glu.
+
+- PropionylCoA--{PropionylCoA Carboxylase}-- MethylMelonylCoa
+PropionylCoACarboxylase is an ABC carboxylase Enzyme
+
+- MethylMelonylCoA --{mutase}--> SuccinylCoa
+
+- SuccinylCoA --> Krebs Cycle
+- SuccinylCoA --> OAA (gluconeo)---> Glu
+
+
+Pathology:
+MethylMalonic Acidemia
+-----------
+MethylMalonylCoA to SuccinylCoA is done by a Mutase in the presence of B12.
+This reaction will not succeed in:
+1. B12 deficiency: Megaloblastic anemia
+2. Enzyme defect: mutase
+3. Intrinsic Factor deficiency: pernicious anemia
+4. Active-B12 deficiency
+As a result, MethylMalonic acidemia and aciduria happens which differenciates from Folate deficicy
+
+And accumulation of methyl-malonic acid and ODd-FA in neurons overtime causes Progressive Peripheral neuropathy.
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-15 20:22:45 +0000
+lastModified: 2014-03-21 06:38:03 +0000
+tags: vignette, Lipids, Enzymes, GISystem, pathology, Biochemistry,
+Links:
+wiki: Omega oxidation
+ytube: MpB_Kw6M6cQ
+ytube: pmfeF1DUTOM
+wiki: Beta oxidation
+---------------------------/>

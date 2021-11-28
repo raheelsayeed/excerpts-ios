@@ -1,0 +1,49 @@
+Citric acid cycle
+Aka: Tricarboxylic acid cycle (TCA), Kreb's cycle
+
+- Not even partial enzyme defect. ThY most important pathway for life.
+- No hormonal Control
+
+BASICALLY:
+
+AcetylCoA ---------------- 2 CO₂ + H20 + 12 ATP
+2(AcetyleCoA) --------------- 2 (2CO₂ + 2H20 + 12 ATP)
+- oxidises aerobically
+
+
+[Whats an Oxidation Reduction reaction?]
+
+AcetylCoA + Oxalacetate ==== Citrate.
+- Citrate =={CiaAconitase}== IsoCitrate
+- Isocitrate ==={IsocitrateDehydrogenase}== Ketoglutarate + CO₂ + NADH
+
+* ↑NADH & ↑ATP  ==={-NF}=== Isocitrate Dehydrogenase
+* Citrate accumulates and Inhibits PFK-1 in glycolysis except in Liver it is overridden by Insulin (PFK-2).
+Now, In Liver, Citrate is diverted to Fatty Acid Synthesis.
+
+
+
+* Ketoglutarate is 5carbon molecule
+- Ketoglutarate =={alphaKetoglutarateDehydrogenase}== SuccinylCoA + CO₂ + NADH.
+* SuccinylCoA is 4C molecule
+Alphaketoglutarate Dehydrogenase (& PDH) is a TLCFN enzyme.
+
+- SuccinylCoA ==={SCoASynthetase}=== Succinate + GTP{GDP+Pi}
+* [3rd & final substrate level phosphorylation]
+
+- Succinate ===> Fumarate ===> malate ===> Oxaloacetate
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-26 15:40:12 +0000
+lastModified: 2013-06-26 16:17:38 +0000
+tags: vignette, Enzymes, GISystem, Biochemistry,
+Links:
+wiki: Citric_acid_cycle
+ytube: juM2ROSLWfw
+wiki: Acetyl-CoA
+wiki: Coenzyme_A
+ytube: hw5nWB0xN0Y
+---------------------------/>

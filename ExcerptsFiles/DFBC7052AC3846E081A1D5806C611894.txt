@@ -1,0 +1,15 @@
+Chlamidiae (Atypical Pneumonia)
+Keys:
+- Kid after 1 week birth: wheezing. ^AP diameter.
+- after 2 weeks: if conjunctivitis?? Chlamidiae acquired from cervix during birth
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-24 15:04:22 +0000
+lastModified: 2013-06-24 16:01:56 +0000
+tags: vignette, microbiology, RespiratorySystem, pneumonia, pathology,
+Links:
+wiki: Chlamydophila_pneumoniae
+wiki: Bacterial_pneumonia
+---------------------------/>

@@ -1,0 +1,17 @@
+Nephritic Types
+major, common type 4 : diffuse PGN
+Worst prognosis
+Nodules: pas positive
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-08 14:25:26 +0000
+lastModified: 2013-06-09 01:45:33 +0000
+tags: UrinarySystem, Kidney, pathology, MostCommon,
+Links:
+wiki: Urinary_cast
+wiki: Nephrotic_syndrome
+wiki: Nephrotoxicity
+wiki: Glomerulonephritis
+---------------------------/>

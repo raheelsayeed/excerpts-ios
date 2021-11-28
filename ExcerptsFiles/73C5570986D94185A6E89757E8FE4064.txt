@@ -1,0 +1,12 @@
+Cavity with air fluid level, lung abscess. Longer the abscess, anaerobic content takes over causing necrotising foul smell.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-21 03:26:26 +0000
+lastModified: 2013-06-21 03:33:45 +0000
+tags: vignette, RespiratorySystem, infections, pathology,
+Links:
+wiki: Lung_abscess
+wiki: Abscess
+---------------------------/>

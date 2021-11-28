@@ -1,0 +1,27 @@
+DIFFERENCE CHYLIMICRON AND VLDL
+- CHYLI - INTESTINE, VLDL:LIVER
+- APO B48.  :   Apob100
+- CE.  :     CHOL
+- LYMPH.  : BLOOD
+
+SIMILARITIES
+- MADE BY ORGNA
+- APO B C E
+- MOSTLY TG
+- HUGE
+- APOC IS GIVEN BACKTO HDL
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-07 16:51:34 +0000
+lastModified: 2013-07-07 16:51:34 +0000
+tags: vignette, GISystem, Lipids, Biochemistry,
+Links:
+ytube: 00qB6Ba_VaU
+wiki: Chylomicron
+wiki: Very_low-density_lipoprotein
+ytube: XPguYN7dcbE
+wiki: Apolipoprotein_E
+wiki: Lipoprotein_lipase
+---------------------------/>

@@ -1,0 +1,15 @@
+Total Oxygen content
+Formula:
+1.34 x Hb x SaO2 + PaO2
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-23 18:46:16 +0000
+lastModified: 2013-06-24 14:46:02 +0000
+tags: Physiology, blood-gases, RespiratorySystem, formulae,
+Links:
+wiki: Shunt_equation
+wiki: Pulse_oximetry
+---------------------------/>

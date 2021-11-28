@@ -1,0 +1,23 @@
+Distal Tubule (Late)
+- Excretion of H+.
+- Excreted H+ is buffered by phosphates and sucked up by ammonia NH3 to make NH4
+- if pH < 4.0, gradient too large and secretion stops.
+- ALD acts on principle cell.
+
+if less ammonia in Urine, pH is low (acidic) in Luminal fluid
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-05 19:12:37 +0000
+lastModified: 2013-06-05 19:21:14 +0000
+tags: Physiology, Kidney, RegionalTransport, acid-base, UrinarySystem,
+Links:
+wiki: Distal_convoluted_tubule
+wiki: Aldosterone
+ytube: ddnOr-HOV14
+wiki: Macula_densa
+wiki: Renal_tubular_acidosis
+ytube: k5IF1j7b3fI
+ytube: yQybZM5qp4g
+---------------------------/>

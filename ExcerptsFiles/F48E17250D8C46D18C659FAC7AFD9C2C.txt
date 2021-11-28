@@ -1,0 +1,22 @@
+Sudden cardiac death
+1. Coronary artery disease.
+2. Hypertrophic cardiomyopathy
+3. MV prolapse
+4. AV stenosis
+5. Congenital heart abnormalities
+6. Myocarditis
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-08 12:35:43 +0000
+lastModified: 2012-09-08 12:55:55 +0000
+tags: CVS, pathology, etiology,
+Links:
+wiki: Sudden_adult_death_syndrome
+wiki: Hypertrophic_cardiomyopathy
+ytube: 52RJWyjogY0
+wiki: Ventricular_fibrillation
+wiki: Sudden_cardiac_death
+ytube: MhxkyUV6NSA
+---------------------------/>

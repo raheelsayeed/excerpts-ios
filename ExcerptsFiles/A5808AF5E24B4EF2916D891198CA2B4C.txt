@@ -1,0 +1,20 @@
+Direct sympathomimetic catecholamines
+DINED:
+Dopamine
+Isoproterenol
+Norepinephrine
+Epinephrine
+Dobutamine
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-02-18 23:22:41 +0000
+lastModified: 2014-02-18 23:22:41 +0000
+tags: drug, Pharmacology, ANS, mnemonic,
+Links:
+wiki: Adrenergic agonist
+wiki: Sympathomimetic drug
+wiki: Epinephrine
+wiki: Deoxyepinephrine
+---------------------------/>

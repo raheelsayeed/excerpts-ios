@@ -1,0 +1,9 @@
+Loosing one kidney reduced GFR by 25% and not half, cuz the normal kidney compensates by increasing GCPr and increases GFR
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-05-24 22:36:44 +0000
+lastModified: 2013-05-25 01:12:56 +0000
+tags: vignette, Physiology, Kidney, nephron, pressures, UrinarySystem,
+---------------------------/>

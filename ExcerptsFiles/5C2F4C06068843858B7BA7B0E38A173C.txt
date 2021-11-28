@@ -1,0 +1,29 @@
+Total Lung Capacity Formulae
+TLC = IC + FRC
+TLC = FVC + RV
+
+Total Volume
+Vt = (ConductingZone + RespZone)
+    =  TidalVolume x RespRate
+     = 500 x 15: 7500 ml/min
+
+Alveolar Volume
+Va = (TV - deadspace) RR
+     = (500 -150) 15: 5240 ml/min
+
+2000ml is lost in deadspace, not used for gas exchange.
+Emphysema increases deadspace.
+Hence
+.Va ~ 1/DeadSpace
+.VA ~ ^PAVO2
+Hypercapneic acidosis
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-18 14:28:44 +0000
+lastModified: 2013-06-18 14:54:51 +0000
+tags: vignette, LungVolumes, RespiratorySystem, ObstructiveDiseases, Physiology, formulae,
+Links:
+wiki: Lung_volumes
+---------------------------/>

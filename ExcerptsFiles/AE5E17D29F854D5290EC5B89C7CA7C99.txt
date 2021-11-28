@@ -1,0 +1,22 @@
+FEV-1 GRAPH
+NORMAL LUNG, 80% OF TOTAL EXPIRED VOLUME CAN BE BLOWN OUT IN THE FIRST SECOND OF EXPIRATION.
+DIFFERENTIATE BETWEEN OBSTRUCTIVE AND RESTRICTIVE DISEASES.
+
+TV = 500 ML
+IC = 2L
+FRC= 4L
+TLC= 6L (FRC + IC)
+FEV-1 = 4L
+FVC= 5L (VOLUME OF AIR EXPIRED AFTER MAXIMUM INSPIRATION).
+RV = 1L (VOLUME OF AIR LEFT AFTER MAX EXPIRATION)
+
+Normal Lung = FEV-1/FVC = 4/5 = 80%
+Q Flow = 5/3 = 1.66
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-17 19:34:29 +0000
+lastModified: 2013-06-18 14:54:51 +0000
+tags: vignette, LungVolumes, RespiratorySystem, Physiology, formulae,
+---------------------------/>

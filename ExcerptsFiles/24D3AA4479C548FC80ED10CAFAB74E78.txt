@@ -1,0 +1,13 @@
+Transient Hyperglycemia
+After a meal, 90 min, when BG comes back to normal, other systems kick in to maintain Glu at basal level.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-16 21:52:14 +0000
+lastModified: 2014-03-19 20:56:57 +0000
+tags: vignette, Carbohydrates, insulin, Biochemistry,
+Links:
+wiki: Oxyhyperglycemia
+wiki: Stress hyperglycemia
+---------------------------/>

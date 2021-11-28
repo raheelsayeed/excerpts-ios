@@ -1,0 +1,38 @@
+Angina pectoris
+Transient cardiac ischemia without cell death.
+
+Stable Angina
+- most common type of angina
+- Brought usually by coronary artery atherosclerosis more than 75% narrowing of lumen.
+- Substernal chest pain relieves on resting or by having nitroglycerin.
+- ECG: ST segment Depression (sub endocardial ischemia)
+
+Prinzmetal angina
+- coronary artery vasospasm
+- episodic chest pain, relieves on rest.
+- ECG ST segment elevation (Transmural ischemia)
+- relieved by NTG.
+
+Unstable or crescendo angina
+- caused by nonocclusive thrombus formed at the area of atherosclerosis.
+- Chest pain occurs at rest
+- increased frequency and intensity and duration of Chest pain.
+- high risk for MI.
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-08 11:49:54 +0000
+lastModified: 2012-09-08 12:29:07 +0000
+tags: ecg, pathology, CVS, Ischemia, MostCommon,
+Links:
+ytube: ZguHu8ECK2M
+wiki: Atherosclerosis
+wiki: Prinzmetal's_angina
+wiki: Unstable_angina
+ytube: DyCNsogrXkc
+wiki: Nitroglycerin
+ytube: kar6bV2DvAs
+wiki: Angina_pectoris
+---------------------------/>

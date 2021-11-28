@@ -1,0 +1,23 @@
+Propranolol
+Non selective beta blocker.
+Dec preload and after load
+Dec renin and hence ALD, less retention, reduce preload
+
+Decrease lipolysis: consequently increase LDL, TAG
+
+Cautions:
+Asthma, vasospastic disorder (Prinzmetal angina, renal spasm), hypotension, diabetes (masks hypoglycemic event)
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-16 11:32:06 +0000
+lastModified: 2012-09-16 12:13:30 +0000
+tags: drug, hypertension, Pharmacology, CVS,
+Links:
+wiki: Hypertension
+wiki: Beta_blocker
+wiki: Timolol
+wiki: Propranolol
+ytube: guYBC9ItBX8
+---------------------------/>

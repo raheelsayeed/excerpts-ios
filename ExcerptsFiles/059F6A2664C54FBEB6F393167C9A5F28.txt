@@ -1,0 +1,29 @@
+Triglyceride Synthesis from Fatty Acids
+Following FA synthesis, TG production takes place in liver and adipocyte cells. TG from liver is transported and stored in adipocyte.
+
+LIVER: 2 sources of origin
+- Glucose----> DHAP (glycolysis)
+- DHAP --{Glycerol3Phosphate Dehydrogenase}--> Glycerol 3 phosphate
+- FROM GLYCEROL: G3Phosphate by Glycerol Kinase
+- G3P---{+3FA CoA}--> TG
+- TG with Apoproteins: converted to VLDL and sent to adipocytes via blood. Tthis step is inhibited by Alcohol.
+
+IN ADIPOCYTES: SINGLE ORIGIN (GLYCOLYSIS).
+- LPL in Cell Wall cleaves VLDL to reveal 3 FA.
+- G3P + 3 FA CoA = TG. Stored inside cell vacuole. G3P is from glycolysis.
+
+Adipocyte cell is anhydrous. Less water content allows more storage of TG.
+
+
+INSULIN ROLE IN TG SYNTHESIS
+- TG SYNTHESIS SOURCE (DHAP FROM GLYCOLYSIS)
+- AcetylCoA Carboxylase activation (FA synthesis)
+- LPL (genetic level)
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-15 15:00:55 +0000
+lastModified: 2013-07-15 15:47:14 +0000
+tags: insulin, Lipids, Alcohol, GISystem, Enzymes, Biochemistry,
+---------------------------/>

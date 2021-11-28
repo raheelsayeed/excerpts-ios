@@ -1,0 +1,13 @@
+Pseudomonas infection nosocomial, in ICUs, water loving, greencolored sputum with cough
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-24 15:09:06 +0000
+lastModified: 2013-06-24 16:01:56 +0000
+tags: vignette, microbiology, RespiratorySystem, pneumonia, pathology,
+Links:
+wiki: Pseudomonas_aeruginosa
+wiki: Pseudomonas_infection
+wiki: Hospital-acquired_pneumonia
+---------------------------/>

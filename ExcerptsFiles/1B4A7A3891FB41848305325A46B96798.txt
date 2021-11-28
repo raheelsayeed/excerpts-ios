@@ -1,0 +1,13 @@
+Pulmonary Embolus (PE)
+Dabigatran NOT readyyet
+Fondaparinux (10a inhibitor) NOT ready yet
+Rivaroxaban NOT ready. 
+Use HEPARIN for PE for now
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-04-18 23:45:46 +0000
+lastModified: 2012-04-19 00:23:54 +0000
+tags: @seeFischer, Embolism, Pulmonary, drug,
+---------------------------/>

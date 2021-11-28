@@ -1,0 +1,56 @@
+Cholesterol Metabolism
+0. Nothing happens in Mouth, Stomach.
+
+Intestine
+1. Chol + CE ---{g.Bile + P.esterase}-->Chol + FA
+
+Intestine Mucosal Cell
+2. Chol + FA -{ACAT Enzyme}-> CE + Chylomicron
+Chylomicron is a physical complex of TG + CE + PhosphoLipids + Apoprotein B-48.
+
+3. Chylomyicron: into the Blood stream via Lymph (Thoracic duct)
+
+
+
+PATH:
+Abetalipoproteinemia caused by a defect in Apoprotein-B-48.
+Results in 
+↓TG Serum
+↓Cholesterol Serum
+
+
+Graph: BloodChol/Time (Postmeal)
+- Bell Shaped
+- Normal baseline max is 200 mg/dL
+- Peaks 4-5 hrs
+- Normal after 7 hrs
+- Transient Cholesterolemia for 2-7 hrs post meal.
+- Similar to Triglycerides Graph.
+
+CONTRAST: Blood Glucose Graph.
+- Peak: 45 mins
+- Normal: 2-3 hrs
+- Because No emulsification or convertion necessary. Glucose is readily absorbed by the intestinal mucosal cells.
+- contrast to glucose curve
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-07 16:39:30 +0000
+lastModified: 2013-07-07 16:51:34 +0000
+tags: Graphs, Lipids, Enzymes, GISystem, pathology, Biochemistry,
+Links:
+wiki: Lipoprotein
+wiki: Apolipoprotein_C
+wiki: Apolipoprotein
+wiki: Dietary_fiber
+wiki: Lipoprotein_lipase
+ytube: 97uiV4RiSAY
+wiki: Cholesterol
+ytube: VpaeI0FeiEA
+wiki: Apolipoprotein_E
+wiki: Chylomicron
+wiki: Chylomicron_retention_disease
+ytube: Yl-0Fuv1GEA
+ytube: of-r3jnzYf0
+---------------------------/>

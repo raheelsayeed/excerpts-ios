@@ -1,0 +1,23 @@
+GRADIENT-TIME SYSTEM (PcT Na REABSORPTION)
+- carriers never saturated.
+- Low affinity for substrate (cannot reabsorb all sodium in PT, little bit always gets passed.
+- High back leak (Back diffusion).
+- PT is very leaky to Na, K, Cl and water.
+
+Reabsorbs 2/3rd of Na in PT or 66%.
+Main metabolic processes of Kidney : Pumping of Na in the Proximal Tubule.
+GFR is the main determinant of the metabolic rate of the kidney.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-06 17:42:02 +0000
+lastModified: 2013-06-06 18:16:04 +0000
+tags: transport, Reabsorption-Renal, Kidney, nephron, Physiology, UrinarySystem,
+Links:
+wiki: Renal_sodium_reabsorption
+wiki: Renal_glucose_reabsorption
+ytube: buUXB9ZwsZs
+ytube: WFuljWeZ7Z0
+wiki: Renal_chloride_reabsorption
+---------------------------/>

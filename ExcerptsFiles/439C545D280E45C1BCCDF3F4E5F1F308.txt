@@ -1,0 +1,18 @@
+At Sea level, Nitrogen is Insoluble.
+But since Pressure is Proportional to Solubulity
+- Pressure Prop Solubility
+- At deep sea where Pr is high, N2 dissolves
+
+Sudden decompression results in N2 dissolving causing bubbles in plasma, Caisson's disease.
+Rx: slow decompression, allow N2 to be diffused out after dissolution
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-20 15:40:11 +0000
+lastModified: 2013-06-20 15:51:19 +0000
+tags: vignette, blood-gases, RespiratorySystem, Physiology,
+Links:
+wiki: Nitrogen_narcosis
+ytube: vjbLag5yEpE
+---------------------------/>

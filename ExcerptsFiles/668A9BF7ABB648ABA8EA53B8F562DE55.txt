@@ -1,0 +1,17 @@
+POSITIVE PRESSURE VENTILATION
+- UNABLE TO EMPTY THE ALVEOLUS.
+
+- HELPS PATIENT TO EMPTY THE AIR, 
+
+- VENTILATOR CREATES +PRESSURE INSIDE THE ALVEOLI INORDER FOR EXPIRATION.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-17 18:38:51 +0000
+lastModified: 2013-06-18 14:54:51 +0000
+tags: pressures, Physiology, RespiratorySystem,
+Links:
+wiki: Modes_of_mechanical_ventilation
+wiki: Positive_airway_pressure
+---------------------------/>

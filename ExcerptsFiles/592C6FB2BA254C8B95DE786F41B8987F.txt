@@ -1,0 +1,12 @@
+Oxygen saturation in congenital heard disease
+Step Up:: Step Down
+Left to right shunt: oxygenated blood goes into deoxygenated blood, right side, o2 sat blood step up
+Right to left shunt: right side, step down.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-03 00:48:32 +0000
+lastModified: 2012-09-03 01:20:42 +0000
+tags: CVS, CongenitalHD,
+---------------------------/>

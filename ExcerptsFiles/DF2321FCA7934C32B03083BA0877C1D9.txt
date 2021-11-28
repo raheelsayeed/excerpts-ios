@@ -1,0 +1,15 @@
+Liver failure (chronic): signs found on the arms
+CLAPS:
+Clubbing
+Leukonychia
+Asterixis
+Palmar erythema
+Scratch marks
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-03-11 21:52:35 +0000
+lastModified: 2014-03-11 21:52:35 +0000
+tags: clinical, Liver, Failure, GISystem, mnemonic,
+---------------------------/>

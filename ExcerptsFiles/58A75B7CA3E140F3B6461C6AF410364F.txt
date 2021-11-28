@@ -1,0 +1,22 @@
+LUNG INFLATION CURVE
+LUNGVOLUME TO IPP GRAPH
+COMPLIANCE: ΔV/ΔP: 600/3 = 200 CM H20
+IN ANY SIGMOID GRAPH
+MOVING TO LEFT: INCREASE SLOPE
+MOVING TO RIGHT: DECREASE SLOPE
+
+
+AGE: LOOSING ELASTICITY.
+EMPHYSEMA: LOOSING ELASTICITY
+RDS: LOSS OF SURFACTANT, LOOSE COMPLIANCE.
+ATELECTASIS: MORE COLLAPSE OF LUNG: 
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-17 19:28:44 +0000
+lastModified: 2013-06-22 02:23:04 +0000
+tags: Physiology, RespiratorySystem, pressures, ObstructiveDiseases, RestrictiveDiseases, formulae,
+Links:
+wiki: Airway_pressure_release_ventilation
+---------------------------/>

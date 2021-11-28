@@ -1,0 +1,20 @@
+Transport Maximum
+Its the Plasma Conc of a solute at which filtration rate of solute reaches its maximum.
+
+Beyond ™, solute appears in Urine.
+
+As PlasmaConc continues to grow, filtrate load increases but reabsorption remains constant.
+
+Resulting in excretion in Urine
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-04 17:40:05 +0000
+lastModified: 2013-06-04 17:48:40 +0000
+tags: transport, Physiology, Kidney, nephron, UrinarySystem,
+Links:
+ytube: FhapBV6UKMM
+wiki: Tmax
+wiki: Transport_maximum
+---------------------------/>

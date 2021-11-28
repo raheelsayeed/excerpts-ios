@@ -1,0 +1,34 @@
+Alveolar Pressure of Oxygen
+Partial Pressure of Inspired air. It is the PP of air in conducting zone
+
+Pa values are at sea level
+Big A is alveolar, small a is arterial in capillaries
+
+Alveolar gases after diffusion is equal to Arterial
+
+Venous Blood
+pO₂ : 40 mmHg
+PCO₂ 47 mmhg
+
+
+PAO₂ : 100
+PAcO₂ : 40
+
+Alveolar = Arterial after exchange
+
+cO₂ exchanges first. More soluble than oxygen.
+CO > CO₂ >> O₂
+Assuming pressure is constant.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-18 03:27:56 +0000
+lastModified: 2013-06-18 14:54:51 +0000
+tags: vignette, blood-gases, RespiratorySystem, Physiology, pressures,
+Links:
+wiki: Alveolar_gas_equation
+wiki: Fraction_of_inspired_oxygen
+wiki: Alveolar_air_equation
+ytube: tMSqWNPeEr8
+---------------------------/>

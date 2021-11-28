@@ -1,0 +1,23 @@
+Steatorrhea
+Diagnosis: Lipid in stools
+Caused by
+- No bile from gallblader
+- .Pancreatic Lipase
+- Malabsorption
+
+First two reasons will result in High TG in stools.
+
+Malabsorption will show FA in stools
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-06 16:37:14 +0000
+lastModified: 2013-07-06 17:02:09 +0000
+tags: etiology, pathology, GISystem, Lipids, Biochemistry,
+Links:
+wiki: Malabsorption
+wiki: Steatorrhea
+wiki: Abetalipoproteinemia
+wiki: Steatocrit
+---------------------------/>

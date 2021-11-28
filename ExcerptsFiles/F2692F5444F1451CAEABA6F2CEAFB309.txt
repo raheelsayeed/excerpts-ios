@@ -1,0 +1,23 @@
+Reynaud's disease & phenomenon
+Disease is primarily of unknown etiology.
+Patients have cold intolerance
+Peripheral vaso spasm, blanching and cyanosis of fingers and toes.
+
+Phenomenon:
+Similar symptoms that arise due to a primary disease process.
+Arterial insufficiency causing cyanosis.
+SLE, beuger's disease, atherosclerosis
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-06 01:24:54 +0000
+lastModified: 2012-09-06 01:40:00 +0000
+tags: Eponym, pathology, CVS, Vascular,
+Links:
+ytube: lACa_fr7Uyc
+ytube: kJ-JZ2wQ7pM
+wiki: Raynaud's_phenomenon
+ytube: 9aaOgJEUy8E
+ytube: TJfWv1o3U0U
+---------------------------/>

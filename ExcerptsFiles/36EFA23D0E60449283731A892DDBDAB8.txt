@@ -1,0 +1,14 @@
+Filtered Load = GFR x Px
+Filtered load is the rate at which a substance is filtered into the bowman's space.
+The substance should not be protein bound.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-14 11:16:02 +0000
+lastModified: 2013-05-30 01:36:19 +0000
+tags: UrinarySystem, Numbers, GFR, nephron, Kidney, formulae,
+Links:
+wiki: Filtration_fraction
+wiki: Diuretic
+---------------------------/>

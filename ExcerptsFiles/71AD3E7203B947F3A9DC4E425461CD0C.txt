@@ -1,0 +1,32 @@
+Procainamide
+Class IA antiArrhythmic drug. Blocks active or open state fast sodium channels.
+Action:
+- M receptor blockade, (less when compared to Quinidine)
+- metabolized by NAcetylTransferase
+
+Adverse
+- good Hapten (binds to tissue proteins and triggers immune response causing drug induced SLE.
+- hematoxicity
+- CV effects : torsades
+
+Lab:
+- pos antiHistone antibody (drug induced SLE)
+- positive ANA
+- neg dsDNA
+- neg AntiSM
+
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-11 06:44:17 +0000
+lastModified: 2012-09-11 07:31:40 +0000
+tags: drug, Pharmacology, CVS, AutoImmune, Arrhythmia,
+Links:
+wiki: Procainamide
+ytube: H0RgmEaKskM
+ytube: IIiIvS2G4no
+wiki: Sodium_channel_blocker
+wiki: N-Acetylprocainamide
+---------------------------/>

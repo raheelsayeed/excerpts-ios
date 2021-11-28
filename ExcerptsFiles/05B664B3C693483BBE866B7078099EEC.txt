@@ -1,0 +1,26 @@
+Creatinine Clearance
+Creatinine: proportional to muscle mass
+Released at fairly constant rate
+
+Increase Muscle mass, more Cr released
+Skeletal muscle injury, more Cr released
+
+No cr is reabsorbed, all is filtered, a tiny amount is secreted from PTCap
+
+If GFR inc , more filter of Cr more Cr is excreted, plasma level tends to drop
+
+If GFR dec, filter less Cr and plasma level increases. RISE IN PLASMA Cr is clinical evidence of GFR
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-05-30 17:17:03 +0000
+lastModified: 2013-06-05 19:21:14 +0000
+tags: Clearance, GFR, Kidney, Physiology, UrinarySystem,
+Links:
+wiki: Creatinine
+ytube: B2WMTpoMR7U
+wiki: Nephrotoxicity
+wiki: Clearance_(medicine)
+wiki: Vanillylmandelic_acid
+---------------------------/>

@@ -1,0 +1,16 @@
+Carbamazepine (CBZ): use
+CBZ:
+Cranial Nerve V (trigeminal) neuralgia
+Bipolar disorder
+Zeisures
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-03-04 05:47:12 +0000
+lastModified: 2014-03-04 05:50:36 +0000
+tags: drug, Pharmacology, Cranial Nerves, CNS, NervousSystem, mnemonic,
+Links:
+wiki: Carbamazepine
+wiki: Retigabine
+---------------------------/>

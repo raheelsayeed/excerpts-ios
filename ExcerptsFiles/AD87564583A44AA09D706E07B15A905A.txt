@@ -1,0 +1,14 @@
+chronic ischemic heart disease
+Second most common indication of heart transplant
+
+Sub endocardial infarcts cause fibrosis and reduce hearts contractility, reducing its Ejection fraction
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-03 23:38:53 +0000
+lastModified: 2012-09-04 04:29:39 +0000
+tags: Ejectionfraction, pathology, CVS, MostCommon,
+Links:
+wiki: Ischaemic_heart_disease
+---------------------------/>

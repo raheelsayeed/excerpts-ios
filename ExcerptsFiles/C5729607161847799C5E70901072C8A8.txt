@@ -1,0 +1,15 @@
+Aortic Stenosis
+SAD:
+Syncope
+Angina
+Dyspnoea
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-10 16:04:02 +0000
+lastModified: 2012-09-10 16:18:22 +0000
+tags: Valves, Eponym, CVS, clinical,
+Links:
+wiki: Aortic_valve_stenosis
+---------------------------/>

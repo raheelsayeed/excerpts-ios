@@ -1,0 +1,9 @@
+Oxaloacetate links Gluconeogenesis and citric acid cycle
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-27 15:35:57 +0000
+lastModified: 2013-06-27 15:54:12 +0000
+tags: vignette, GISystem, Biochemistry,
+---------------------------/>

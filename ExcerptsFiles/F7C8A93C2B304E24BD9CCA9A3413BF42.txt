@@ -1,0 +1,31 @@
+Bronchogenic Cancer
+Centrally Located (main stem bronchus)
+- Squamous cell
+- Small Cell
+
+Peripheral (filters in cigarettes responsible for peripheral)
+- Adenocarcinoma (MostCommon) Bronchogenic cancer
+
+Vignette
+Squamous Cell Car : Pap Smear: stains Keratin bright red.
+Sputum Sample With red stains: SCC.
+Cervical? SCC.
+
+Most Common
+[MC] Cancer of Lung is metastasis caused by Breast.
+Primary Adenocancer [MC]  PRIMARY lung cancer
+Second [MC]: is SCC, Small CC
+
+Worst Prog: SmallCellCar
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-26 15:21:44 +0000
+lastModified: 2013-06-26 16:17:38 +0000
+tags: vignette, RespiratorySystem, cancer, pathology, MostCommon,
+Links:
+wiki: Paraneoplastic_syndrome
+wiki: Combined_small-cell_lung_carcinoma
+wiki: Lung_cancer
+---------------------------/>

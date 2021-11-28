@@ -1,0 +1,22 @@
+Ischemic Heart Disease
+4 types
+
+1- angina
+2- myocardial infarction
+3- sudden cardiac death syndrome
+4- chronic ischemic heart disease
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-03 23:26:50 +0000
+lastModified: 2012-09-04 04:29:39 +0000
+tags: CVS, pathology, Ischemia,
+Links:
+ytube: KYvv3m9Ua58
+wiki: Ischaemic_heart_disease
+ytube: FF_YTJr2-uI
+ytube: Jlce58ZscR4
+ytube: 3wxTNgCW8jI
+wiki: Coronary_disease
+---------------------------/>

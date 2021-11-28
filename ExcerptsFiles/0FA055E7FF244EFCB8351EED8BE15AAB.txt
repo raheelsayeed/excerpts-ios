@@ -1,0 +1,30 @@
+Bronchopneumonia
+- Lobar consolidation on CXR
+
+Keys
+----
+- Rhinovirus (acid labile)
+Nonvaccine (100 serotypes)
+
+- RSV in Children!!!!!!
+- wheezing
+- small airway disease
+- pneumonia
+- bronchiolitis
+- in Chilren!!!!
+
+Influenza pneumonidiae
+Vaccine only "A"
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-24 14:56:18 +0000
+lastModified: 2013-06-24 16:01:56 +0000
+tags: vignette, microbiology, RespiratorySystem, pneumonia, pathology, clinical,
+Links:
+wiki: Human_respiratory_syncytial_virus
+wiki: Bronchiolitis
+wiki: Bronchopneumonia
+---------------------------/>

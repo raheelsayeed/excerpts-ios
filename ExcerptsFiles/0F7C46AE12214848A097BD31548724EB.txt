@@ -1,0 +1,21 @@
+S4 heart sound
+Occurs in late diastole because early in Diastole, the ventricle is not sufficiently filled with blood to cause reverberations. 
+
+Heard when there's problem in compliance.
+ Aka Pre systolic sound
+
+
+Eg, hypertrophy of heart
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-01 01:36:22 +0000
+lastModified: 2013-04-25 01:21:01 +0000
+tags: CVS, Auscultation, heart,
+Links:
+wiki: Fourth_heart_sound
+ytube: mVZFf0xaCQI
+wiki: Heart_sounds
+ytube: ntNNvRR1U38
+---------------------------/>

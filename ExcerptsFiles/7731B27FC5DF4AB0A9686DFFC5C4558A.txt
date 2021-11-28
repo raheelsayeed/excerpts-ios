@@ -1,0 +1,16 @@
+abiraterone
+Drug for treatment of prostate cancer
+It's used along with steroids
+
+Prolongs disease progression
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-06-03 03:48:31 +0000
+lastModified: 2012-06-03 03:48:31 +0000
+tags: drug, cancer,
+Links:
+wiki: Management_of_prostate_cancer
+wiki: Abiraterone
+---------------------------/>

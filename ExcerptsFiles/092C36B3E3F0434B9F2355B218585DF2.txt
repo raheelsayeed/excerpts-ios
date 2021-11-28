@@ -1,0 +1,15 @@
+Hypertension drug choices with conditions
+1. Angina: BB, CCB
+3. PostMI: BB prophylaxis
+2. BPH: alpha blocker
+4. Dyslipidemia: alpha blocker, CCB, ACEI/ARB (bb and thiazides lead to increase in LDL)
+5. Diabetes: ACEI, ARB
+6. Heart failure: ACEI, ARB, BB
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-16 22:13:15 +0000
+lastModified: 2012-09-17 01:01:59 +0000
+tags: drug, hypertension, Pharmacology, CVS,
+---------------------------/>

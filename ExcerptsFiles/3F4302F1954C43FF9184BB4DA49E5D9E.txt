@@ -1,0 +1,51 @@
+LIPOPROTEIN Metabolism
+- POLAR IS OUTSIFR (PL,  CHOL IN VLDL)
+- NONPOLAT INSIDR, GREASY (TG)
+- APOPROTEIN FACES WATER, POLAR
+
+LP METABOLISM
+- LEAVES INTESTINAL EPITHELIUM AS Chylomicron first in lymph then enters blood.
+Chylomicron contains TG,CE,APO-B-48
+- blood, Chylomicron now pics up apoC-II, ApoE (FROM HDL while traveling).
+
+- apoC now turns on LPL, TG is broken down in fatty acids, these are then absorbed into adipocyte. Which up again forms TG through glycolysis. G3p. Tid happens in approx 90 mins.
+
+- meanwhile chylomicrons shrinks, gives away apoC.
+- becomes Chylomicron remnant.
+This remant reaches LIVER IN REMNANT RECEPTOR
+
+- APOE AND APOB DOCK WITH RECEPTOR.
+
+- RECEPTOR BINDS TO CHYLOMICRON REMANAT.
+- CHYLOMICRON IS NOW WITHIN A LYSOSOMES AND UNDERGOES DEGRADATION AND TG INTO FATTY ACIDS,
+- LYSOSOMAL ESTERASE CLEAVES CE AND SELARATES OUT CHILESTEROL WHICH IS NOW BACK IN LIVER.
+
+
+THE CYCLE CONTINUES AGAIN NOW EITH A CHYLOMICRON WITH ONLY CHILESTEROL AND NOT CHOLESTEROL ESTERS. AND THE APOB-100 the same thing happens.
+LPL as usual cleaves it and FA enters adipocyte to remake and store TG.
+
+Lipoprotein lipase activation
+- apoC-II
+- INSULIN (GRNETIC)
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-07 16:45:53 +0000
+lastModified: 2013-07-07 16:51:34 +0000
+tags: Lipids, Enzymes, GISystem, pathology, Biochemistry,
+Links:
+wiki: Lipoprotein
+wiki: VLDL_receptor
+ytube: xAqL9fLwnDs
+wiki: Apolipoprotein
+wiki: Lecithin_cholesterol_acyltransferase_deficiency
+wiki: Lipoprotein_lipase
+ytube: 97uiV4RiSAY
+wiki: Apolipophorin_III
+wiki: Apolipoprotein_E
+wiki: Chylomicron
+wiki: Chylomicron_retention_disease
+ytube: SW8j1jm4f2g
+ytube: SbMuR-GxKkY
+---------------------------/>

@@ -1,0 +1,28 @@
+Lipoprotein lipase activation
+- apoC-II
+- INSULIN (GENETIC)
+
+Promotes transport of cholesterol into the adipocyte and stores it.
+
+As apoC is given back to HDL, VLDL is now IDL.
+IDL (APOE, APOB100) enters liver through a receptor and goes the similarly under lysosomal degradation.
+
+Second fate of IDL: in BLOOD IDL gives CHOL to HDL. This HDL-CHOL.
+HDL-CHOL has apoA which esterify CHOL and gives it back to IDL. 
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-07 16:48:21 +0000
+lastModified: 2013-07-15 15:47:14 +0000
+tags: Lipids, Enzymes, GISystem, insulin, Biochemistry,
+Links:
+wiki: Lipoprotein_lipase_deficiency
+wiki: Hepatic_lipase
+wiki: Hypertriglyceridemia
+wiki: Chylomicron
+ytube: 4nXPQo4FdL8
+wiki: Intermediate-density_lipoprotein
+wiki: Lipoprotein_lipase
+ytube: of-r3jnzYf0
+---------------------------/>

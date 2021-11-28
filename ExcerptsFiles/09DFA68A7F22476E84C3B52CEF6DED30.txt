@@ -1,0 +1,9 @@
+Cushing’s Ulcer - acute gastric ulcer associated with CNS trauma
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-03-05 04:43:12 +0000
+lastModified: 2014-03-05 04:43:12 +0000
+tags: @seeFischer, pathology, GISystem, Stomach,
+---------------------------/>

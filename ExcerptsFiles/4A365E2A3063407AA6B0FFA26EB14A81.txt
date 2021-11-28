@@ -1,0 +1,23 @@
+Osteoclasts
+Breaks down bone matrix
+With release of Ca
+
+Origin: from cells of blood monocyte lineage which ultimately comes from hematopoetic stem cells
+
+During early embryogenesis or bone formation or remodelling, where there is not adjacent bone marrow, osteoclasts are recruited from circulating blood cells and later from adjacent bone marrow
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-03 06:33:54 +0000
+lastModified: 2012-09-03 06:43:28 +0000
+tags: BoneCells, MusculoSkeletal,
+Links:
+wiki: Bone_resorption
+wiki: Bone
+wiki: Osteoclast
+wiki: Osteoblast
+ytube: I1icOr2uXV8
+ytube: GpMV197xZXc
+ytube: z-wvbef02vM
+---------------------------/>

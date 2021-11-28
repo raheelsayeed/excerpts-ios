@@ -1,0 +1,29 @@
+Esophageal Carcinoma
+MC: sqamous in te world
+Typically MID Eso Region
+- male, african amer
+- progressive dysphagia
+
+Rr: plummer v, achalasia, smoking, alco, tylosis, prior lye (soap) ingesion.
+
+Sym: wt loss, chest pain. By the time it presents, the can probably metastasized. Because eso is not protected by serosa in the outer layer. Adventitia tissue (BAD PROG)
+
+Rx: loop of colon, fill the gap.
+
+AdenoCar of esophagus
+: lower eso
+- white male
+- gerd
+- heart burn
+- barrets' eso
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-10 02:53:07 +0000
+lastModified: 2013-07-10 02:53:07 +0000
+tags: UpperPart, cancer, RIskFactors, GISystem, pathology, MostCommon,
+Links:
+wiki: Esophageal_cancer
+wiki: Leukoplakia_with_tylosis_and_esophageal_carcinoma
+---------------------------/>

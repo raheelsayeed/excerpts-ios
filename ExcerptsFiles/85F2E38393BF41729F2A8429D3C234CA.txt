@@ -1,0 +1,27 @@
+Urine Anion Gap
+Formula:
+
+Na + K + NH3 = Cl
+
+Na + K - Cl = x
+If x is Negative, NH3 is sufficient in Urine.
+
+If x is Positive or 0, NH3 is less in Urine.
+
+If NH3 less: H+ free is high showing tubular acidosis.
+
+A positive urine anion gap suggests a low urinary NH4+ (e.g. renal tubular acidosis).
+A negative urine anion gap suggests a high urinary NH4+ (e.g. diarrhea).
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-05 19:18:38 +0000
+lastModified: 2013-06-05 19:21:14 +0000
+tags: Physiology, UrinarySystem, Kidney, RegionalTransport, acid-base, formulae,
+Links:
+wiki: Urine_anion_gap
+wiki: Renal_tubular_acidosis
+wiki: Anion_gap
+---------------------------/>

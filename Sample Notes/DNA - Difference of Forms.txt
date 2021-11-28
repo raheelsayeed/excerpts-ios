@@ -1,0 +1,16 @@
+DNA - Difference of Forms
+
+DNA: Z vs. B form: which is inactive
+ZZZZ is sleeping (inactive).
+B form is therefore active DNA.
+
+
+
+DEMO-NOTE: Note is linked with two wikipedia articles about DNA. This can be done during editing – Drag Right-To-Left to view the tag screen and tap "Links".
+
+
+@RENOTE
+---------
+tags: Sample Notes,
+- http://wikipedia.org/wiki/A-DNA
+- http://wikipedia.org/wiki/Z-DNA

@@ -1,0 +1,24 @@
+BaroReceptor Reflex
+Reflex Bradycardia caused by the PAN System
+1. Blocking Reflex Bradycardia
+- Nicotinic ganglionic blockade. (Preganglionic)
+Blocks all of ANS
+- block Muscurinic receptors on the heart.
+
+
+Reflex tachycardia mediated by Beta1 stimulation
+Reflex Tachycardia blocker
+- Nicotinic ganglionic blockage
+- Beta1 Receptors on the heart
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-27 15:54:12 +0000
+lastModified: 2013-06-27 15:54:12 +0000
+tags: vignette, Pharmacology, ANS, Receptors,
+Links:
+wiki: Baroreflex
+wiki: Reflex_bradycardia
+wiki: Orthostatic_hypotension
+---------------------------/>

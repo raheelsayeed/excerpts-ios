@@ -1,0 +1,25 @@
+Flecainide
+Class IC, blocks all sodium channels in resting state,when. M gate is closed and h gate is open.
+
+No effect on APD
+Last choice drug
+Has pro arrythmogenic effect.
+SCdeath
+
+
+Class Ic	Moricizine, Flecainide, Propafenone	More Fries Please. (note there are two "M"s in the mnemonic, but moricizine and more can clarify which is which)
+For Pushing Ecstasy (Flecainide, Propafenone, Encainide)
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-11 06:59:09 +0000
+lastModified: 2012-09-11 07:31:40 +0000
+tags: drug, Pharmacology, CVS, Arrhythmia,
+Links:
+wiki: Antiarrhythmic_agent
+ytube: VKdVabzNAtc
+ytube: oSHkTtyvvuQ
+wiki: Flecainide
+---------------------------/>

@@ -1,0 +1,21 @@
+Conserve Fluid and Electrolytes
+Drugs that constrict afferent arteriole, this would cause lowered downstream pressure, Low GCPressure, low GFR.
+
+Results in reduced filteration of dissolved substances.
+
+As a result, a greater percentage of dissolved substances at PCT.
+
+SALINE DIURESIS
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-05-24 21:44:37 +0000
+lastModified: 2013-05-24 21:49:46 +0000
+tags: Goals, Physiology, Diuresis, Pharmacology, UrinarySystem,
+Links:
+wiki: Osmotic_diuresis
+wiki: Rebound_diuresis
+wiki: Forced_diuresis
+wiki: Diuresis
+---------------------------/>

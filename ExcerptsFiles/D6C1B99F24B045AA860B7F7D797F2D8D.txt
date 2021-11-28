@@ -1,0 +1,14 @@
+Portal hypertension: features:
+ABCDE:
+Ascites
+Bleeding (haematemesis, piles)
+Caput medusae
+Diminished liver
+Enlarged spleen
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-01-26 20:04:40 +0000
+lastModified: 2014-01-30 03:59:51 +0000
+---------------------------/>

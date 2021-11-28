@@ -1,0 +1,38 @@
+ANS receptor vignettes
+1. α₁ = No Renin
+2. β₁ = Renin
+3. ↑ cAMP : Dilation / Relaxation of smooth muscle
+4. If epinephrine is out, β₂ (↑Insulin) is more
+4. Any kind of ∆BP results "Potentially" in Reflex baroreceptar response
+	- ↑BP? Response: ↑M2(CN-X) ↓HR & ↓CO = ↓MAP
+	- ↓BP? Response: ↓PANS tone and consequently-
+		↑NE: ↑β1 (↑HR & ↑CO) α₁(vasoconstriction)= ↑MAP
+7. NE can ONLY ↑BP (α₁)
+•PP (↑Afterload and ↑Preload)
+5. NE α₁, β₁ action
+Epinephrine α₁, β₁, β₂ action
+	- β₂ (bronchodilation)
+	- β₂ (SM Relaxation) ↓TPR
+	- α₁ (SM Contraction) ↑TPR
+	- β₁ (CM Contraction) ↑HR/↑CO
+6. Epinephrine Stimation
+	- Low Dose
+		Like Isoprenaline
+		↓BP (↑β₂ < ↑α₁) & ↑HR (↑β₁)
+	- Medium Dose
+		Resembles
+		•BP (↑β₂=↑α₁) & ↑HR (↑β₁)
+	- High Dose
+		↑BP (↑β₂ < ↑α₁) & ↑HR (↑β₁)
+		EPI is like NE
+		To differentiate: Block ↑α₁
+		From Hypertension to Hypotension
+		Called "Epinephrine Reversal"
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-30 02:52:59 +0000
+lastModified: 2013-06-30 02:52:59 +0000
+tags: Beta1, ANS, Receptors, Pharmacology, Alpha1, WTF, vignette,
+---------------------------/>

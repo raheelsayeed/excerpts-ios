@@ -1,0 +1,20 @@
+Goodpasture's Syndrome
+- hemoptysis, hematuria. if(sinusitis=wegeners[URTI and LRTI])
+- ANTIGEN type IV collageN
+- [LM] Hypercellular, crescents, fibrin
+- [IMF] smooth linear pattern - IgG, C3 in GBM
+- [EM] no deposits.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-06 17:10:35 +0000
+lastModified: 2013-06-06 18:16:04 +0000
+tags: RespiratorySystem, Kidney, UrinarySystem, pathology, radiology, AutoImmune, infections,
+Links:
+wiki: Anti-glomerular_basement_membrane_antibody
+wiki: Goodpasture's_syndrome
+ytube: gIw7DAfSbwU
+wiki: Glomerular_basement_membrane
+ytube: 805YGsF5jJ0
+---------------------------/>

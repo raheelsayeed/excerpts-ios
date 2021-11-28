@@ -1,0 +1,24 @@
+Metabolic Acidosis Potassium
+Hyperkalemia
+In distal Nephron, in a state of metabolic acidosis, more H+ ions are pumped into the tubule, and less of Ka is secreted out to the tubule resulting in K accumulation (Hyperkalemia).
+
+Metabolic Acidosis has hyperkalemia due to exchange of excess of H+ for intracellular K
+
+Metabolic Acidosis is Diuresis dependent, if Diuresis? K is secreted, and reduces Hyperkalemia.
+
+METABOLIC ALKALOSIS PROMOTE HYPOKALEMIA
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-06 17:29:40 +0000
+lastModified: 2013-06-09 02:54:11 +0000
+tags: Physiology, Kidney, acid-base, UrinarySystem,
+Links:
+wiki: Renal_tubular_acidosis
+wiki: Urine_anion_gap
+wiki: High_anion_gap_metabolic_acidosis
+ytube: YTwgAVZ3CWM
+wiki: Metabolic_acidosis
+---------------------------/>

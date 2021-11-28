@@ -1,0 +1,21 @@
+Metabolic Acidosis Etiology
+- Increased Acid Production. (Net accumulation of H+ ions)
+- Decreased HCO3- (Acute tubular injury)
+
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-30 14:40:57 +0000
+lastModified: 2013-06-30 15:09:48 +0000
+tags: Physiology, RespiratorySystem, etiology, acid-base,
+Links:
+wiki: High_anion_gap_metabolic_acidosis
+wiki: Hyperchloremic_acidosis
+wiki: Lactic_acidosis
+ytube: rLaPJjXQvec
+ytube: Vl9KvDH2xeI
+wiki: Renal_tubular_acidosis
+wiki: Metabolic_acidosis
+---------------------------/>

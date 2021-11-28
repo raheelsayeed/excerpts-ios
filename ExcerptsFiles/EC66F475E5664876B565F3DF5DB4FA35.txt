@@ -1,0 +1,30 @@
+Lung COMPLIANCE
+COMPLIANCE = ΔVOLUME / ΔPRESSURE
+COMPLIANCE ~ ΔVOLUME = 1/~ ELASTICITY.
+COMPLIANCE 1/~ ΔPRESSURE.
+COMPLIANCE 1/~ ELASTICITY (Elastin: A1AT: deficient in Emphysema)
+
+COMPLIANCE 1/~ RECOIL
+
+
+ELASTICITY IS THE ABILITY TO RETURN TO ORIGINAL STATE.
+INVERSLY PROPORTIONAL TO ΔV
+
+RECOIL: 2 forces
+- SURFACE TENSION: When liquid-air interphase, it is a collapsing force. Alveoli lined with a layer of moisture, filled with air, and alveolar wall is soft. Should be collapsing!
+- LaPlace Law (PRESSURE INVERSE TO RADIUS)
+SHIFT OF AIR FROM SMALL ALVEOLI TO LARGER ALVEOLI, (SMALL COLLAPSES).
+
+While alveoli are collapsed, 2-3 weeks before birth type II Pneumocytes in lung synthesise Surfactant.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-17 18:44:41 +0000
+lastModified: 2013-06-18 14:54:51 +0000
+tags: vignette, RespiratorySystem, Physiology, pressures, formulae,
+Links:
+wiki: ΔP
+wiki: Pulmonary_compliance
+wiki: Pulmonary_surfactant
+---------------------------/>

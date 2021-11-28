@@ -1,0 +1,17 @@
+Beck's triad (cardiac tamponade)
+3 D's:
+Distant heart sounds
+Distended jugular veins
+Decreased arterial pressure
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-02-01 21:26:44 +0000
+lastModified: 2014-02-01 21:26:44 +0000
+tags: Eponym, heart, pathology, CVS, clinical,
+Links:
+wiki: Beck's triad (cardiology)
+wiki: Cardiac tamponade
+wiki: Kussmaul's sign
+---------------------------/>

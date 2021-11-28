@@ -1,0 +1,23 @@
+PROTEIN MEDIATED Solute Transport
+- D-Glucose is the natural isomer of Glucose, not L-Glucose (non natural isomer).
+- CHEMICAL STRUCTURE: same structure. compete for same carrier,
+eg. glucose and galactose compete for the same carrier protein.
+
+[question] In protein mediated transport, adding galactose would compete with glucose, hence the rate of transport should decrease, if not, it is "Simple Diffusion".
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-06 17:48:29 +0000
+lastModified: 2013-06-06 18:16:04 +0000
+tags: nephron, Kidney, Physiology, UrinarySystem, transport, RegionalTransport, Question, vignette,
+Links:
+wiki: Glucose_transporter
+wiki: GLUT4
+wiki: Passive_transport
+ytube: czY5nyvZ7cU
+ytube: h3u4n474rQc
+wiki: Sodium-hydrogen_exchange_regulatory_cofactor_2
+wiki: Sodium-glucose_transport_proteins
+wiki: Cotransporter
+---------------------------/>

@@ -1,0 +1,17 @@
+IMMUNE COMPLEXES
+ANTIGEN-ANTIBODY COMPLEX.
+Eg. Lupus complex. DNA-AntiDNA(AntiBody).
+TYPE III HYPERSENSITIVITY.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-06 16:46:41 +0000
+lastModified: 2013-06-06 16:50:56 +0000
+tags: vignette, pathology, AutoImmune, Immunology,
+Links:
+wiki: Type_III_hypersensitivity
+ytube: 9N77TPdvbpM
+wiki: Immune_complex
+wiki: Systemic_lupus_erythematosus
+---------------------------/>

@@ -1,0 +1,14 @@
+Preload increase chronically will show Dilated type of remodeling.
+Seen in heart failure.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-12 02:14:36 +0000
+lastModified: 2012-09-12 02:33:04 +0000
+tags: vignette, Heartfailure, CVS,
+Links:
+wiki: Preload
+wiki: Preload_(cardiology)
+wiki: Dilated_cardiomyopathy
+---------------------------/>

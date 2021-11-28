@@ -1,0 +1,9 @@
+"Glucagon-LIKE-peptide" (GLP) is NOT "like " glucagon. It STOPS glucagon. Exenatide STOPS glucagon, RAISES insulin
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-04-18 23:53:50 +0000
+lastModified: 2012-04-19 00:23:54 +0000
+tags: drug, @seeFischer, insulin, GLP, glucagon,
+---------------------------/>

@@ -1,0 +1,9 @@
+Von Willebrands: Bleeding time DE-emphasized. Ristocetin test REnamed as VWF "Activity". Also get Factor VIII (8) activity
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-07-23 02:13:00 +0000
+lastModified: 2012-07-23 02:35:15 +0000
+tags: @seeFischer, CoagulationFactors, VWF,
+---------------------------/>

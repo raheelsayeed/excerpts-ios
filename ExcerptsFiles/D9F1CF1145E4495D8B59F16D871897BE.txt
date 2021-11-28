@@ -1,0 +1,23 @@
+Loop Diuretics
+ACUTE PUL EDEMA, CONGESTIVE HEART FAILURE: DRUG OF CHOICE (LOOP) ETHACRYNIC ACID
+
+SIDE EFFECTS
+- HYPERSENS
+- HYPOKAL , ALKALOSIS (ALD)
+- HYPOCAL, HYPOMAG
+- HYPERURICEMIA (WEAK ACID) (PREEXISTING GOUT): PUMPS IN PCT secret weak acid,bases (urate secretion), many drugs competitively inhibit urate secretion. most of Antibiotics are weak acids. (Penicillins, cephalosporins)
+- OTOTOXIC (LOSS OF HEARING, ETHACRYNIC > FUROSEMIDE) 
+
+DRUG INTERACTIONS CHRONICALLY USED.
+- AMINOGLYCOSIDES
+- LITHIUM,  DIGOXIN (COMPETES WITH DIGOXIN)
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-14 02:13:01 +0000
+lastModified: 2013-06-14 02:13:01 +0000
+tags: vignette, Diuresis, nephron, Kidney, Pharmacology, UrinarySystem,
+Links:
+wiki: Loop_diuretic
+---------------------------/>

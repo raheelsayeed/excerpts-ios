@@ -1,0 +1,38 @@
+Miosis vs Mydriasis
+How to differentiate between drug types?
+1. Only Miosis? Without blurred vision?
+Alpha1 Blocker
+Because ↓Action of Alpha1 Stimulation, radial muscle relaxation.
+Nothing to counter "M"'s Sphincter Contraction.
+
+2. Only Mydriasis? (Dilation)
+Alpha Agonist
+
+3. Miosis With Blurred Vision?
+Muscurinic Agonist.
+Blurred vision is due to Ciliary muscle contraction.
+
+4. Mydriasis with Blurred vision
+Muscurinic Antagonist.
+Promotes the action of Alpha1: Radial contraction: Mydriasis.
+
+
+
+
+Ciliary Muscle:
+- Only PANS.
+- Only Muscurinic Receptors
+- Accommodation only in PANS.
+- Only Muscurinic drugs can affect accommodation, not Adrenergic drugs.
+
+- Agonism: Contraction of Ciliary Muscle, Lens Oval: Near accommodation (far: blurred vision)
+- Block: Cannot see near vision (blurry).
+- Muscurinic Drug S/E: Blurred Vision (far)
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-30 01:50:38 +0000
+lastModified: 2013-06-30 02:52:59 +0000
+tags: vignette, Eye, Pharmacology, ANS, Receptors,
+---------------------------/>

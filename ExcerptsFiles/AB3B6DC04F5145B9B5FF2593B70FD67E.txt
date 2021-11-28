@@ -1,0 +1,9 @@
+Ventricular fibrillation: AMIODARONE is DEFINITE first anti-arrhythmic. NOT lidocaine. lidocaine only if you do not have amiodarone
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-04-18 23:55:50 +0000
+lastModified: 2012-04-19 00:23:54 +0000
+tags: @seeFischer, drug, Amiodarone, VF, Arrhythmia,
+---------------------------/>

@@ -1,0 +1,30 @@
+Autoimport Dropbox Files.
+-------------
+
+Use this feature if you want to automate importing ***selected and recently modified*** files from **Dropbox**.  Essentially, you select a destination folder within Dropbox and RENOTE will monitor and import newly edited text files **that have a specific Tag in their filename**, a *tag* that you perhaps specifically (or not) add in the filename with the intent of RENOTE importing it at next app launch.
+
+The Tag does not have to be unique, it is merely an identifier that tells RENOTE to `IMPORT ANY RECENTLY EDITED TEXT FILE(s) IN A PREDETERMINED FOLDER THAT HAVE THE CHARACTERS '@renote' IN ITS FILENAME`. Where **@renote** is my filename tag.
+
+**All auto-imported notes exist  independently from other notes**. Tapping `Save` will cause the file to be saved back again in Dropbox. You should be able to resume editing files using any other text editor.
+
+
+### How To
+
+1. **Path**: Enter a folder path thats relative and within your Dropbox folder. Example: `/nvALT/`, where **nvALT** is a folder in the base directory of Dropbox. RENOTE will **only** monitor one folder and its files. It will **not** monitor nested directories.
+2. **Filename  Tag**: This is a simple keyword that you want to associate with all files that should be imported. Enter any thing like `@renote` or `mypapers`. A keyword that would be unique enough to not be normally within a filenames is a good starting point. The default is `@renote`.
+2.  Creating a file in `/nvALT/`, include a **Filename tag**. Example: `Metformin Mechanism of action @renote.txt`; where **`@renote`** is the specified filename tag. This is critical and the only way to tell RENOTE whether or not a file is importable.
+4. RENOTE associates filename with the imported note. As such, any change in filename will result in a new imported note being created (if tagged) and render the old one unlinked. RENOTE will assume the files are different.
+3. **Finally:** Make sure you Enable Automatic Import to use this feature.
+
+
+### Key Points to Remember
+
+1. Only text files with a common *tag* are auto importable.
+1. Files are assumed to be text files. Any other format is not recognized and ignored.
+2. Files must be located in an existing folder within Dropbox, the path to which you specify in the `Path` textfield.
+3. Imported Notes are auto-tagged within the app with "**Dropbox AutoImport Files**".
+5. Any subsequent changes to the folderpath of the actual files will not be reflected within RENOTE. These imported notes have to be manually dealth with.
+5. RENOTE *does* save and store additional data that you might associate with these files, i.e. **Tags** and **Links**. A tag "**Dropbox Files**" is automatically added to each new import of the file. However, this additional metadata is *not* reflected within the file.
+6. Deleting such notes in the app will not delete the File itself.
+3. A dropbox-imported file, if edited in RENOTE, the changes will be synced to the same file in the specified Dropbox folderpath. Such files are clearly indicated with a 'Dropbox' logo.  In such a case, RENOTE changes and maintains these files without importing its data directly into its database.
+6. Lastly ***There is no duplication of data within Dropbox.***

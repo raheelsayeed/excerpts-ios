@@ -1,0 +1,22 @@
+Wheezing: causes
+ASTHMA:
+Asthma
+Small airways disease
+Tracheal obstruction
+Heart failure
+Mastocytosis or carcinoid
+Anaphylaxis or allergy
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-02-10 01:16:24 +0000
+lastModified: 2014-02-10 01:16:24 +0000
+tags: DDx, RespiratorySystem, clinical, mnemonic,
+Links:
+wiki: Bronchospasm
+wiki: Wheeze
+wiki: Anaphylaxis
+wiki: Asthma
+wiki: Acute bronchitis
+---------------------------/>

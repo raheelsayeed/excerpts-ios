@@ -1,0 +1,27 @@
+Peptic Ulcer disease
+- inc gastric sectetions acid m pepsin
+- impaired mucosal defences
+- distal stomach antrum n prox duodenum
+
+Etio: smoking, aspirin, h.pylori
+
+Rx: h2 blockers, ppi, h.pylorie treamtnet
+
+Complications
+- hemorrhage
+- iron anemia
+- penetration
+- perforation
+- puloric obstruction
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-13 02:00:36 +0000
+lastModified: 2013-07-13 02:17:26 +0000
+tags: Rx, Complications, pathology, GISystem, Pharmacology, etiology,
+Links:
+wiki: Peptic_ulcer
+ytube: wARGyh_C0MU
+ytube: NNZOg9aH8To
+---------------------------/>

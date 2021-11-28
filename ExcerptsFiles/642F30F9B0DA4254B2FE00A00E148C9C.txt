@@ -1,0 +1,12 @@
+Inulin Lowest Concentration is in bowman's space 1.0. Highest is in CollectingDuct 5.0.
+
+inulin is freely filtered and TF/P is 1.
+As fluid passes proximal tubule and futher down more water is reabsorbed and concentration of Inulin in nephron rises.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-05 18:46:10 +0000
+lastModified: 2013-06-05 19:21:14 +0000
+tags: vignette, Physiology, Kidney, UrinarySystem, RegionalTransport, inulin,
+---------------------------/>

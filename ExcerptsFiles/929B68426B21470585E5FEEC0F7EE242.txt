@@ -1,0 +1,35 @@
+MalAbsorption Syndrome
+- SYM: Diarrhea, steatorrea
+1. Celiac Sprue (Non tropical sprue)
+Hypersensitivity to Gluten and gliadin, resulting in loss of small bowel villi and malabsorption.
+High fibre diet: Glutin-in fibre
+  - Loss of Villi
+  - ↑IEL & ↑PlasmaCells -lamina
+  - IgA producing, (Associated w/ IgA Nephropathy, Dermatitis-herpetiformis
+  - Genetic: HLA-B8, DR3, DQ
+Rx: Avoid Gluten stuff
+
+
+2. Tropical Sprue
+- unknown aetiology
+- malabsorption
+- h/o Carribean Travelling
+- Morphologically: like Celiac - Atrophy.
+- [LM] Like Celiac Sprue
+- [Rx] Ab, b12, Folate
+
+3. Whipple disease
+- infection by Tropheryma Whipplei
+- Sym: Malabsoprtion, wtloss, diarrhoea, 
+- Lamina Propria: macrophages stuffed with PAS stain, G+ Rods
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-13 02:14:30 +0000
+lastModified: 2013-07-13 02:17:26 +0000
+tags: clinical, smallintestines, infections, GISystem, pathology, microscopy,
+Links:
+wiki: Whipple's_disease
+wiki: Coeliac_disease
+---------------------------/>

@@ -1,0 +1,10 @@
+Admit CHF
+Most common cause of CHF death is SUDDEN death from arrhythmia. Put in AICD
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-04-18 23:32:41 +0000
+lastModified: 2012-04-19 00:23:54 +0000
+tags: CHF, @seeFischer, Arrhythmia,
+---------------------------/>

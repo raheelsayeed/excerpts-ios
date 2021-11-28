@@ -1,0 +1,28 @@
+Free Water Clearance
+It is the best measure of balance between solute and water excretion.
+
+Use: determine whether kidneys are responding appropriately to maintain normal plasma osmolarity
+
+It is how much solute free water is excreted
+
+PURE FREE WATER LOST IN URINE
+
+PlasmaOsm Low: + FWClearanc
+Result: hypotonic Urine
+
+PlasmaOsm High: - FWClearance
+Result hypertonic Urine
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-03 18:22:06 +0000
+lastModified: 2013-06-05 19:21:14 +0000
+tags: Clearance, Physiology, Kidney, UrinarySystem,
+Links:
+wiki: Free_water_clearance
+wiki: Plasma_osmolality
+wiki: Osmolarity_gradient
+wiki: Clearance_(medicine)
+ytube: BYTVfsQZlm8
+---------------------------/>

@@ -1,0 +1,27 @@
+DIFFUSION CAPACITY OF LUNG (DLCO)
+- Perfusion Limited Situation
+substance equates between capillary & Interstitium.
+- Diffusion Limited Situation
+substance does NOT equilibrate between capillary & interstitum.
+
+SOLUBILITY: CO > CO₂ >> O₂
+AFFINITY TO Hb: CO > O₂ > CO₂.
+assuming pressure is constant.
+
+Vignette: Not only does CO diffuse first and quickly, it replaces O₂ due to higher affinity.
+CO is great to measure the diffusion capacity of the lung as it is most soluble.
+PCO in plasma is ZERO, all is bound to Hb as affinity is high.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-18 14:50:11 +0000
+lastModified: 2013-06-18 14:54:51 +0000
+tags: vignette, blood-gases, RespiratorySystem, Physiology,
+Links:
+wiki: Hypersensitivity_pneumonitis
+wiki: Diffusing_capacity
+ytube: MEYeVvSSpiU
+wiki: DLCO
+ytube: YdPAaLKCWbM
+---------------------------/>

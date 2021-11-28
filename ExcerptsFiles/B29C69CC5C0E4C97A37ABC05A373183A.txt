@@ -1,0 +1,29 @@
+Chronic Bronchitis
+Clinical diagnosis: persistent cough with sputum for at least 3 months in two consecutive years
+
+S/s
+- cough, sputum, dyspnea
+- hypoxia, cyanosis, wt gain
+- blue bloaters
+
+Histology: hypertrophy and hyperplasia mucous glands
+- hypersecretion
+- bronchial squamous hyperplasia
+
+
+Complication:
+- recurrent infections
+- Secondary P HTN
+- arHF
+- Lung cancer
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-24 15:36:29 +0000
+lastModified: 2013-06-24 16:01:56 +0000
+tags: histology, RespiratorySystem, Complications, ObstructiveDiseases, pathology, clinical,
+Links:
+wiki: Chronic_bronchitis
+wiki: Chronic_obstructive_pulmonary_disease
+---------------------------/>

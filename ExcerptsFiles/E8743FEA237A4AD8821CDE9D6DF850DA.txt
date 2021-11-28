@@ -1,0 +1,18 @@
+Risk factors of Coronary Artery disease
+1- AGE male 45, female-55 (Estrogen)
+2- Fx of heart disease or stroke
+3- cigarette smoking
+3- LDL (if HDL > 60, subtract 1 from factors
+4- Hypertension
+6- DM
+7- 
+8- 
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-03 04:21:58 +0000
+lastModified: 2012-09-04 04:29:39 +0000
+Links:
+wiki: Coronary_artery_disease
+---------------------------/>

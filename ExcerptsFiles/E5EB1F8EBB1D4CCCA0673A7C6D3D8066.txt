@@ -1,0 +1,23 @@
+T wave
+- Ventricular pressure begins to dec
+- aortic pressure decreases when aortic valve closes.
+- [s2 sound] when Ven Pressure is less than Aortic pressure.
+
+Physiology: ventricular Repolarization
+
+Sound S2 closure of aortic valve
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-10 16:18:22 +0000
+lastModified: 2012-09-10 17:06:42 +0000
+tags: CVS, Physiology, ecg,
+Links:
+ytube: 2g04nqzCWH0
+wiki: Electrocardiography
+wiki: T_wave
+ytube: 3MRj8lheYDo
+wiki: T_wave_alternans
+wiki: T-wave
+---------------------------/>

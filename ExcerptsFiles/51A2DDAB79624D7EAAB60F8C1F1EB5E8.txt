@@ -1,0 +1,15 @@
+Hypocalcemia signs:
+C = Chvostek sign = Cheek tapping —> facial muscle Contraction
+T = Trosseau’s sign = Tight BP cuff —> hand Tetany spasm
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-03-05 04:39:51 +0000
+lastModified: 2014-03-05 04:39:51 +0000
+tags: Eponym, Nutrition, Calcium, clinical,
+Links:
+wiki: Hypocalcaemia
+wiki: Trousseau sign of latent tetany
+wiki: Chvostek sign
+---------------------------/>

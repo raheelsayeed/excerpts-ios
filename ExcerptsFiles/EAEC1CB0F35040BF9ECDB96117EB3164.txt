@@ -1,0 +1,25 @@
+Brain usage in Starvation
+1-2 days
+- carbon sourcr: glycogen
+- liver generates glu to majbtain blood glu
+
+
+2-7 days
+- gluconeogenesis
+- carbon source protein muscle
+- break down
+- steady rise in ketone use
+
+1-3w
+- carbon source: Adipose
+- ketosis
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-15 20:26:10 +0000
+lastModified: 2014-03-19 20:23:25 +0000
+tags: vignette, Lipids, GISystem, Carbohydrates, Biochemistry,
+Links:
+wiki: Stress (biology)
+---------------------------/>

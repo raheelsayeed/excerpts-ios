@@ -1,0 +1,21 @@
+Beta2 Receptor
+Stimulation
+- smooth muscle relaxation
+- bronchodilator
+- vasodilatation
+- inc gluconeogenesis, inc glycogenolysis, inc lipolysis.
+
+Epinephrine reversal: (excess)
+Blocking alpha1 receptor enhances clinical beta2 effect.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-10 06:49:42 +0000
+lastModified: 2012-09-10 06:55:26 +0000
+tags: CVS, Pharmacology, ANS, GCPR, Receptors,
+Links:
+wiki: Beta-2_adrenergic_receptor
+wiki: G_protein-coupled_receptor
+wiki: Salmeterol
+---------------------------/>

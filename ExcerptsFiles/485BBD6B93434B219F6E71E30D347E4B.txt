@@ -1,0 +1,34 @@
+Lidocaine
+Class IB antiArrhythmic drug, blocks inactivated voltage gated sodium channel (M open and h gate is closed).
+
+Effect:
+1. Dec Ina
+2. Dec APD
+
+Eases strain in hypoxia as where there is depletion of ATP.
+
+Use
+1. Post MI
+2. Open heart surgery
+3. Digoxin toxicity.
+
+Only I'VE formulation
+
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-11 06:53:45 +0000
+lastModified: 2012-09-12 03:09:27 +0000
+tags: drug, Pharmacology, CVS, Arrhythmia,
+Links:
+wiki: Lidocaine/prilocaine
+wiki: Lidocaine
+wiki: Na+/K+-ATPase
+ytube: T31_v2Wz2Xo
+wiki: Antiarrhythmic_agent
+ytube: DoFP3DRPaYk
+ytube: nNx5Ej_ZKSc
+wiki: Local_anesthetic
+---------------------------/>

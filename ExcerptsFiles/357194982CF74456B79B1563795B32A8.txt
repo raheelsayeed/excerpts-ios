@@ -1,0 +1,25 @@
+Obstructive vs Restrictive Lung disease
+Obstructive:
+- Increased Resistance to airflow secondary to airway obstruction.
+- .FEV-1/FVC (decreased)
+- Eg. Asthma, Chronic Bronchitis, Emphysema, Bronchiectasis
+
+Restrictive:
+- Decreased Lung volume and Capacity
+- FEV-1/FVC (normal or less)
+- .TLC & .VC
+- Eg. Chest wall disorders (Obesity, Kyphoscoliosis, Polio), Interstitial / Infiltrative diseases (ARDS, Pneumoconiosis, Pulmonary Fibrosis)
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-21 03:30:24 +0000
+lastModified: 2013-06-21 03:33:45 +0000
+tags: RestrictiveDiseases, blood-gases, RespiratorySystem, ObstructiveDiseases, pathology, LungVolumes,
+Links:
+wiki: Obstructive_lung_disease
+wiki: FEV1/FVC_ratio
+ytube: BFDjhXtEpkU
+wiki: Restrictive_lung_disease
+wiki: Chronic_obstructive_pulmonary_disease
+---------------------------/>

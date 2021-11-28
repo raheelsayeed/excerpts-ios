@@ -1,0 +1,19 @@
+Nucleotides: double vs. triple bonded basepairs
+"TU bonds" (two bonds):
+T-A and U-A have Two bonds.
+G-C therefore has the three bonds.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-02-25 07:49:18 +0000
+lastModified: 2014-03-19 20:31:48 +0000
+tags: Molecular Biochemistry, Biochemistry,
+Links:
+wiki: Purine
+wiki: Guanine
+wiki: Nucleobase
+wiki: Nucleotide
+wiki: Pyrimidine
+ytube: TLRTyIuY-w8
+---------------------------/>

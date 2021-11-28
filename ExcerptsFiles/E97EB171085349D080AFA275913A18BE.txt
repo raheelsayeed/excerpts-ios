@@ -1,0 +1,12 @@
+TF/P > 3.0 @ End of PxT net Secretion PAH. 
+TF/p < 3.0 at end of PxT net Reabsorbtion
+
+= 3.0 at end of PxT: no change just concentration is increased: INULIN
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-05 18:49:55 +0000
+lastModified: 2013-06-05 19:21:14 +0000
+tags: vignette, Physiology, Kidney, UrinarySystem, RegionalTransport, inulin,
+---------------------------/>

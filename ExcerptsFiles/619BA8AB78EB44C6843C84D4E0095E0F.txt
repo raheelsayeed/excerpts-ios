@@ -1,0 +1,23 @@
+Hyaline arteriosclerosis / RDS
+- collapsed alveoli.
+- massive atelectasis (collapsed airways)
+- deficient surfactant. (decreases surface tension)
+- Collapsing pressure: 
+Causes:
+1. Prematurity (not enough surfactant) (give mammy glucocorticoids that stimulate surfactant production), thyroid hormone, prolactin.
+2. Gestational Diabetes.
+3. C-section. Stress is missing. ACTH and cortisol are not increased, no surfactant production.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-21 02:21:30 +0000
+lastModified: 2013-06-21 03:33:45 +0000
+tags: Surfactant, hyaline, RespiratorySystem, pathology, pediatric, etiology,
+Links:
+wiki: Hyaline_arteriolosclerosis
+wiki: Respiratory_distress_syndrome
+wiki: Arteriolosclerosis
+wiki: Infant_respiratory_distress_syndrome
+ytube: 1JudNLK1-Ck
+---------------------------/>

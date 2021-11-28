@@ -1,0 +1,22 @@
+Bronchiectasis:
+MostC Cystic Fibrosis cause of Bronchiectasis
+In 3rd World: TB
+Another cause: Immotile Cilia Syndrome (Kartagener's Syndrome, absent dyenine arm).
+Eponym!
+- Sinusitis
+- Bronchiectasis
+- Male / Female Infertile (sperm-tail, fallopian tube cannot carry  ovum due to absent cilia).
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-26 15:15:31 +0000
+lastModified: 2013-06-26 16:17:38 +0000
+tags: RespiratorySystem, Eponym, ObstructiveDiseases, pathology, MostCommon,
+Links:
+wiki: Cystic_fibrosis
+ytube: FMAOEOmLoUE
+wiki: Cilium
+wiki: Primary_ciliary_dyskinesia
+wiki: Bronchiectasis
+---------------------------/>

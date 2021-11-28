@@ -1,0 +1,29 @@
+Renin Angiotensin system
+Class of drugs acting on the Renin Angiotensin Aldosterone cascade.
+
+Renin--activates--> angiotensin I --ACE--> angiotensin II--adrenal cortex--> AT-1 receptor increase in Aldosterone.
+And in Blood vessel (vasoconstrictor)
+
+
+Angiotension II also constricts the efferent arteriole of glomeruli.  Thus increasing Glomerular Capillary Hydrostatic pressure to maintain normal renal function. but, AT receptors are also present in some blood vessels that cause  constrixtion and ^TPR finally increasing BPand and further Ald increasesNa and Water reabsorption in the distal tubule
+
+
+--- increasing blood pressure
+
+Aliskerin inhibits renin
+ACEI (prils) inhibit ACE
+ARB block AT-1 receptors
+Beta blocker suppress renin release
+
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-16 12:12:55 +0000
+lastModified: 2013-06-27 01:13:29 +0000
+tags: Pharmacology, Kidney, Endocrine, drug, Hormones, UrinarySystem, CVS,
+Links:
+wiki: Renin–angiotensin_system
+wiki: Angiotensin-converting_enzyme
+---------------------------/>

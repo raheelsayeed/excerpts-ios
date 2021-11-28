@@ -1,0 +1,23 @@
+Lung Volumes
+Residual Volume RV: Air volume remained in lungs after maximal respiration.
+
+FRC, Functional Residual Volume: Vol of air in lungs after Normal respiratory cycle (expiration)
+
+IC: Max inspired volume of air after normal respiration (Exp)
+
+Formulae:
+TLC = FVC + RV
+TLC = FRV + IC
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-17 21:03:06 +0000
+lastModified: 2013-06-22 02:23:04 +0000
+tags: LungVolumes, RespiratorySystem, Physiology, formulae,
+Links:
+wiki: Vital_capacity
+wiki: Functional_residual_capacity
+wiki: Lung_volumes
+wiki: Pulmonary_function_testing
+---------------------------/>

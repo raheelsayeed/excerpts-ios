@@ -1,0 +1,22 @@
+Glycolysis Carbohydrates Metabolism
+- never complete enzyme defect
+- only partial enzyme defect
+
+Usually Pyruvate Kinase. 
+PhosphoEnolPyruvate to Pyruvate
+
+2nd most common cause of 
+- Hemolytic Anemia
+- No Heinz Bodies
+- Increased 2,3 BisPhosphoGlycerate
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-16 20:42:25 +0000
+lastModified: 2013-06-16 21:52:30 +0000
+tags: vignette, Biochemistry, Enzymes, Carbohydrates, MostCommon,
+Links:
+wiki: Pyruvic_acid
+wiki: Glycolysis
+---------------------------/>

@@ -1,0 +1,80 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+
+#endif
+
+
+
+#define APP_DELEGATE ((AppDelegate *)[[UIApplication sharedApplication] delegate])
+
+
+#define isIPad (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad)
+
+
+#ifdef DEBUG
+#define DLog(fmt, ...) NSLog((@"%s (line %d) " fmt), __PRETTY_FUNCTION__, __LINE__, ##__VA_ARGS__);
+#else
+#define DLog(...)
+#endif
+
+#define kSettings_FirstSyncRound @"firstSync"
+#define kSettings_ThemeName @"themeName"
+#define KSettings_UseWifiOnly @"wifionly"
+#define kSettings_CacheLinks @"cacheLinks"
+#define kSettings_FetchNoteLinks  @"fetchNoteLinks"
+#define kSettings_DBFolderPath @"dbFolderPath"
+#define kSettings_TagOptionAllTags @"tagOptionAllTags"
+#define kSettings_DatastoreSyncEnabled @"syncEnabled"
+#define kSettings_AutoImport @"autoImport"
+#define kSettings_ActiveSearchServices @"searchServices"
+#define kSettings_EditorFontName @"editorFontName"
+#define kSettings_EditorFontFamily @"editorFontFamily"
+#define kSettings_EditorFontSize @"editorFontSize"
+#define kSettings_MainListStyle_Grid @"mainListStyleIsGrid"
+
+#define kSettings_fvc_sortingKey  @"fvc_sortKey"
+#define kSettings_fvc_selectedTagsIDs @"fvc_selectedtagsIDs"
+#define kSettings_fvc_selectedTagsOption @"fvc_selectedTagsOption"
+#define kSettings_fvc_sortAscending  @"fvc_sortAscending"
+
+#define kSettings_AutoImportFolderPath @"autoImportFolderPath"
+#define kSettings_AutoImportFilenameTag @"autoImportFilenameTag"
+#define kApp_Display_title @"Renote"
+
+
+#define iPadFactor 3.f
+#define kColor_Red_labGear [UIColor colorWithRed:0.80 green:0.34 blue:0.36 alpha:1.00]
+
+#define kColor_Tint_Default_Blue [UIColor colorWithRed:0.11 green:0.38 blue:0.94 alpha:1.00]
+#define kColor_SVT     [UIColor colorWithRed:0.435 green:0.443 blue:0.475 alpha:1.0]
+#define kColor_MainViewBG [UIColor colorWithRed:0.96 green:0.96 blue:0.96 alpha:1.00]
+#define kColor_Orange [UIColor colorWithRed:0.97 green:0.41 blue:0.05 alpha:1.00]
+#define kColor_MAinView_Dark_Background [UIColor colorWithWhite:0.19 alpha:1.0]
+#define kColor_Dark_Content_tint [UIColor colorWithRed:0.35 green:0.78 blue:0.98 alpha:1.00]
+#define kColor_Excerpt_Background_Gray [UIColor colorWithWhite:0.8 alpha:0.4]
+#define kVignetteViewBGColor kColor_MainViewBG
+//[UIColor colorWithRed:0.96 green:0.94 blue:0.92 alpha:1.00]
+
+#define kColor_WhiteButtonTint [UIColor colorWithWhite:1.0 alpha:1.0]
+#define kColor_TagText [UIColor colorWithWhite:1.f alpha:1.f] // [UIColor colorWithRed:0.0 green:122.0/255.0 blue:1.0 alpha:1.0]
+#define kColor_TagBG [UIColor clearColor]
+
+#define kColor_Main_CellText [UIColor colorWithWhite:0.3 alpha:1.f]
+
+
+#define kColor_MainViewNavColor [UIColor colorWithRed:0.35 green:0.35 blue:0.35 alpha:1.00]
+
+#define kColor_Tag_bgTint [UIColor colorWithRed:0.435 green:0.443 blue:0.475 alpha:1.0]

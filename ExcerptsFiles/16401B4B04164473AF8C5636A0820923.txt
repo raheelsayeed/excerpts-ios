@@ -1,0 +1,25 @@
+Transport of CO₂
+Patm CO₂ = < 1%
+- Solubility CO₂ (24x) >> O₂
+- 5% of total CO₂: dissolved form. (PaCO₂)
+- 5% as Carbamino compound.
+- Majority of CO₂ (90%) diffuses into RBC. Where it is converted t o HCO3- by CA enzyme. Transported as HCO3- 
+
+Release By RBC
+- HCO3- effluxes into Plasma. Load of Negative Ions
+- To create balance, chlorine influx into RBC (CHLORIDE SHIFT)
+- HYPOCHLORENEMIA: Cannot exchange chlorine for HCO3-. Backup of CO₂. (Move to left). Develops Acidosis.
+- HYPOCHLORENEMIA -> ACIDOSIS
+
+Carbamino Compounds
+- CO₂ reacts w/ terminal amino groups of proteins to form carbamino compounds
+- Usually Hb is that protein.
+- 5% 
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-20 15:23:56 +0000
+lastModified: 2013-06-20 15:51:19 +0000
+tags: vignette, blood-gases, RespiratorySystem, Physiology, acid-base, Biochemistry,
+---------------------------/>

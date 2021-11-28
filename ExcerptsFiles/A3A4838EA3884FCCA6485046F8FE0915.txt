@@ -1,0 +1,31 @@
+Acute tubular necrosis 
+- (“Coagulative” necrosis)
+- [def] acute renal failure associated with potentially reversible injury to tubular epithelium.
+- most common cause of acute renal failure.
+- oliguria, rise in BUN, creatinine
+- metabolic acidosis with Hyperkalemia.
+- pct: lead gold heavy metal absorption, ORGANIC SOLVENTS
+- loop of henle
+- Pre renal acute renal failure (ischemic)
+-  PRERENAL ARF: ratio bun/creatinine ratio up 30:1
+- (Urine) dark brown cell casts and epithelial casts
+-- ischemic, toxic
+Ischemic congestive heart failure, hypotension, shock dehydration, renal artery stenosis
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-08 14:36:40 +0000
+lastModified: 2013-06-09 01:45:33 +0000
+tags: UrinarySystem, Kidney, nephron, pathology, MostCommon,
+Links:
+wiki: Acute_tubular_necrosis
+wiki: Azotemia
+wiki: Coagulative_necrosis
+wiki: Acute_kidney_injury
+ytube: FBWVMYnaS6o
+ytube: aM2TwOiI2Y4
+ytube: ZhqrIXyM0PU
+wiki: Renal_cortical_necrosis
+wiki: BUN-to-creatinine_ratio
+---------------------------/>

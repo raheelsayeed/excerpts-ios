@@ -1,0 +1,52 @@
+Adult Respiratory Distress Syndrome
+Damage to capillary endothelial cell. fibrin leaks out and line the alveolar spaces that block gaseous exchange
+- Scar tissue is formed.
+- Fibrosis results: Restrictive lung disease.
+
+etio
+- shock
+- sepsis
+- trauma
+- gastric aspiration
+- oxygen toxicity
+- drugs
+- pulmonary infections
+
+
+Syn: difuse alveolar damange, shock lung, acute lung injury
+
+clinical: 
+- dyspnea
+- tachypnea
+- hypoxemia.
+- cyanosis
+- use of accessory respiratory muscles
+
+xray
+- bilateral lung opacity ("white lung")
+
+path:
+- gross: heavy,
+- histology: interstitial and intraalveolar edema, interstitial inflammation, loss of type 1 pneumocytes, hyaline membrane formation.
+
+hyaline membrane formation: cellular debri of dead pneumocytes + fibrin-rich edema
+
+Rx
+--
+O2, PEEP and mechanical ventilation.
+
+Prognosis: 50%.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-24 15:53:20 +0000
+lastModified: 2013-06-24 16:01:56 +0000
+tags: clinical, RespiratorySystem, hyaline, pathology, etiology, RestrictiveDiseases,
+Links:
+ytube: TJ-9vPwuVBg
+wiki: Respiratory_distress_syndrome
+ytube: aXjaxvL6y7I
+wiki: Acute_respiratory_distress_syndrome
+ytube: cVCvYxVxSt4
+---------------------------/>

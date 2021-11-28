@@ -1,0 +1,21 @@
+Acute Renal Failure
+- sudden GFR failure
+- within weeks
+- reversible loss of nephron function
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-04 16:06:07 +0000
+lastModified: 2013-06-04 16:45:06 +0000
+tags: Kidney, pathology, Failure, UrinarySystem,
+Links:
+ytube: DecCzLpjAHw
+ytube: xhZAL90UfgM
+wiki: Acute_tubular_necrosis
+wiki: Renal_cortical_necrosis
+wiki: Acute_kidney_injury
+ytube: FBWVMYnaS6o
+wiki: Chronic_kidney_disease
+wiki: Renal_failure
+---------------------------/>

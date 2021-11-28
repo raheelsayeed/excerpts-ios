@@ -1,0 +1,27 @@
+Starch metab:
+- Mouth: salivary amylase, breaks alpha, 1,4 glucose bonds
+- Stomach: no activity
+- intestine: pancreatic amylase: (breaking glu bonds)
+
+Intestine:
+- Maltose
+- Isomaltose
+- Lactose
+- Sucrose
+
+Brush border diasaccharides
+99% monosaccharides in the lumen.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-16 21:03:17 +0000
+lastModified: 2013-06-16 21:52:30 +0000
+tags: GISystem, Carbohydrates, Biochemistry,
+Links:
+wiki: Starch
+ytube: UwzTeBcMOL0
+wiki: Polysaccharide
+wiki: Fructose
+wiki: Resistant_starch
+---------------------------/>

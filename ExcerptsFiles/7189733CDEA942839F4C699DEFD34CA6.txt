@@ -1,0 +1,32 @@
+Indirect Muscurinic Drugs
+AChE Inhibitors: ↑M & ↑N action
+1. Endrophonium
+2. Physostigmine
+3. Neostigmine
+4. Pyridostigmine
+5. Donepezil (BBB+, Alzheimer's)
+6. Organophosphates (BBB+, Irreversible) [anti: Atropin +2-PAN]
+
+[v] Main uses of AChE Inhibition is for Diagnosis or Treatment of diseases that BLOCK "M" or "N" Receptors.
+↓AChE = ↑ACh-Action would remove those blockers competitively.
+Diseases like
+- Myasthenia Gravis
+- Cholinergic Crisis (↑Desensitization of N receptors): Muscle paralysis.
+- Paralytic ileus
+- Neurogenic Bladder (Urinary Retention)
+- Reversal of Depolarized Nm Blockers.
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-30 02:01:11 +0000
+lastModified: 2013-06-30 02:52:59 +0000
+tags: Pharmacology, Muscurinic, ANS, Receptors,
+Links:
+wiki: Acetylcholinesterase_inhibitor
+wiki: Physostigmine
+wiki: Neostigmine
+wiki: Pyridostigmine
+ytube: Jx6hGAnRloQ
+---------------------------/>

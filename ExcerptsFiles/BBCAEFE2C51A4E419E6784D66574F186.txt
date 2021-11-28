@@ -1,0 +1,15 @@
+After having high carb diet, all cells absorb glu at steady pace of 1mM Km.
+
+But liver and panc respond to higher glu levels and increase absorption at 15 mM.
+
+So at high Glu conc, most insulin mediated mobilisation is to Liver.
+
+In glycolysis, insulin stimulates Glucokinase that continues with G6P synthesis even if high G6P inhibits hexokinase
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-16 23:59:23 +0000
+lastModified: 2013-06-17 00:31:56 +0000
+tags: vignette, Carbohydrates, insulin, Biochemistry,
+---------------------------/>

@@ -1,0 +1,30 @@
+GASTRIC SECRETIONS
+MUCOSA:
+1. Epithelial cells secrete Viscus Thick alkaline fluid (Mucin & bicarbonate) to form a protective barrier against HCL
+2. MAKES ALKALINE FLUID. 
+3. Upper Cardiac Region & Lower Cardiac Region: Mucoid fluid
+4. Other Gastric Glands: ↓pH (Acidic = 1.0)
+
+
+[v] Stretch Makes Acid
+- Stretch-> Vagus-> ACh > GRP > Gastrin > Acid
+- PG: creates by Stretch.
+- Stretch Simultaneously makes Acid, and PG (these PG makes mucus that protect from Acid)
+
+[V]NSAIDs: ↓Mucus Production.
+ PG makes Mucus. So PG-inhibitors like NSAIDs reduce mucus.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-06 01:48:38 +0000
+lastModified: 2013-07-06 17:02:09 +0000
+tags: Physiology, GISystem, Hormones, Stomach,
+Links:
+ytube: kdpsSco1hjg
+ytube: uclH3i1tY1I
+wiki: Gastric_acid
+wiki: Regulation_of_gastric_function
+wiki: Gastrin
+wiki: Vagovagal_reflex
+---------------------------/>

@@ -1,0 +1,16 @@
+PR interval
+AV node conduction
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-10 17:01:54 +0000
+lastModified: 2012-09-10 17:06:42 +0000
+tags: CVS, Physiology, ecg,
+Links:
+ytube: Ma9zERjhumw
+wiki: Electrical_conduction_system_of_the_heart
+wiki: Electrocardiography
+wiki: PR_interval
+ytube: XWfL6k8gq60
+---------------------------/>

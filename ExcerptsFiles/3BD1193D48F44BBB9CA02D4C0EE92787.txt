@@ -1,0 +1,34 @@
+Posterior Pituitary Hormones and ADH
+- Oxytocin
+- ADH (essential)
+
+
+Osmorecep in hypohalamus: detect 1-2% changes and sends signals to Post Pit to send ADH to Kidney tubules.
+
+In pregnancy, Osmorecep get set to further down.
+More water is drunk: thats how theres increase in plasma volume.
+For pregnant women, 290 is hypertonic.
+
+Inc Osmolarity - Inc ADH, reabsorption of water and Urea
+
+Dec Osm - Dec ADH, reduced wTer reabsorption effectively promoting ADH
+
+ALCOHOL INHIBITS ADH, so more urination and hangover.
+
+Volume receptors are not as detailed. Detect variation of 20%.
+- location: atria and carotids
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-19 15:39:53 +0000
+lastModified: 2013-07-19 15:54:46 +0000
+tags: Physiology, Hormones, Endocrine, pathology, Alcohol, Receptors, Hypothalamus-pituitary,
+Links:
+ytube: w5f6OXNx9HQ
+wiki: Vasopressin
+ytube: PMrPlCDGUwo
+wiki: Supraoptic_nucleus
+wiki: Pituitary_adenylate_cyclase-activating_peptide
+wiki: Posterior_pituitary
+---------------------------/>

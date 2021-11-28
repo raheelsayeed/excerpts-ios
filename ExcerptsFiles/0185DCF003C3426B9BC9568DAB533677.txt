@@ -1,0 +1,28 @@
+Glycolysis
+Rate limiting steps
+- Hexokinase / Glucokinase (G6P)
+- Phosphofructokinase-1 (fructose1,6 bisP)
+- PhosphoFructoKinase-2 (Fr 2,6P)
+- Pyruvate Kinase (PK) Pyruvate
+
+PFK-2
+- stimulated by insulin
+- inhibited by Glucagon
+
+PFK-1
+- MORE ATP inhibits (stops glycolysis)
+- More AMP stimulated (+glucolysis)
+- Citrate inhibits
+
+PK partial enzyme defect, most common cause of hemolytic anemia
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-17 00:13:56 +0000
+lastModified: 2013-06-17 00:31:56 +0000
+tags: Enzymes, Carbohydrates, Biochemistry,
+Links:
+wiki: Anaerobic_glycolysis
+wiki: Glycolysis
+---------------------------/>

@@ -1,0 +1,15 @@
+Respiration and Acid Base
+Depth : Tidal Volume
+Rate: Shallow breathing. (.TV)
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-18 14:44:12 +0000
+lastModified: 2013-06-18 14:54:51 +0000
+tags: vignette, blood-gases, RespiratorySystem, Physiology, acid-base,
+Links:
+wiki: Carbon_dioxide
+wiki: Respiratory_alkalosis
+ytube: eK2dBdBRvCU
+---------------------------/>

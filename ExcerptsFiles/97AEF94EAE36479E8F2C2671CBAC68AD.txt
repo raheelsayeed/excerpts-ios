@@ -1,0 +1,36 @@
+Bacterial Endocarditis
+1. Vegetation of valve leaflets
+2. Viable org on leaflets
+
+Risk factors: 
+1. Rheumatic Heart disease
+2. Mitral valve prolapse
+3. Bicuspid aortic valve
+4. Degenerative calcification aortic stenosis
+5. Congenital heard diseases.
+6. Artificial valves
+7. Dental procedures
+8. Immuno suppression
+9. In dwelling catheters
+10. IV abuse
+
+Subacute: strep viridans on previously damaged valve.
+
+Acute: staph aureus, over normal valve. 
+IV drug abuse usually involving tricuspid valve.
+Fibrin, plaletes, neutrophils and lymphocytes
+Poor prognosis.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-09 00:47:45 +0000
+lastModified: 2012-09-09 00:54:16 +0000
+tags: Valves, RIskFactors, CVS, pathology,
+Links:
+wiki: Osler's_node
+wiki: Endocarditis
+wiki: Infective_endocarditis
+wiki: Splinter_hemorrhage
+wiki: Roth's_spot
+---------------------------/>

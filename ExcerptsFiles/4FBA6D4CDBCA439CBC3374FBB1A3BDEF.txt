@@ -1,0 +1,13 @@
+Carbamazepine
+stabilizes the inactivated state of Voltage-gated sodium channels, making fewer of these channels available to open
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-03-16 03:35:46 +0000
+lastModified: 2014-03-16 03:35:46 +0000
+tags: drug, CNS, NervousSystem, Pharmacology,
+Links:
+wiki: Anticonvulsant
+wiki: Carbamazepine
+---------------------------/>

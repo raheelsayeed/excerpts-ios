@@ -1,0 +1,14 @@
+Anemia (normocytic): causes
+ABCD:
+Acute blood loss
+Bone marrow failure
+Chronic disease
+Destruction (hemolysis)
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2014-03-29 05:19:42 +0000
+lastModified: 2014-03-29 05:19:42 +0000
+tags: DDx, Anemia, mnemonic, blood, mnemonic,
+---------------------------/>

@@ -1,0 +1,16 @@
+A-a gradient > 30mmHg
+high specificity.
+positive predictive value.
+A-a : 5 normally.
+
+Gradient is greater in Primary lung disease.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-21 02:07:58 +0000
+lastModified: 2013-06-21 03:33:45 +0000
+tags: blood-gases, A-agradient, RespiratorySystem, pathology,
+Links:
+wiki: Alveolar–arterial_gradient
+---------------------------/>

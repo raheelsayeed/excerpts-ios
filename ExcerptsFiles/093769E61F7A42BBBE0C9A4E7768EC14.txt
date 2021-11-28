@@ -1,0 +1,10 @@
+Chronic Myeloid Leukemia
+Initial test for CML is BCR/ABL. LAP (leukocyte alkaline phosphatase) to be DE-emphasized.  Marrow NOT needed for BCR/Abl any more
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-07-23 02:27:58 +0000
+lastModified: 2012-07-23 02:35:15 +0000
+tags: tests, CML,
+---------------------------/>

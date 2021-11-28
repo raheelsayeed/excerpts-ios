@@ -1,0 +1,22 @@
+Acid Base balance equation
+- CO2 == H' +  HCO3-
+
+Changes in PCO2 (Respiratory):
+- Hyperventilation
+  .PCO2 == .H* & .HCO3-
+  Shift to Left
+- HypoVentilation
+  ^PCO2 == ^H* & ^HCO3-
+  Shift to Right
+
+V: respiratory acidosis and alkalosis, bicarbonate DOES NOT CHANGE CONSIDERABLY
+
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-30 14:36:13 +0000
+lastModified: 2013-06-30 15:09:48 +0000
+tags: vignette, blood-gases, RespiratorySystem, Physiology, acid-base, formulae,
+---------------------------/>

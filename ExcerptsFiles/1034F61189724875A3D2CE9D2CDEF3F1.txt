@@ -1,0 +1,14 @@
+LUNG DYNAMICS
+- AIRFLOW Q inverse Pressure Inverse to Radius^4
+- Q proportional Radius
+
+INSPIRATION: radius is more, IPP more negative, Increased Flow.
+With Burst of Expiration, Flow is independent of Effort and dependent solely on Radius, which by reflex is less. And hence reduces outflow of air.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-17 19:30:46 +0000
+lastModified: 2013-06-18 14:54:51 +0000
+tags: RespiratorySystem, Physiology, formulae,
+---------------------------/>

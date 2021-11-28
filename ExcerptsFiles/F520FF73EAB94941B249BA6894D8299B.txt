@@ -1,0 +1,19 @@
+GI Structure Layers
+1. epithelium
+2. lamina Propria
+3. Muscularis mucosa (ridges)
+4. Submucosa- glands,Meissner
+5. Muscularis externa (inner circular, outer long, between=Myentric plexus
+6. Serosa (ANS)
+
+Meissner's plexus (submucosa): Enteric Nervous system, secretory activity
+
+Myenteric : Motor activity
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-07 00:54:13 +0000
+lastModified: 2013-07-07 00:54:13 +0000
+tags: GISystem, anatomy,
+---------------------------/>

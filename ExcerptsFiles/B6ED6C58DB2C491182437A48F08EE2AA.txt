@@ -1,0 +1,22 @@
+Autonomic Nervous System
+Stimulating Nn Receptor (cholinergic).
+- Stimulation of PANS (from Medulla)--> Nn
+- Stimulation of SANS (spinal cord)---> Nn
+Blocking Nn Receptor: Wipe Out all ANS responses.
+
+Clinically: Drugs at Synapse not relevant.
+Drugs of ANS are either Enhance/Depress SANS/PANS action. not either together.
+
+@EffectorCell, drug could be binding End organ ANS Receptors (Alpha, Beta receptors)
+
+Blocker = Zero efficacy.
+Blocking One branch  = Enhances/reveals other Action
+e.g. SANS Agonist = Blocking PANS
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-27 15:44:44 +0000
+lastModified: 2013-06-27 15:54:12 +0000
+tags: ANS, Pharmacology, NervousSystem,
+---------------------------/>

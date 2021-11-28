@@ -1,0 +1,21 @@
+Wolff Parkinson White syndrome
+Additional conduction pathway: 
+1. Normal slow node conduction from SV node.
+2. accessory fast fibres between the atria and ventricle.
+
+In which case, ventricles maybe depolarized even before the av node and if av has not reached refractory period, then again depolarization occurs from av node into the atria
+
+Block accessory pathway with IA and III CLASS antiArrhythmic drugs
+
+Don't slow AV conduction, or give digoxin, beta blocker, ccb, adenosin (No AV NODE CONDUCTIVE ACTION DRUGS)
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-12 03:02:09 +0000
+lastModified: 2012-09-12 03:09:27 +0000
+tags: drug, Eponym, CVS, Arrhythmia,
+Links:
+wiki: Wolff–Parkinson–White_syndrome
+wiki: Supraventricular_tachycardia
+---------------------------/>

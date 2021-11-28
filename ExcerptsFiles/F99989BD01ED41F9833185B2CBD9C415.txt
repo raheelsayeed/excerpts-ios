@@ -1,0 +1,25 @@
+A-a Gradient
+If > 30, high specificity for pathology
+
+A-a: 
+Hypoxemia due to V/Q defect or outside lungs
+- .PaCO2 (respiratory acidosis)
+
+Barbiturates: 0 gradient
+
+If A-a is normal, some pathology outside the lungs
+1. Resp center depression
+- diaphragm paralysis
+- resp airway obstruction
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-24 14:26:03 +0000
+lastModified: 2014-03-07 20:44:08 +0000
+tags: blood-gases, RespiratorySystem, pathology, ventilation-perfusion, formulae,
+Links:
+wiki: Ventilation/perfusion_ratio
+wiki: Ventilation/perfusion_scan
+wiki: Alveolar–arterial_gradient
+---------------------------/>

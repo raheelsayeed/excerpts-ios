@@ -1,0 +1,9 @@
+In Respiratory acidosis or alkalosis, the only possible compensation is by the kidneys, in which case there wil be considerable change in HCO3-.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-30 14:52:01 +0000
+lastModified: 2013-06-30 15:09:48 +0000
+tags: vignette, blood-gases, RespiratorySystem, Physiology, pathology, acid-base,
+---------------------------/>

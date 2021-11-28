@@ -1,0 +1,18 @@
+Na clearance
+Freely filtered, but 90% reabsorbed in PxT
+
+Net clearance is Negative
+
+If on ALD: more reabsorbed.
+Net clearance is low.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-05 18:16:38 +0000
+lastModified: 2013-06-05 19:21:14 +0000
+tags: Clearance, Physiology, Kidney, UrinarySystem,
+Links:
+wiki: Atrial_natriuretic_peptide
+wiki: Fractional_sodium_excretion
+---------------------------/>

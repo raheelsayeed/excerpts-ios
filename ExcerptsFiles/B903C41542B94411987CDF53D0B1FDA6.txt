@@ -1,0 +1,33 @@
+Hormone Actions and Characters
+1. Normally Hormones are Rate Limiting factors
+- Inc hormones: Inc action
+- Receptors are already high!
+- Plasma hormone level indicated the degree of activity
+
+2. Downregulagion or Receptor saturation
+- too high Hormones: Receptors involute, reduce in sensitivity.
+- abnormalities related to distal receptor action are offrn dir to high corculating hormone levels. Like in Type 2 Diabetes!
+
+3. PERMISSIVE ACTION:
+- the phenon in which one hormone must be present for another hormone to perform its action.
+Eg Cortisol permits Glucagon to promote Gluconeogenesis
+
+4. Plasma analysis
+- pulsatile secretion, Diurnal variation, cyclical, age.
+- t4: constant
+- growth hormone: diurnal, secreted in nights measured in morninh
+- testoste : age. (Sex hormones)
+
+5. urine analysis
+- Cortisol, sex hormones: When sugar coated, become unbound and get excreted
+- useful in Steroid and catecholamines
+- difference between pheochromo and panic attacks (urine xatecholamines)
+- 24 urine sample cortisol can provide an integrated base value in detecting cushings disease.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-19 15:30:27 +0000
+lastModified: 2013-07-19 15:54:46 +0000
+tags: Physiology, Types, Endocrine, Receptors,
+---------------------------/>

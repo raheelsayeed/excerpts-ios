@@ -1,0 +1,17 @@
+Andersen's disease (amylo-pectinosis)
+- Branching enzyme defect.
+- Expecting No proper glycogen storage.
+- Very few branches (peripherally)
+- Infantile Hypotonia
+- cirrhosis 
+- death by 2 years
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-27 15:14:46 +0000
+lastModified: 2013-06-27 15:22:29 +0000
+tags: 2Y, Glycogen, Enzymes, GISystem, pathology, Biochemistry,
+Links:
+wiki: Glycogen_storage_disease_type_IV
+---------------------------/>

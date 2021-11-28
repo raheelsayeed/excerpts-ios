@@ -1,0 +1,27 @@
+Class II antiArrhythmic
+Beta blockers, block sympathetic activity on the heart and thus enhance the muscurinic activity.
+
+Nonselective: propranolol
+Selective: acebutalol, esmolol
+1. Dec SA, AV node
+2. Dec slope of phase 4
+
+Use: prophylaxis post MI, NEG ionotrophy is dec o2 demand.
+Supraventricular tachycardia.
+Esmolol (IV) - acute SVT.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-11 07:31:40 +0000
+lastModified: 2012-09-11 07:31:40 +0000
+tags: drug, Pharmacology, CVS, Arrhythmia,
+Links:
+wiki: Beta_blocker
+ytube: nfyb7G_4HQ0
+wiki: Ventricular_tachycardia
+wiki: Antiarrhythmic_agent
+wiki: Propranolol
+wiki: Esmolol
+ytube: JwStcsXLc2w
+---------------------------/>

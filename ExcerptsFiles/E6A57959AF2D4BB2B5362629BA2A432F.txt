@@ -1,0 +1,27 @@
+Nephrotic Syndrome common causes
+DISC
+- Drugs penicillamine
+- i: Infection, 
+- Systemic diseases lupus, DM
+- Cancer colon, Lung
+- Genetic predisposition
+
+85% idiopathic
+
+[LM] 
+- diffuse thickening of capillary wall
+- BM Projections spike (SILVER- spike and dome appearance)
+
+Spike is the normal BM, and dome is the deposite. 
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-07 13:27:08 +0000
+lastModified: 2013-06-07 13:32:37 +0000
+tags: Kidney, UrinarySystem, pathology, radiology, mnemonic, MostCommon, Nephrotic,
+Links:
+wiki: Focal_segmental_glomerulosclerosis
+wiki: Nephrotic_syndrome
+wiki: Systemic_lupus_erythematosus
+---------------------------/>

@@ -1,0 +1,26 @@
+Methyldopa
+Alpha2 stimulation inc
+Decrease in sympathetic activity, dec Norepinephrine action.
+
+Methyldopa (+ coomb's test, autoimmune hemolysis)
+1. CNS depression, CI in pregnancy, Edema (due to increased renin angiotensin aldosterone Inc so add duretics)
+2. Tricyclics antidepressants increase NE by acting on storage vesicles, countering methyl dopa action.
+
+
+- recommended for sbp > 160
+- Mild - Moderate
+
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-16 10:44:11 +0000
+lastModified: 2012-09-16 11:32:06 +0000
+tags: Rx, drug, hypertension, Pharmacology, CVS,
+Links:
+wiki: List_of_adrenergic_drugs
+ytube: 3SV_wMUcI1Q
+wiki: Alpha-2_adrenergic_receptor
+wiki: Methyldopa
+---------------------------/>

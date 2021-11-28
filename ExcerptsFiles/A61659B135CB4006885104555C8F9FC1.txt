@@ -1,0 +1,12 @@
+Beta blockers cause hyperkalemia
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-04 02:36:01 +0000
+lastModified: 2013-06-04 02:53:05 +0000
+tags: drug, Pharmacology, potassium, Hyperkalemia, UrinarySystem,
+Links:
+wiki: Beta_blocker
+wiki: Sotalol
+---------------------------/>

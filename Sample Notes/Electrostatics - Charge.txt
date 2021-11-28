@@ -1,0 +1,13 @@
+Electrostatics - Charge 
+- charge is a property that objects have
+- objects that attract have opposite charges
+- btw, "positive" and "negative" charges are just arbitrary words. 
+- Unit: Coulomb
+
+http://youtu.be/NXMgvrS8Gr8
+
+
+@RENOTE
+---------
+tags: Sample Notes,
+- http://wikipedia.org/wiki/Coulomb's_law

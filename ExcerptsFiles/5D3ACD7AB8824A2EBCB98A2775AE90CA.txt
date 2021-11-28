@@ -1,0 +1,22 @@
+Metabolic Acid-Base Disturbance
+- Primary changing factor is H*
+- any increase or decrease in H* results in significant inversed increase or decrease in HCO3-.
+
+Excess H* Production
+- Shift to Left
+- As a result, HCO3- is consumed by H* to produce PCO2.
+- thus significant Decrease in HVO3-.
+
+Excess H* Depletion
+-  Alkalsosis
+- shift to right
+- significant Increase in HCO3-
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-30 15:09:48 +0000
+lastModified: 2013-06-30 15:09:48 +0000
+tags: vignette, blood-gases, RespiratorySystem, Physiology, acid-base,
+---------------------------/>

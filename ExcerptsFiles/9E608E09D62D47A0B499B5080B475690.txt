@@ -1,0 +1,17 @@
+Insulin and Glycogen
+Insulin {Liver, Muscle} Mobilizes Glucose into Liver via Glut4
+- Stimulates: Glycogen Synthase
+- Promotes Glycogen Formation and thus Glucose Consumption
+- Glucagon Turns OFF Glycogen Synthase (via Beta Receptor Stimulation
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-26 16:43:38 +0000
+lastModified: 2013-06-27 01:13:29 +0000
+tags: vignette, insulin, Hormones, Endocrine, Biochemistry,
+Links:
+wiki: Insulin_receptor
+wiki: Glycogen_synthase
+wiki: Insulin
+---------------------------/>

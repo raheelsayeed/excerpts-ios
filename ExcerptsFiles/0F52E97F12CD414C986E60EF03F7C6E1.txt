@@ -1,0 +1,39 @@
+THIAZIDES
+DISTAL TUBULE (Ca Relevant, PTH)
+BLOCKS: NA,CL SYMPORT (LUMINAL MEMBRANE)
+- HYPERCALCEMIA
+
+use: 
+- HTN: ATP DEPENDENT KCHANNEL OPENERS LIKE MINOXIDIL (DRUG INDUCED DIABETES, DIAZOXIDE) WORSENS DIABETIC PATIENT.
+- CHF,
+- NEPHROLITHIASIS
+- NEPHROGENIC DIAB INSIPIDUS
+
+
+Free water depends on ADH for its reabsorption. If ADH not funn tional - NDI. 
+Recombine free water with tubular Na by action on distal tubule.
+Then by action of ALD, by retention of Na, water is absorbed. 
+SUPPORTIVE EFFECT FOR NEPHROGENIC DIABETES INSIPIDHS
+
+
+S/E
+Sulfonamide drugs
+- hypokal alkalosis
+- hypercalcemia (different from loop)
+- hyperuricemia (competitive PCT)
+- hypergly, hyperlipid: atp dependent, dec insulin release.
+
+AVOID IN DIABETES MELLITUS: ACEI N ARB GOOD!
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-14 12:09:56 +0000
+lastModified: 2013-06-14 12:28:05 +0000
+tags: drug, Diuresis, Kidney, nephron, Pharmacology, UrinarySystem,
+Links:
+wiki: Thiazide
+wiki: Sodium-chloride_symporter
+wiki: Thiazide-like_diuretic
+wiki: Hydrochlorothiazide
+---------------------------/>

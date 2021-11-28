@@ -1,0 +1,11 @@
+GFR basics
+Affects renal blood flow mostly through afferent arteriole.
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-05-24 20:17:21 +0000
+lastModified: 2013-05-24 20:22:24 +0000
+tags: Physiology, GFR, Kidney, UrinarySystem,
+---------------------------/>

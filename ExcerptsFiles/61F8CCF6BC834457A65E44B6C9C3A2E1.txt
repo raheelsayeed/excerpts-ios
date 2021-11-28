@@ -1,0 +1,41 @@
+GAS EQUATION 
+ALL FACTORS THAT DETERMINE PARTIAL PRESSURE OF O₂ IN ALVEOLUS.
+
+PAO₂ = (Patm - PH20)fO₂ - PCO₂/R
+
+pH20=47
+r=gasconstant
+fO₂= FRACTION OF O₂ IN AIR
+PA02 = (760-47)0.21 - 40/0.8
+PAO₂ = 100mmHG
+AT SEALEVEL THE PAO₂ = 100mmHg
+
+Patm and FO₂ most important factors.that affect PAO₂
+.Patm = high altitude
+.F02 = reduced fraction O₂
+.Patm & .FO₂ = .PAO₂
+By extension, .PAO₂ = .PaO₂
+
+
+PiO₂ = (Patm - PH20)fO₂
+pH20: constant of water vapour in conducting zone.
+
+lung's two zones: conducting and respiratory zone.
+PAO₂ formula is in the respiratory zone. (Alveolus only)
+Conducting zone: PiO₂ = (Patm - PH20)fO₂.
+
+THUS: PAO₂= PiO₂ - PCO₂/R
+if R=1, PAO₂ = PiO₂ - pCO₂.
+For the purposes of simplifying, R=1. Actual value R=0.8
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-18 14:47:53 +0000
+lastModified: 2013-06-18 14:54:51 +0000
+tags: vignette, blood-gases, RespiratorySystem, Physiology,
+Links:
+wiki: Alveolar_gas_equation
+wiki: Ideal_gas_law
+---------------------------/>

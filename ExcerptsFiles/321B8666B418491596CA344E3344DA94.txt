@@ -1,0 +1,16 @@
+ST Elevation = Transmural ischemia
+In vasospasm, the whole heart muscle is affected.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-03 23:45:00 +0000
+lastModified: 2012-09-04 04:29:39 +0000
+tags: pathology, CVS, Ischemia, ecg,
+Links:
+ytube: mDsToHbe3sQ
+ytube: igZoS8KyZCM
+wiki: ST_depression
+wiki: ST_elevation
+wiki: ST_segment
+---------------------------/>

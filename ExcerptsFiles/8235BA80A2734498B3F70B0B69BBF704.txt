@@ -1,0 +1,44 @@
+Acute Gastric Infections
+HYPERTROPHIC GASTROPATHY
+INC IN GASTRIC RUGAL FOLDS
+- cerebroform appearance
+1. menetrier disease
+Sym: diarrhea, peripheral edema.
+- gross enlarged rugal folds
+- dec acid production
+- protein loosing enteropathy
+- gastric enteropathy
+- inc risk of cancer gastric
+- LM: profound hyperplasia of mucous cells with glandulary atrophy
+
+
+2. ZE syndrome
+- mass in pancreae
+- Inc secretion of gastrin
+- inc secretion of acid
+- inc ulcers, hyperacidity
+- MULTIPLE INTRACTABLE PEPTIC ULCERS.
+- in p.gastrin, mass in pancreas
+
+3. Stress ulcers
+- burns, trauma
+- superficial: mucosa and submucosa involved, treatable.
+- sec to burns, trauma: CURLING ULCERS
+- INC ICP: CUSHING ULCERS
+
+4. Acute Hemorrhagic gastritis
+- KEY: ALCOHOL, NSAID, ASPIRIN
+- NEUTROPHIL RELEASE ENZYMES CAUSING HEMORRHAGE
+- UPPER GI BLEEDING
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-13 01:55:18 +0000
+lastModified: 2013-07-13 02:17:26 +0000
+tags: infections, GISystem, pathology, microscopy,
+Links:
+wiki: Ménétrier's_disease
+wiki: Zollinger–Ellison_syndrome
+wiki: Gastritis
+---------------------------/>

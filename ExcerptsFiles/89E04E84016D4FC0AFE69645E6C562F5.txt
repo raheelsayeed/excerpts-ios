@@ -1,0 +1,20 @@
+Prostacyclin
+PGI-2 
+Administered via infusion pump
+Use: Pulmonary hypertension
+
+"Prost" is CI in pregnancy.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2012-09-17 00:30:56 +0000
+lastModified: 2012-09-17 01:01:59 +0000
+tags: Pulmonary, drug, hypertension, Pharmacology, CVS,
+Links:
+wiki: Prostacyclin_receptor
+wiki: Prostacyclin
+ytube: UsfMu5e0rzY
+wiki: Prostacyclin_synthase
+wiki: Pulmonary_hypertension
+---------------------------/>

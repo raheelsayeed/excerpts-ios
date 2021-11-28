@@ -1,0 +1,20 @@
+HMG CoA Reductase - Cholesterol Synthesis
+HMG COAREDUCTASE IS STRONGLY REGULATED BY
+1. Cholesterol : -
+2. Glucagon: -
+3. insulin: +
+Both at genetic level.
+
+All statin drugs are analogous drugs to HMGcoAreductase
+
+Side effects are due to decreased FarnesylCoA
+- it is required for CoQ production, required in ETC in liver and muscles
+- therefore: s/e: Muscle pain, cramps.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-15 20:07:09 +0000
+lastModified: 2013-07-15 20:55:30 +0000
+tags: Pharmacology, Enzymes, GISystem, Lipids, Biochemistry,
+---------------------------/>

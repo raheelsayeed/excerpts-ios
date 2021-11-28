@@ -1,0 +1,34 @@
+Triglyceride mobilization in starvation state
+Adipocytes:
+TG --{hormone sensitive lipase}-- FA + Glycerol
+- h-sen-lipase is activated by phosphorylation in starvation states by
+1. dec Insulin (starvation)
+2. Inc Epinephrine (exercise)
+3. Inc Cortisol
+
+FA-alb and Glycerol enter liver
+
+Glycerol enters the pathway of Gluconeogenesis
+This is upregulated by 
+- glucagon
+- cortisol
+
+FA in Liver - Beta Oxidation : AcetylCoA
+
+- Beta-Oxydation provides energy for Gluconeogenesis.
+- AcetylCoA promotes Gluconeogenesis
+- AcetylCoA  used further for
+  - ketogenesis
+  - Kreb cycle
+ 
+
+
+
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-07-15 20:12:12 +0000
+lastModified: 2013-07-15 20:55:30 +0000
+tags: insulin, Lipids, Enzymes, GISystem, Hormones, Biochemistry,
+---------------------------/>

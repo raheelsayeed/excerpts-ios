@@ -1,0 +1,13 @@
+If two much fluid enters loop of henle, cannot maintain gradient, then ADH is unaffective in forming a concentrated urine.
+
+If PxT not reabsorbed, overload LoH. ADH ineffective.
+
+In Uncontrolled Diabetic, Glu is not fully reabsorbed, plus water and additional electrolytes remain in tubules and overwhelm the LoH, and cannot form concentrated urine even if theres higher level of ADH.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-04 01:30:12 +0000
+lastModified: 2014-02-25 07:39:30 +0000
+tags: nephron, Kidney, Physiology, Endocrine, UrinarySystem, diabetes, pathology, vignette,
+---------------------------/>

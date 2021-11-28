@@ -1,0 +1,18 @@
+EXPIRATION FORCE
+relaxing the diaphragm, loose volume, Pressure is UP!
+- IPP: increases, reverts back to -5 from -8
+- Recoil force: +8 collapse +5
+- Pa: Alveolar collapses: Pressure is UP: +1 (more than Patm).
+- Air is expelled.
+- As air leaves, pressure is reverted back to zero.
+
+<!---------------------------
+Excerpts v1.0
+---------
+created: 2013-06-17 18:25:49 +0000
+lastModified: 2013-06-18 14:54:51 +0000
+tags: Physiology, RespiratorySystem, pressures, ObstructiveDiseases,
+Links:
+wiki: Intrapleural_pressure
+wiki: Alveolar_pressure
+---------------------------/>
